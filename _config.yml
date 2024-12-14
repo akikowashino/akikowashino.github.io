@@ -1,0 +1,9 @@
+theme: minimal
+markdown: kramdown
+css: assets/css/style.css
+title: My Minimal Site
+description: A simple site using the Minimal Jekyll theme
+
+
+
+
