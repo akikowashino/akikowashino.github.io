@@ -1,0 +1,11 @@
+<div id="footer_wrap" class="outer">
+    <footer class="inner">
+        {% if page.lang == "jp" %}
+            <p>最終更新日: {{ site.last_updated_jp }}</p>
+        {% elsif page.lang == "en" %}
+            <p>Last updated: {{ site.last_updated_en }}</p>
+        {% else %}
+            <p>Last updated: {{ site.last_updated_en }}</p> <!-- Default to English -->
+        {% endif %}
+    </footer>
+</div>

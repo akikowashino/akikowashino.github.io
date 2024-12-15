@@ -1,9 +1,7 @@
-theme: minima
+name_en: Akiko Washino
+name_jp: 鷲野 彰子
+last_updated_en: 15 December 2024
+last_updated_jp: 令和6年12月15日
 markdown: kramdown
-css: assets/css/style.css
-title: Akiko Washino
-description: "Updated: December 15, 2024."
-
-
 
 

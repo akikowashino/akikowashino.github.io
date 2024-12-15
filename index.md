@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Home
+layout: default
+lang: jp
 ---
 
 # 経歴

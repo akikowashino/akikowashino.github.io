@@ -1,0 +1,56 @@
+
+<style>
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+
+header.inner {
+	width: 100%;
+	padding: 1em;
+	background-color: black;
+	color: white;
+}
+
+#project_title {
+	display: flex;
+	flex-wrap: wrap;  /* Allow wrapping */
+	justify-content: space-between; /* Spread links evenly */
+	align-items: center;
+}
+
+
+#project_title a {
+	margin-left: 1em;
+	color: wheat;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+
+#project_title a.en::before {
+	content: "[";
+}
+
+
+#project_title a.en::after {
+	content: "]";
+}
+
+
+#project_title a:hover {
+	text-decoration: underline; /* Optional hover effect */
+}
+
+
+</style>
