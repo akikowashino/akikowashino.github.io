@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-# Welcome to My Site
 
 # 経歴
 * 2017年4月 - 現在　福岡県立大学, 人間社会学研究科, 准教授 
