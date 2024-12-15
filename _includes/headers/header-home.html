@@ -1,11 +1,11 @@
 <header class="inner">
     <h1 id="project_title">
         {% if page.lang == "en" %}
-            {{ site.name_en }}
+            <div class="en" id="goto_homepage">{{ site.name_en }}</div>
             <a class="en" href="/perf/index-en.html">Performance&nbsp;analysis</a>
             <a class="jp" href="index.html">日本語</a>
         {% else %}
-            {{ site.name_jp }}
+            <div class="jp" id="goto_homepage">{{ site.name_jp }}</div>
             <a class="jp" href="/perf/index.html">演奏分析</a>
             <a class="en" href="index-en.html">English</a>
         {% endif %}

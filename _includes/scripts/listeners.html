@@ -1,0 +1,27 @@
+
+
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+	let element = document.querySelector("#goto_homepage");
+	if (!element) {
+		return;
+	}
+	let pathname = window.location.pathname;
+	if (pathname === "/") {
+		return;
+	}
+	if (pathname === "/index-en.html") {
+		return;
+	}
+	element.addEventListener("click", function() {
+    		window.location.href = "/";
+	});
+	element.style.cursor = "pointer";
+});
+
+
+</script>
+
+
