@@ -62,9 +62,10 @@ lang: en
 * Book Review: *The Legend of Constanze Mozart: Fact or Fiction* (Masayasu Komiya), Weekly Book Review, May 2017.
 
 # Research Projects & Grants
-* "Analysis of Rubato Performance Techniques through Piano Rolls and Historical Performances of the Early 20th Century," Japan Society for the Promotion of Science, 2022-2027.
-* "Prelude Performance in 19th-Century Musical Culture," Japan Society for the Promotion of Science, 2019-2022.
-* "Quantitative Analysis of Waltz Performances Using Piano Rolls," Young Researchers’ Grant, 2015-2018.
+* "Analysis of Rubato Performance Techniques through Piano Rolls and Historical Performances of the Early 20th Century," Japan Society for the Promotion of Science(JSPS), 2022-2027.
+* "Prelude Performance in 19th-Century Musical Culture," Japan Society for the Promotion of Science(JSPS), 2019-2022.
+* "Analyzing 'Preluding' in Early Recordings and Musical Scores: The Role of Preludes in 19th-Century Performance Practices," Kao Foundation for Arts and Sciences, Grant for Research in Music under the Arts and Culture Division, 2019-2020.
+* "Quantitative Analysis of Waltz Performances Using Piano Rolls," Japan Society for the Promotion of Science(JSPS), Young Researchers’ Grant, 2015-2018.
 * "Analyzing Rubato through Piano Rolls," Kawai Sound Technology Foundation, 2016-2017.
-
+* "Tracing 19th-Century Performance Practices Through Recordings," Japan Society for the Promotion of Science(JSPS),Young Researchers’ Grant, 2013-2015.
 
