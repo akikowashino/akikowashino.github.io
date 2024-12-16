@@ -51,6 +51,8 @@ lang: jp
 "The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played", The Element of dance in music of the first half of the nineteenth century, 2023, 179-203, 2023年.
 * 鷲野彰子<br>
 「同一演奏家が同一曲を演奏する際の演奏速度の親近性: ローゼンタールとホフマンによるショパン《ワルツOp.42》の複数録音の演奏比較」阪大音楽学報, 15, 51-82, 2018年.
+* 鷲野彰子, 櫻井国芳<br>
+「幼児の表現活動における音楽「教材」と造形「教材」に関する研究ノート」福岡県立大学人間社会学部紀要, 26(2), 139-150, 2018年2月.
 * 鷲野彰子, Craig Stuart Sapp<br>
 「演奏分析資料としてのピアノロール」福岡県立大学人間社会学部紀要, 26(1), 27-48, 2017年9月.
 * 鷲野彰子<br>
