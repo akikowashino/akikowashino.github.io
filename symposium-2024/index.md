@@ -5,13 +5,17 @@ lang: jp
 ---
 
 
+###  **シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」**<br>
 
-# イベント
-* **シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」**<br>
+<a target="_blank" href="https://github.com/user-attachments/files/18140531/_.20241208.pdf"><img src="https://github.com/user-attachments/assets/b5dad13c-4b92-4daa-b462-930c34729a50" alt="Symposium 2024 cover" style="float:right; width:250px; border:1px solid black;"></a>
+
 日時：2024年12月8日（日）12:00開始（18:00頃　終了予定）<br>
 会場：中之島芸術センター「スタジオ」（大阪大学中之島センター3階）<br>
       〒530-0005　大阪市北区中之島4丁目3-53<br>
 言語：日本語・英語<br>
+
+
+<div style="padding-top:40px; padding-left: 20px">
 
 第1部：演奏解析ツール開発の現在<br>
 Yucong Jiang（University of Richmond, Computer Science）<br>
@@ -41,8 +45,8 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 助成：日本音楽学会　協力：大阪大学音楽学研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 
+</div>
 
-<a target="_blank" href="https://github.com/user-attachments/files/18140531/_.20241208.pdf"><img src="https://github.com/user-attachments/assets/b5dad13c-4b92-4daa-b462-930c34729a50" alt="Symposium 2024 cover" style="width:250px; border:1px solid black;"></a>
 
 
 
