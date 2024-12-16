@@ -75,9 +75,13 @@ lang: en
 * Akiko Washino, “The Creation and Structure of Voříšek’s Sonata Op. 20 (1820–24),” 8th Annual Conference of the Japanese Society for Music Expression Studies, June 13, 2010.
 
 # Magazines & Web Journals
-* Special Feature "Glenn Gould's 30 Years: The Creative Trail of ‘Recording’ 1952-1982," Record Art, November 2022 Issue.
-* Record Story No. 52: "J. Hofmann’s The Golden Jubilee Concert," Record Art, April 2022 Issue.
-* "The First Chopin International Competition for Period Instruments," Musica Nova, December 2018 Issue.
+* Special Feature "Glenn Gould's 30 Years: The Creative Trail of ‘Recording’ 1952-1982," Record Art, 49, 51, 54 and 57, November 2022 Issue.
+* Record Story No. 52: "J. Hofmann’s The Golden Jubilee Concert," Record Art, 64-68, April 2022 Issue.
+* "The First Chopin International Competition for Period Instruments," Musica Nova, 35-36, December 2018 Issue.
+* "Performance Analysis," Music Friends (South Korea), 117, 26–29, May 2017 Issue.
+* "Los Angeles: Nethercutt Collection and El Capitan Theatre," Music Friends (South Korea), 116, 25-31, April 2017 Issue.
+* "CCRMA and CCARH," Music Friends (South Korea), 115, 24–29, March 2017 Issue.
+* "Scenic Silicon Valley," Music Friends (South Korea), 114, 25–29, February 2017 Issue.
 
 # Book Reviews & Newspaper Articles
 * Newspaper Article: "Vast Collection of Phonographs and SP Records," Osaka Daily News, June 21, 2022.
