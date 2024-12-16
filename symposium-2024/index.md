@@ -17,7 +17,7 @@ lang: jp
 
 <div style="padding-top:40px; padding-left: 20px">
 
-第1部：演奏解析ツール開発の現在<br>
+**第1部：演奏解析ツール開発の現在**<br>
 Yucong Jiang（University of Richmond, Computer Science）<br>
  「パフォーマンス・プレシジョン：コンピュータ支援による音楽パフォーマンスの注釈と分析」<br>
 印藤海翔, 山本邦雄, 尾下真樹（九州工業大学　メディア情報学）<br>
@@ -29,7 +29,7 @@ Yucong Jiang（University of Richmond, Computer Science）<br>
 Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
  「ショパンのマズルカにおける２拍子」<br>
 
-第２部：演奏解析で読み解くテンポ・ルバートの実践分析<br>
+**第２部：演奏解析で読み解くテンポ・ルバートの実践分析**<br>
 高橋舞（日本学術振興会　音楽学）<br>
  「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」<br>
 上田泰史（京都大学　音楽学）<br>
@@ -39,6 +39,7 @@ Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
 Hermann Gottschewski（東京大学　音楽学）<br>
  「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」<br>
 
+**第３部:ディスカッション**<br>
 コメンテーター　伊東信宏（大阪大学）
 
 主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」（2022～2026年度、研究代表者：鷲野彰子）<br>
