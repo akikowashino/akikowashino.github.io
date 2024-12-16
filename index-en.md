@@ -4,6 +4,8 @@ layout: default
 lang: en
 ---
 
+{% include_relative news-en.html %}
+
 # Career
 * April 2017 - Present: Associate Professor, Graduate School of Human and Social Sciences, Fukuoka Prefectural University
 * October 2016 - Present: Associate Professor, Department of Human Formation, Faculty of Human and Social Sciences, Fukuoka Prefectural University
