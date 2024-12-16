@@ -107,6 +107,53 @@ lang: en
 * "Comparing Scores of Chopin’s Waltz Op. 34-1," Music Friends (South Korea), 91, 20–24, March 2015 Issue.
 * "Art Rooted in the Land," Music Friends (South Korea), 90, 20–24, February 2015 Issue.
 * "Magical Elements and Illusions," Music Friends (South Korea), 89, 20–24, January 2015 Issue.
+* "Practice," Music Friends (South Korea), 88, 20–23, December 2014 Issue.
+* "Timing," Music Friends (South Korea), 87, 18–22, November 2014 Issue.
+* "Refined Works and Their Creators," Music Friends (South Korea), 86, 18–22, October 2014 Issue.
+* "19th-Century Pianists Who Did Not Play Chords Simultaneously," Music Friends (South Korea), 85, 18–22, September 2014 Issue.
+* "Anseong Namsadang," Music Friends (South Korea), 84, 18–22, August 2014 Issue.
+* "Czech Composer Jan Václav Voříšek," Music Friends (South Korea), 83, 18–22, July 2014 Issue.
+* "Why Are There Multiple Editions of the Same Piece?" Music Friends (South Korea), 82, 18–22, June 2014 Issue.
+* "Jewish Musicians in the 19th Century," Music Friends (South Korea), 81, 18–22, May 2014 Issue.
+* "Musicians and Salons," Music Friends (South Korea), 80, 18–22, April 2014 Issue.
+* "Performances from 100 Years Ago," Music Friends (South Korea), 79, 18–22, March 2014 Issue.
+* "Choosing Educational Materials: Czerny's Etudes," Music Friends (South Korea), 78, 18–22, February 2014 Issue.
+* "La Valse: The Phantom Ballet 'Vienna'," Music Friends (South Korea), 77, 18–22, January 2014 Issue.
+* "Chamber Music," Music Friends (South Korea), 76, 18–22, December 2013 Issue.
+* "The Voices of Composers," Music Friends (South Korea), 75, 18–22, November 2013 Issue.
+* "Professor Detlef Kraus," Music Friends (South Korea), 74, 18–22, October 2013 Issue.
+* "The Existence of Discrepancies," Music Friends (South Korea), 73, 18–22, September 2013 Issue.
+* "Waiting and Rests," Music Friends (South Korea), 72, 18–22, August 2013 Issue.
+* "Player Pianos," Music Friends (South Korea), 71, 17–21, July 2013 Issue.
+* "Perspectives from Fortepiano Performances," Music Friends (South Korea), 70, 17–22, June 2013 Issue.
+* "The Modern Fortepiano Maker: An Interview with Robert Brown on Instrument Making," Music Friends (South Korea), 69, 17–21, May 2013 Issue.
+* "The Introduction of a New Instrument to Vienna's Musical Scene: A Study of Moscheles' 1823 Concert," Music Friends (South Korea), 68, 16–21, April 2013 Issue.
+* "Playing the Fortepiano," Music Friends (South Korea), 67, 17–21, March 2013 Issue.
+* "University Admissions for Music Majors," Music Friends (South Korea), 66, 18–21, February 2013 Issue.
+* "The Joy of Listening," Music Friends (South Korea), 65, 18–21, January 2013 Issue.
+* "Repetition and Recurrence," Music Friends (South Korea), 64, 18–21, December 2012 Issue.
+* "The Material of Sound," Music Friends (South Korea), 63, 17–21, November 2012 Issue.
+* "Why Is It So Difficult to Use the Pedal Correctly?" Musica Nova, 84–85, November 2012 Issue.
+* "Schoenberg," Music Friends (South Korea), 62, 16–21, October 2012 Issue.
+* "Lessons from My Time Studying in America," Music Friends (South Korea), 61, 18–21, September 2012 Issue.
+* "The Techniques of Performance," Music Friends (South Korea), 60, 16–19, August 2012 Issue.
+* "Work Analysis," Music Friends (South Korea), 59, 16–20, July 2012 Issue.
+* "Memorization, Sheet Music, and Page Turning," Music Friends (South Korea), 58, 16–19, June 2012 Issue.
+* "The Space of Performance," Music Friends (South Korea), 57, 16–19, May 2012 Issue.
+* "Tradition: The Inheritance of Performance Styles," Music Friends (South Korea), 56, 16–19, April 2012 Issue.
+* "Mozart," Music Friends (South Korea), 55, 16–19, March 2012 Issue.
+* "Teachers," Music Friends (South Korea), 54, 16–19, February 2012 Issue.
+* "Pedals," Music Friends (South Korea), 53, 16–19, January 2012 Issue.
+* "Slurs," Music Friends (South Korea), 52, 16–19, December 2011 Issue.
+* "Esterháza," Music Friends (South Korea), 51, 16–19, November 2011 Issue.
+* "Fingerings," Music Friends (South Korea), 50, 18–21, October 2011 Issue.
+* "The Clavichord," Music Friends (South Korea), 49, 20–22, September 2011 Issue.
+* "Cadences," Music Friends (South Korea), 48, 18–20, August 2011 Issue.
+* "Listening and Playing," Music Friends (South Korea), 47, 20–21, July 2011 Issue.
+* "The Appeal of Duets," Music Friends (South Korea), 46, 18–19, June 2011 Issue.
+* "Composing: Lessons from the Movie Amadeus," Music Friends (South Korea), 45, 18–19, May 2011 Issue.
+* "From Europe," Music Friends (South Korea), 44, 17–19, April 2011 Issue.
+* "Understanding Music," Music Friends (South Korea), 43, 18–19, March 2011 Issue.
 
 # Book Reviews & Newspaper Articles
 * Newspaper Article: "Vast Collection of Phonographs and SP Records," Osaka Daily News, June 21, 2022.
