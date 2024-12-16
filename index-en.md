@@ -60,6 +60,9 @@ lang: en
 * Book Review: *The Young Violinist on the Titanic* (Christopher Ward), Weekly Book Review, January 2020.
 * Book Review: *Vienna Philharmonic Concertmaster's Backstage Story* (Werner Hink), Weekly Book Review, February 2018.
 * Book Review: *The Legend of Constanze Mozart: Fact or Fiction* (Masayasu Komiya), Weekly Book Review, May 2017.
+* Book Review: *The Resonance of the Left Hand on the Piano* (Takeshi Sano), Weekly Book Review, April 2016.
+* Newspaper Article: "The MIN-ON Music Museum West Japan Branch," Osaka Daily News, September 9, 2015.
+* Book Review: *Schumann’s Marriage: The Untold Truth* (Piet Waakey Eijsten, trans. Misaki Kazama), Weekly Book Review, June 2015.
 
 # Research Projects & Grants
 * "Analysis of Rubato Performance Techniques through Piano Rolls and Historical Performances of the Early 20th Century," Japan Society for the Promotion of Science(JSPS), 2022-2027.
