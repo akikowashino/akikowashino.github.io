@@ -42,6 +42,12 @@ lang: en
 * Akiko Washino, "Performance Analysis through Quantitative Study of Piano Rolls: Chopin's Waltz Op. 42," Doctoral Dissertation, 1-180, March 2017.
 * Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 2)," Osaka University Musicological Journal, 14, 1-33, December 2016.
 * Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 1)," Philocalia, 33, 27-58, March 2016.
+* Akiko Washino, "An Attempt at Data Analysis of Piano Rolls: Focusing on the Waltz Rhythms in Paderewski’s Performance of Chopin’s Waltz Op. 34-1," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 24(1), 55–71, September 2015.
+* Hiromi Nakato, Akiko Washino, "Challenges and Methods in Pre-Internship Education: Based on Students’ Understanding of Environmental Structure," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 24(1), 17–31, September 2015.
+* Akiko Washino, "Brahms and the Arpeggio: Interpreting the Significance of Arpeggios in Performances from His Time—Both Reflected and Not Reflected in the Scores," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 22(2), 77–102, January 2014.
+* Akiko Washino, “What Kind of Performance Did Brahms Imagine for Op.117-1? Understanding the Expressive Potential of 'Discrepancies',” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 22(1), 55–67, July 2013.
+* Akiko Washino, “Rethinking the ‘Correct’ Way to Read a Musical Score,” Shunju, 525, 19–21, January 2011.
+
 
 # Presentations
 * Akiko Washino, "Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances," Symposium "Reading Performances: Tools and Analyses of Tempo Rubato Practices," December 8, 2024.
