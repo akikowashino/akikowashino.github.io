@@ -11,7 +11,7 @@ lang: en
 <ul>
 
 <li>
-<a href="/symposium-2024"><b>Symposium: Analysing Interpretations: Performance Analysis Tools and Analyses of Tempo Rubato</b>」</a>
+<a href="/symposium-2024"><b>Symposium: Analysing Interpretations: Performance Analysis Tools and Analyses of Tempo Rubato</b></a>
 </li>
 
 </ul>
