@@ -11,12 +11,10 @@ lang: en
 <ul>
 
 <li>
-<a href="/symposium-2024"><b>シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析</b>」</a>
+<a href="/symposium-2024"><b>Symposium: Analysing Interpretations: Performance Analysis Tools and Analyses of Tempo Rubato</b>」</a>
 </li>
 
 </ul>
-
-
 
 ## Software tools
 
