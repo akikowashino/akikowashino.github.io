@@ -76,7 +76,7 @@ lang: jp
 
 # 研究発表
 * 鷲野彰子,
-  フランシス・プランテ（Francis Planté, 1839–1934）の演奏に具現化されたショパンのテンポ・ルバート, シンポジウム「演奏を読む:演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」, 2024年12月8日.
+  フランシス・プランテ（Francis Planté, 1839–1934）の演奏に具現化されたショパンのテンポ・ルバート, シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」, 2024年12月8日.
 * Akiko Washino, Craig Stuart Sapp,
   Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz op. 42 (Duo-Art 6401-6) , 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, 2024年7月27日.
 * 鷲野彰子,
