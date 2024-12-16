@@ -82,6 +82,31 @@ lang: en
 * "Los Angeles: Nethercutt Collection and El Capitan Theatre," Music Friends (South Korea), 116, 25-31, April 2017 Issue.
 * "CCRMA and CCARH," Music Friends (South Korea), 115, 24–29, March 2017 Issue.
 * "Scenic Silicon Valley," Music Friends (South Korea), 114, 25–29, February 2017 Issue.
+* “Stanford University Music Library (2): Archive of Recorded Sound,” Music Friends (South Korea), 113, 26–31, January 2017 Issue.
+* "Stanford University Music Library (1)," Music Friends (South Korea), 112, 23–28, December 2016 Issue.
+* "Two Versions of ‘The Merry Widow’ at the Stanford Theatre," Music Friends (South Korea), 111, 23–28, November 2016 Issue.
+* "AMICA," Music Friends (South Korea), 110, 23–28, October 2016 Issue.
+* "Summer in Stanford (2): Beethoven Center in San Jose," Music Friends (South Korea), 109, 22–28, September 2016 Issue.
+* "Summer in Stanford (1): San Francisco," Music Friends (South Korea), 108, 22–27, August 2016 Issue.
+* "Early Music Societies and Festivals in America," Music Friends (South Korea), 107, 20–24, July 2016 Issue.
+* "Teaching Methods in Performance Classes," Music Friends (South Korea), 106, 20–23, June 2016 Issue.
+* "Living in Stanford: Stanford University," Music Friends (South Korea), 105, 20–23, May 2016 Issue.
+* "New Perspectives," Music Friends (South Korea), 104, 20–23, April 2016 Issue.
+* "Music Education for Children (2): How to Teach," Music Friends (South Korea), 103, 20–24, March 2016 Issue.
+* "Music Education for Children (1): What to Teach," Music Friends (South Korea), 102, 20–25, February 2016 Issue.
+* "Albert Lotto, the Pianist," Music Friends (South Korea), 101, 20–24, January 2016 Issue.
+* "Musical Instrument Museums," Music Friends (South Korea), 100, 20–24, December 2015 Issue.
+* "Technology," Music Friends (South Korea), 99, 20–24, November 2015 Issue.
+* "Professor Malcolm Bilson," Music Friends (South Korea), 98, 20–24, October 2015 Issue.
+* "The ‘Singing Style’ of Melodies in Chopin’s Nocturnes," Music Friends (South Korea), 97, 20–24, September 2015 Issue.
+* "Composers as Performers of Their Own Works," Music Friends (South Korea), 96, 20–24, August 2015 Issue.
+* "The Real Schumann," Music Friends (South Korea), 95, 20–24, July 2015 Issue.
+* "How to Play Trills?" Music Friends (South Korea), 94, 20–24, June 2015 Issue.
+* "Another Chopin Waltz Op. 34-1: Exploring Chopin’s Compositional Process Through Two Scores," Music Friends (South Korea), 93, 20–24, May 2015 Issue.
+* "Analysis of Chopin’s Waltz Op. 34-1," Music Friends (South Korea), 92, 20–24, April 2015 Issue.
+* "Comparing Scores of Chopin’s Waltz Op. 34-1," Music Friends (South Korea), 91, 20–24, March 2015 Issue.
+* "Art Rooted in the Land," Music Friends (South Korea), 90, 20–24, February 2015 Issue.
+* "Magical Elements and Illusions," Music Friends (South Korea), 89, 20–24, January 2015 Issue.
 
 # Book Reviews & Newspaper Articles
 * Newspaper Article: "Vast Collection of Phonographs and SP Records," Osaka Daily News, June 21, 2022.
