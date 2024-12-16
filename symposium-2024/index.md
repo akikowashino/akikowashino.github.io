@@ -28,7 +28,7 @@ Yucong Jiang（University of Richmond, Computer Science）<br>
  「楽器演奏における個人特徴の統計的モデル化技術の概要と応用」<br>
 Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
  「ショパンのマズルカにおける２拍子」<br>
-
+<br>
 第２部：演奏解析で読み解くテンポ・ルバートの実践分析<br>
 高橋舞（日本学術振興会　音楽学）<br>
  「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」<br>
