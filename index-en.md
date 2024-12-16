@@ -35,9 +35,11 @@ lang: en
 
 # Publications
 * Akiko Washino, Craig Stuart Sapp, "Josef Hofmann (1876-1957) Piano Roll Editing: Analysis of Editorial Traces in Duo-Art (No.6401-6)," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 1-21, March 2024.
+* Akiko Washino, “Differences in Notation Between the Special Support Textbook Ongaku☆ (Hoshimoto) and Elementary School Music Textbooks,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 55–64, March 2024.
 * Akiko Washino, "Improvised Prelude Performances by Wilhelm Backhaus," Journal of Music Expression Studies, 21, 1-20, November 2023.
 * Akiko Washino, "Improvised Prelude Performances of Josef Hofmann (1876-1957)," Osaka University Musicological Journal, 19, 47-73, March 2023.
 * Akiko Washino, "The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, Score Notations, and Interpretive Directions," Dance Elements in Music of the Early 19th Century, 2023, 179-203.
+* Akiko Washino, Kuniyoshi Sakurai, “Research Notes on Music and Art ‘Teaching Materials’ in Expressive Activities of Young Children,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 139–150, February 2018.
 * Akiko Washino, Craig Stuart Sapp, "Piano Rolls as Performance Analysis Resources," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(1), 27-48, September 2017.
 * Akiko Washino, "Performance Analysis through Quantitative Study of Piano Rolls: Chopin's Waltz Op. 42," Doctoral Dissertation, 1-180, March 2017.
 * Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 2)," Osaka University Musicological Journal, 14, 1-33, December 2016.
