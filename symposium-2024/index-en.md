@@ -16,30 +16,45 @@ lang: en
 
 <div style="padding-top:40px; padding-left: 20px">
 
-第1部：演奏解析ツール開発の現在<br>
-Yucong Jiang（University of Richmond, Computer Science）<br>
- 「パフォーマンス・プレシジョン：コンピュータ支援による音楽パフォーマンスの注釈と分析」<br>
-印藤海翔, 山本邦雄, 尾下真樹（九州工業大学　メディア情報学）<br>
- 「演奏速度のずれを活用したピアノ演奏の比較分析補助ツールの開発」<br>
-中村栄太（九州大学　音楽情報処理）<br>
- 「ピアノ演奏分析のための自動採譜とアライメント」<br>
-奥村健太（名古屋国際工科専門職大学　情報工学）<br>
- 「楽器演奏における個人特徴の統計的モデル化技術の概要と応用」<br>
-Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
- 「ショパンのマズルカにおける２拍子」<br>
-<br>
-第２部：演奏解析で読み解くテンポ・ルバートの実践分析<br>
-高橋舞（日本学術振興会　音楽学）<br>
- 「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」<br>
-上田泰史（京都大学　音楽学）<br>
- 「ショパンらしさの構築：C. サン＝サーンスとR. プーニョによるテンポ・ルバート実践」<br>
-鷲野彰子（福岡県立大学　音楽学）<br>
- 「フランシス・プランテ（Francis Planté, 1839-1934）の演奏に具現化されたショパンの「テンポ・ルバート」<br>
-Hermann Gottschewski（東京大学　音楽学）<br>
- 「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」<br>
-<br>
-第３部:ディスカッション<br>
-コメンテーター　伊東信宏（大阪大学）<br>
+Part ⅠCurrent Development of Performance Analysis Tools［Moderator：Akiko Washino］<br>
+12:00	Welcome and Introduction<br>
+12:10	Yucong Jiang（University of Richmond）<br>
+	Performance Precision: Computer-assisted Annotation and Analysis of Music Performance<br>
+12:30	Eita Nakamura（Kyushu University）<br>
+	Automatic transcription and alignment for analyzing piano performance<br>
+12:50	Kaito Into, Kunio Yamamoto, Masaki Oshita（Kyushu Institute of Technology）<br>
+	Comparative Analysis Tool for Piano Performances Utilizing the Speed Deviations<br>
+ 
+break (10 min.)<br>
+
+13:20	Kenta Okumura（International Professional University of Technology in Nagoya）<br>
+	Statistical techniques for modeling individual-dependent features in music performance<br>
+13:40	Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
+	Duple Meter in Chopin Mazurkas<br>
+14:00	Q&A<br>
+
+Part Ⅱ Analyzing Tempo Rubato Practices through Performance Analysis［Moderator：Nobuhiro Ito］<br>
+14:50	Mai Takahashi（Japan Society for the Promotion of Science）<br>
+	The role of school trees in the formation of performance: Bach's “Chromatic Fantasy and Fugue” as case study<br>
+15:10	Yasushi Ueda（Kyoto University）<br>
+	Constructing Chopinesque Interpretation: Tempo Rubato Practice by Camille Saint-Saëns and Raoul Pugno<br>
+
+break (10 min.)<br>
+
+15:40	Akiko Washino（Fukuoka Prefectural University）<br>
+	 Chopin's 'Tempo Rubato' embodied in the performance of Francis Planté (1839–1934)<br>
+16:00	Hermann Gottschewski（Tokyo University）<br>
+	 Time structure in performances with ambiguous beats: Focusing on bars 12 to 18 in Reger’s own performance of his Humoresque op. 20/5 in G minor (Welte Mignon roll no. 1017,	recorded on December 8th, 1905)<br>
+ 
+16:20	Q&A<br>
+
+
+Part Ⅲ Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］　<br>
+
+
+18:00	the end of the symposium <br>
+
+
 <br>
 主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」（2022～2026年度、研究代表者：鷲野彰子）<br>
 助成：日本音楽学会　協力：大阪大学音楽学研究室<br>
