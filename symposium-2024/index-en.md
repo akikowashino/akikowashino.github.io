@@ -17,36 +17,35 @@ language：Japanese & English<br>
 <div style="padding-top:40px; padding-left: 20px">
 
 **PartⅠ: Current Development of Performance Analysis Tools［Moderator：Akiko Washino］**<br>
-Welcome and Introduction<br>
-Yucong Jiang（University of Richmond）<br>
-	Performance Precision: Computer-assisted Annotation and Analysis of Music Performance<br>
-Eita Nakamura（Kyushu University）<br>
-	Automatic transcription and alignment for analyzing piano performance<br>
-Kaito Into, Kunio Yamamoto, Masaki Oshita（Kyushu Institute of Technology）<br>
-	Comparative Analysis Tool for Piano Performances Utilizing the Speed Deviations<br>
- 
-break (10 min.)<br>
 
-Kenta Okumura（International Professional University of Technology in Nagoya）<br>
+Welcome and Introduction<br>
+
+**Yucong Jiang（University of Richmond）**<br>
+	Performance Precision: Computer-assisted Annotation and Analysis of Music Performance<br>
+**Eita Nakamura（Kyushu University）**<br>
+	Automatic transcription and alignment for analyzing piano performance<br>
+**Kaito Into, Kunio Yamamoto, Masaki Oshita（Kyushu Institute of Technology）**<br>
+	Comparative Analysis Tool for Piano Performances Utilizing the Speed Deviations<br>
+**Kenta Okumura（International Professional University of Technology in Nagoya）**<br>
 	Statistical techniques for modeling individual-dependent features in music performance<br>
-Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
+**Craig Stuart Sapp（Stanford University, Computational Musicology）**<br>
 	Duple Meter in Chopin Mazurkas<br>
 Q&A<br>
 
+
 **Part Ⅱ: Analyzing Tempo Rubato Practices through Performance Analysis［Moderator：Nobuhiro Ito］**<br>
-Mai Takahashi（Japan Society for the Promotion of Science）<br>
+
+**Mai Takahashi（Japan Society for the Promotion of Science）**<br>
 	The role of school trees in the formation of performance: Bach's “Chromatic Fantasy and Fugue” as case study<br>
-Yasushi Ueda（Kyoto University）<br>
+**Yasushi Ueda（Kyoto University）**<br>
 	Constructing Chopinesque Interpretation: Tempo Rubato Practice by Camille Saint-Saëns and Raoul Pugno<br>
-
-break (10 min.)<br>
-
-Akiko Washino（Fukuoka Prefectural University）<br>
+**Akiko Washino（Fukuoka Prefectural University）**<br>
 	 Chopin's 'Tempo Rubato' embodied in the performance of Francis Planté (1839–1934)<br>
-Hermann Gottschewski（Tokyo University）<br>
+**Hermann Gottschewski（Tokyo University）**<br>
 	 Time structure in performances with ambiguous beats: Focusing on bars 12 to 18 in Reger’s own performance of his Humoresque op. 20/5 in G minor (Welte Mignon roll no. 1017,	recorded on December 8th, 1905)<br>
  
 Q&A<br>
+
 
 **Part Ⅲ: Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］**　<br>
 
