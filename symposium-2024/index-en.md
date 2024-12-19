@@ -8,15 +8,15 @@ lang: en
 
 <a target="_blank" href="https://github.com/user-attachments/files/18140531/_.20241208.pdf"><img src="https://github.com/user-attachments/assets/b5dad13c-4b92-4daa-b462-930c34729a50" alt="Symposium 2024 cover" style="float:right; width:250px; border:1px solid black;"></a>
 
-date：December 8, 2024（Sunday）12:00〜18:00<br>
-place：中之島芸術センター「スタジオ」（大阪大学中之島センター3階）<br>
-      〒530-0005　大阪市北区中之島4丁目3-53<br>
-language：Japanese & English<br>
+**Date**：December 8, 2024（Sunday）12:00〜18:00<br>
+**Place**： Nakanoshima Art Center "Studio"(Osaka University Nakanoshima Center 3F<br>
+       4-3-53 Nakanoshima, Kita-ku, Osaka, Japan<br>
+**Language**：Japanese & English<br>
 
 
 <div style="padding-top:40px; padding-left: 20px">
 
-**PartⅠ: Current Development of Performance Analysis Tools［Moderator：Akiko Washino］**<br>
+**Part Ⅰ: Current Development of Performance Analysis Tools［Moderator：Akiko Washino］**<br>
 
 Welcome and Introduction<br>
 
