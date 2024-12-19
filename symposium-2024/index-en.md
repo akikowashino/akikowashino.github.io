@@ -47,7 +47,7 @@ Hermann Gottschewski（Tokyo University）<br>
 Q&A<br>
 
 
-__Part Ⅲ: Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］__　<br>
+Part Ⅲ: Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］　<br>
 
 
 
