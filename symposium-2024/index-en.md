@@ -53,8 +53,9 @@ Part Ⅲ: Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］　<br>
 
 <br>
 Organizer：JSPS Grant-in-Aid for Scientific Research (B)<br>
-Analysis of Tempo Rubato through the interpretations of early 20th century historical performance using piano rolls.  (2022-2026, Principal Investigator: Akiko Washino)<br>
-助成：日本音楽学会　協力：大阪大学音楽学研究室<br>
-contact：washino@fukuoka-pu.ac.jp<br>
+Analysis of Tempo Rubato through the interpretations of early 20th century historical performance using piano rolls.  (2022-2027, Principal Investigator: Akiko Washino)<br>
+Grant: The Musicological Society of Japan<br>
+Support: Osaka University Musicology Laboratory<br>
+Contact：washino@fukuoka-pu.ac.jp<br>
 
 </div>
