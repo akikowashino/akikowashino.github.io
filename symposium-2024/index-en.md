@@ -17,7 +17,7 @@ __Language__：Japanese & English<br>
 <div style="padding-top:40px; padding-left: 20px">
 
 Part Ⅰ: Current Development of Performance Analysis Tools［Moderator：Akiko Washino］<br>
-
+<br>
 Welcome and Introduction<br>
 
 Yucong Jiang（University of Richmond）<br>
@@ -32,9 +32,9 @@ Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
 	Duple Meter in Chopin Mazurkas<br>
 Q&A<br>
 
-
+<br>
 Part Ⅱ: Analyzing Tempo Rubato Practices through Performance Analysis［Moderator：Nobuhiro Ito］<br>
-
+<br>
 Mai Takahashi（Japan Society for the Promotion of Science）<br>
 	The role of school trees in the formation of performance: Bach's “Chromatic Fantasy and Fugue” as case study<br>
 Yasushi Ueda（Kyoto University）<br>
@@ -46,7 +46,7 @@ Hermann Gottschewski（Tokyo University）<br>
  
 Q&A<br>
 
-
+<br>
 Part Ⅲ: Discussion［ Commentator ：Nobuhiro Ito (Osaka University)］　<br>
 
 
