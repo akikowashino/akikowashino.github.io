@@ -41,7 +41,8 @@ lang: en
 * Akiko Washino, "Improvised Prelude Performances of Josef Hofmann (1876-1957)," Osaka University Musicological Journal, 19, 47-73, March 2023.
 * Akiko Washino, "The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, Score Notations, and Interpretive Directions," Dance Elements in Music of the Early 19th Century, 2023, 179-203.
 * Akiko Washino, “Proximity of Performance Tempo in Repeated Performances by the Same Performer: A Comparative Analysis of Multiple Recordings of Chopin’s Waltz Op. 42 by Rosenthal and Hofmann,” Osaka University Musicological Journal, 15, 51–82, 2018.
-* Akiko Washino, Kuniyoshi Sakurai, “Research Notes on Music and Art ‘Teaching Materials’ in Expressive Activities of Young Children,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 139–150, February 2018.
+* Akiko Washino, “Percentage of Primary Triads in Children's Songs for 'Playing and Singing': Rethinking Instruction Methods for Piano Beginners,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 139–150, February 2018.
+* Akiko Washino, Kuniyoshi Sakurai, “Research Notes on Music and Art ‘Teaching Materials’ in Expressive Activities of Young Children,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 129–137, February 2018.
 * Akiko Washino, Craig Stuart Sapp, "Piano Rolls as Performance Analysis Resources," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(1), 27-48, September 2017.
 * Akiko Washino, "Performance Analysis through Quantitative Study of Piano Rolls: Chopin's Waltz Op. 42," Doctoral Dissertation, 1-180, March 2017.
 * Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 2)," Osaka University Musicological Journal, 14, 1-33, December 2016.
