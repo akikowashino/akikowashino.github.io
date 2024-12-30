@@ -16,7 +16,7 @@ lang: en
 * Fukuoka Prefectural University, Faculty of Human and Social Sciences / Graduate School of Human and Social Sciences (Associate Professor)
 
 # Degrees
-* Master of Music, State University of New York Graduate School
+* Master of Music, State University of New York, Purchase College Graduate School
 * Master of Music, Royal Conservatory of The Hague, The Netherlands
 * Doctor of Letters, Osaka University Graduate School
 
