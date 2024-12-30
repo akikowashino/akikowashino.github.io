@@ -62,6 +62,7 @@ lang: en
 * Akiko Washino, "Analyzing 20th-century Early Improvised Prelude Practices," 21st Annual Conference of the Japanese Society for Music Expression Studies, June 18, 2023.
 * Akiko Washino, “Analyzing Improvised Prelude Practices in Early 20th-Century Concerts,” 73rd Annual Conference of the Musicological Society of Japan, November 27, 2022.
 * Akiko Washino, “Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 to Investigate How Tempo Rubato Was Applied by Performers Born in the 19th Century,” 2nd Global Piano Roll Meeting, Hochschule der Künste Bern (Bern), June 18, 2022.
+* Akiko Washino, “The Culture of Performing Preludes: Prelude Performances Preserved in Early Recordings,” 18th Annual Conference of the Japanese Society for Music Expression Studies (Published in Music Expression Studies Vol. 18), July 31, 2020.
 * Akiko Washino, “Mazurka Inflections in Chopin’s Waltz Op. 42: A Performance Analysis of Recordings and Editions by Moriz Rosenthal and Other Contemporary Pianists,” International Chopinological Conference, The Institute of Art of the Polish Academy of Sciences, November 20, 2019.
 * Akiko Washino, “Elucidating the Modern and Romantic Aspects of Josef Hofmann’s Pianism Through Performance Analysis,” IMSEA (International Musicological Society East Asia Conference), October 18, 2019.
 * Akiko Washino, “Turning Points in Performance: The Emergence of Modern Pianism,” 17th Annual Conference of the Japanese Society for Music Expression Studies, June 16, 2019.
