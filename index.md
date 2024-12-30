@@ -92,6 +92,8 @@ lang: jp
   20世紀前半の演奏会における即興の前奏演奏実践例の分析, 日本音楽学会 第73回大会, 2022年11月27日.
 * Akiko Washino,
   Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 in Order to Investigate How Tempo Rubato Was Applied by Performers born in the 19th Century, 2nd Global Piano Roll Meeting. Hochschule der Künste Bern (Bern) 2022年6月18日.
+* 鷲野彰子,
+  前奏を演奏する文化：初期録音に残された「前奏」演奏, 日本音楽表現学会 第18回大会誌上発表（『音楽表現学』Vol.18）, 2020年7月31日.
 * Akiko Washino,
   Mazurka inflections in Chopin’s Waltz op. 42: A performance analysis of the recordings and editions of Moriz Rosenthal and other contemporary pianists, International Chopinological Conference The Institute of Art of the Polish Academy of Sciences, 2019年11月20日.
 * Akiko Washino,
