@@ -27,7 +27,8 @@ lang: en
 # Research Keywords
 * 19th-century Performance Practices
 * Performance Analysis
-* Player Pianos
+* Player Pianos (Reproducing Pianos)
+* Piano Rolls
 * Historical Recordings
 * Period Instruments
 * Piano Performance
