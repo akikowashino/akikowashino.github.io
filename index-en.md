@@ -89,7 +89,7 @@ lang: en
 * “Stanford University Music Library (2): Archive of Recorded Sound,” Music Friends (South Korea), 113, 26–31, January 2017 Issue.
 * "Stanford University Music Library (1)," Music Friends (South Korea), 112, 23–28, December 2016 Issue.
 * "Two Versions of ‘The Merry Widow’ at the Stanford Theatre," Music Friends (South Korea), 111, 23–28, November 2016 Issue.
-* "AMICA," Music Friends (South Korea), 110, 23–28, October 2016 Issue.
+* "AMICA (Automatic Musical Instrument Collectors' Association)," Music Friends (South Korea), 110, 23–28, October 2016 Issue.
 * "Summer in Stanford (2): Beethoven Center in San Jose," Music Friends (South Korea), 109, 22–28, September 2016 Issue.
 * "Summer in Stanford (1): San Francisco," Music Friends (South Korea), 108, 22–27, August 2016 Issue.
 * "Early Music Societies and Festivals in America," Music Friends (South Korea), 107, 20–24, July 2016 Issue.
