@@ -57,5 +57,8 @@ Analysis of Tempo Rubato through the interpretations of early 20th century histo
 Grant: The Musicological Society of Japan<br>
 Support: Osaka University Musicology Laboratory<br>
 Contact：washino@fukuoka-pu.ac.jp<br>
-
+<br>
+<br>
+* A report on this symposium has been published on the PTNA & Music Research Institute of Music (PRIM) website.
+https://prim.piano.or.jp/2025/02/entry_29.html
 </div>
