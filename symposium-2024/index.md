@@ -46,6 +46,9 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 助成：日本音楽学会　協力：大阪大学音楽学研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 
+
+＊ピティナ・音楽研究所のWebページに本シンポジウムのレポートが掲載されました。
+https://prim.piano.or.jp/2025/02/entry_29.html
 </div>
 
 
