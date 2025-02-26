@@ -78,7 +78,7 @@ lang: en
 * Akiko Washino, “The Creation and Structure of Voříšek’s Sonata Op. 20 (1820–24),” 8th Annual Conference of the Japanese Society for Music Expression Studies, June 13, 2010.
 
 # Magazines & Web Journals
-* "Monthly New Release Reviews," Record Art ONLINE, October 2024 Issue – Present (Monthly).
+* "Monthly New Release Reviews," The record geijutsu ONLINE, October 2024 Issue – Present (Monthly).
 * Special Feature "Glenn Gould's 30 Years: The Creative Trail of ‘Recording’ 1952-1982," Record Art, 49, 51, 54 and 57, November 2022 Issue.
 * Record Story No. 52: "J. Hofmann’s The Golden Jubilee Concert," Record Art, 64-68, April 2022 Issue.
 * "The First Chopin International Competition for Period Instruments," Musica Nova, 35-36, December 2018 Issue.
