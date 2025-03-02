@@ -49,7 +49,7 @@ lang: jp
 * 鷲野彰子<br>
 「ヨゼフ・ホフマン（1876-1957）の即興的前奏演奏」阪大音楽学報, 19, 47-73, 2023年3月.
 * Akiko Washino<br>
-"The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played", The Element of dance in music of the first half of the nineteenth century, 2023, 179-203.
+"The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played", The Element of dance in music of the first half of the nineteenth century, 179-203 2023.
 * 鷲野彰子<br>
 「同一演奏家が同一曲を演奏する際の演奏速度の親近性: ローゼンタールとホフマンによるショパン《ワルツOp. 42》の複数録音の演奏比較」阪大音楽学報, 15, 51-82, 2018年.
 * 鷲野彰子<br>
