@@ -13,7 +13,7 @@ lang: jp
 <ul>
 <li>
 <a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
-<b>第142回MUS研究発表会</b>」</a>
+<b>第142回MUS研究発表会</b></a>
 </li>
 <li>
 <a href="/symposium-2024"><b>シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析</b>」</a>
