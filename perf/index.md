@@ -11,7 +11,9 @@ lang: jp
 ## Events
 
 <ul>
-
+<li>
+<a href="/symposium-2024"><b>第142回MUS研究発表会</b>」</a>
+</li>
 <li>
 <a href="/symposium-2024"><b>シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析</b>」</a>
 </li>
