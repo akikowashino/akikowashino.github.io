@@ -14,7 +14,7 @@ lang: en
 <b>The 142nd MUS Research Meeting, 2025.3.6-8</b></a>
 </li>
 <li>
-<a href="/symposium-2024"><b>Symposium: Analysing Interpretations: Performance Analysis Tools and Analyses of Tempo Rubato</b></a>
+<a href="/symposium-2024"><b>Symposium: Analysing Interpretations: Performance Analysis Tools and Analyses of Tempo Rubato, 2024.12.8</b></a>
 </li>
 
 </ul>
