@@ -12,7 +12,7 @@ lang: jp
 
 <ul>
 <li>
-<a href="[[https://prim.piano.or.jp/2025/02/entry_29.html](https://www.ipsj.or.jp/kenkyukai/event/mus142.html)](https://www.ipsj.or.jp/kenkyukai/event/mus142.html)" target="_blank">
+<a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
 <b>第142回MUS研究発表会</b>」</a>
 </li>
 <li>
