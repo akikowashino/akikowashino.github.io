@@ -35,6 +35,8 @@ lang: en
 * Musical Expression
 
 # Publications
+* Akiko Washino, "Analysis of an edited performance record :Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42," Osaka University Musicological Journal, 21, 1-15, March 2025.
+* Akiko Washino, Shingo Sakurai, “Developing Educational Practices for Creating Video Teaching Materials in the 'Expression' Domain of Early Childhood Education to Enhance University Students' ICT Utilization Skills and Develop Collaborative Abilities,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 33(2), 53–66, March 2025.
 * Akiko Washino, Craig Stuart Sapp, "Josef Hofmann (1876-1957) Piano Roll Editing: Analysis of Editorial Traces in Duo-Art (No.6401-6)," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 1-21, March 2024.
 * Akiko Washino, “Differences in Notation Between the Special Support Textbook Ongaku☆ (Hoshihon) and Elementary School Music Textbooks,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 55–64, March 2024.
 * Akiko Washino, "Improvised Prelude Performances by Wilhelm Backhaus," Journal of Music Expression Studies, 21, 1-20, November 2023.
