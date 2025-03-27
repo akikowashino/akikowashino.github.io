@@ -33,6 +33,7 @@ lang: en
 * [Verovio Humdrum Viewer](https://verovio.humdrum.org) (See "Scores" menu)
 * [Chopin First Editions](https://chopinscores.org/en) ([GitHub](https://github.com/pl-wnifc/humdrum-chopin-first-editions))
 * [Polish Digital Scores](https://polishscores.org) ([GitHub](https://github.com/pl-wnifc/humdrum-polish-scores))
+* [Scarlatti, Domenico](https://verovio.humdrum.org/?file=scarlatti/sonatas) ([GitHub](https://github.com/craigsapp/scarlatti-keyboard-sonatas))
 
 
 ### MEI
