@@ -13,6 +13,17 @@ __Place__： not yet decided<br>
 
 <div style="padding-top:40px; padding-left: 20px">
 
+
+
+
+
+
+
+
+
+
+
+
 <br>
 Organizer：JSPS Grant-in-Aid for Scientific Research (B)<br>
 Analysis of Tempo Rubato through the interpretations of early 20th century historical performance using piano rolls.  (2022-2027, Principal Investigator: Akiko Washino)<br>
