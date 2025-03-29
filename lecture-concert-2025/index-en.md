@@ -4,7 +4,7 @@ layout: default
 lang: en
 ---
 
-###  __Lecture concert" The Aesthetics of Tempo Rubato"__<br>
+###  __Lecture concert "The Aesthetics of Tempo Rubato"__<br>
 
 
 
