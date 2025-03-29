@@ -7,7 +7,6 @@ lang: jp
 
 ###  **レクチャー・コンサート「ルバート」**<br>
 
-<a target="_blank" href="https://github.com/user-attachments/files/18140531/_.20241208.pdf"><img src="https://github.com/user-attachments/assets/b5dad13c-4b92-4daa-b462-930c34729a50" alt="Symposium 2024 cover" style="float:right; width:250px; border:1px solid black;"></a>
 
 日時：未定<br>
 会場：未定<br>
