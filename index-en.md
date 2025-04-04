@@ -82,6 +82,7 @@ lang: en
 
 # Magazines & Web Journals
 * "Monthly New Release Reviews," The record geijutsu ONLINE, October 2024 Issue – Present (Monthly).
+* "An Interview with Keiko Shichijo about fortepiano, Mozart, and 19thーcentury performance," The record geijutsu ONLINE, April 2025 Issue.
 * Special Feature "Glenn Gould's 30 Years: The Creative Trail of ‘Recording’ 1952-1982," The record geijutsu, 49, 51, 54 and 57, November 2022 Issue.
 * Record Story No. 52: "J. Hofmann’s The Golden Jubilee Concert," The record geijutsu, 64-68, April 2022 Issue.
 * "The First Chopin International Competition for Period Instruments," Musica Nova, 35-36, December 2018 Issue.
