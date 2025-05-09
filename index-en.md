@@ -23,6 +23,7 @@ lang: en
 # Research Fields
 * Musicology and Performing Arts Studies
 * Performance (Piano, Fortepiano)
+* Musical Expression
 
 # Research Keywords
 * 19th-century Performance Practices
