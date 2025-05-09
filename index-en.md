@@ -33,6 +33,7 @@ lang: en
 * Period Instruments
 * Piano Performance
 * Musical Expression
+* Children's Musical Expression
 
 # Publications
 * Akiko Washino, "Analysis of an edited performance record :Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42," Osaka University Musicological Journal, 21, 1-15, March 2025.
