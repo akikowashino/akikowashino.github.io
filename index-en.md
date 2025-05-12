@@ -30,6 +30,7 @@ lang: en
 * Performance Analysis
 * Player Pianos (Reproducing Pianos)
 * Piano Rolls
+* MIDI
 * Historical Recordings
 * Period Instruments
 * Piano Performance
