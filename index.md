@@ -92,7 +92,7 @@ lang: jp
 * Akiko Washino, Craig Stuart Sapp,
   Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz op. 42 (Duo-Art 6401-6) , 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, 2024年7月27日.
 * 鷲野彰子,
-  ピアノロールの計量的解析による演奏分析, 神戸大学, 2023年11月23日.
+  ピアノロールの計量的解析による演奏分析, 「音楽家のためのComputational Musicology」, 神戸大学, 2023年11月23日.
 * 鷲野彰子,
   楽譜に記譜された即興的前奏演奏, 日本音楽学会 第74回大会, 2023年11月4日.
 * 鷲野彰子,
