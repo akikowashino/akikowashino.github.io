@@ -1,5 +1,5 @@
 ---
-title: 楽曲演奏分析
+title: 演奏分析
 layout: default
 lang: jp
 ---
