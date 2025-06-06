@@ -12,13 +12,11 @@ lang: jp
 第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降の作品に焦点を当てます。<br>
 <br>
 
-<a target="_blank" href="https://github.com/user-attachments/assets/12345678-abcd-efgh-ijkl-987654321000">
-  <img src="https://github.com/user-attachments/assets/12345678-abcd-efgh-ijkl-987654321000"
+<a target="_blank" href="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5">
+  <img src="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5"
        alt="LectureConcert『ルバートの美学 Vol.1』チラシ"
        style="float:right; width:250px; border:1px solid black;">
 </a>
-
-
 
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 1」**<br>
 ####    〜ワルターの復元楽器で楽しむC.P.E. バッハ、モーツァルト〜<br>
