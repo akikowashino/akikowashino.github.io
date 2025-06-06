@@ -17,10 +17,9 @@ The first session will focus on works by C.P.E. Bach and Mozart, while the secon
 ####  **Lecture concert "The Aesthetics of Tempo Rubato"　Vol. 1**<br>
 ####    〜C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano〜<br>
 
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-  <h2 style="margin-bottom: 0;">Lecture Concert: The Aesthetics of Rubato</h2>
-  <p style="font-style: italic; margin-top: 5px;">C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano</p>
-</div>
+<h2>Lecture Concert: The Aesthetics of Rubato</h2>
+<p><em>C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano</em></p>
+
 
 
 <div style="padding-top:40px; padding-left: 20px">
