@@ -14,6 +14,9 @@ lang: jp
 
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 1」**<br>
 ####    〜ワルターの復元楽器で楽しむC.P.E. バッハ、モーツァルト〜<br>
+
+<div style="padding-top:40px; padding-left: 20px">
+
 日時：2025年7月30日（水）18:30開演<br>
 会場：一橋大学 如水会100周年記念インテリジェントホール <br>
       （東京都国立市中２丁目１   JR「国立」駅から徒歩10分）<br>
@@ -34,6 +37,7 @@ lang: jp
 <p>
   会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">こちら</a> です。
 </p>
+</div>
 
    <br>
    <br>
