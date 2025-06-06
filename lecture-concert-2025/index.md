@@ -64,13 +64,13 @@ lang: jp
     font-family: sans-serif;
     font-weight: 600;
     background-color: #f0f0f0;
-    max-width: 600px;
+    max-width: 450px;
     margin-top: 30px;
   }
 </style>
 
 <div class="application-box">
-  お申し込みは <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u>こちら</u></a> のGoogle Formからお願いいたします。申込者が200名に達した時点で締め切ります。
+  お申し込みは <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u>こちら</u></a> のGoogle Formからお願いいたします。<br>申込者が200名に達した時点で締め切ります。
 </div>
 
 
