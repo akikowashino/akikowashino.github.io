@@ -64,7 +64,7 @@ lang: jp
     font-family: sans-serif;
     font-weight: 600;
     background-color: #f0f0f0;
-    max-width: 450px;
+    max-width: 420px;
     margin-top: 45px;
   }
 </style>
