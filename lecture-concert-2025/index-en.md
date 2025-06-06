@@ -65,7 +65,7 @@ The first session will focus on works by C.P.E. Bach and Mozart, while the secon
    <br>
    <br>
    
-####  **レクチャー・コンサート「ルバートの美学 Vol. 2」**<br>
+<h3>Lecture Concert: The Aesthetics of Rubato Vol. 2</h3>
 
 <div style="padding-top:40px; padding-left: 20px">
       
