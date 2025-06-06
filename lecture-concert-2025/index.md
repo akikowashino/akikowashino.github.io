@@ -12,9 +12,12 @@ lang: jp
 第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降の作品に焦点を当てます。<br>
 <br>
 
-<img src="https://github.com/ユーザー名/リポジトリ名/assets/画像のID" 
-     alt="LectureConcert『ルバートの美学 Vol.1』チラシ" 
-     style="float:right; width:250px; border:1px solid black;">
+<a target="_blank" href="https://github.com/user-attachments/assets/12345678-abcd-efgh-ijkl-987654321000">
+  <img src="https://github.com/user-attachments/assets/12345678-abcd-efgh-ijkl-987654321000"
+       alt="LectureConcert『ルバートの美学 Vol.1』チラシ"
+       style="float:right; width:250px; border:1px solid black;">
+</a>
+
 
 
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 1」**<br>
