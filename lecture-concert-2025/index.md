@@ -32,7 +32,7 @@ lang: jp
 <div class="event-box">
   <strong>日時：</strong>2025年7月30日（水）18:30開演<br>
   <strong>会場：</strong>一橋大学 如水会100周年記念インテリジェントホール<br>
-　　（東京都国立市中２丁目１　JR「国立」駅から徒歩10分）<br><br>
+　　（東京都国立市中２丁目１）　JR「国立」駅から徒歩10分<br><br>
 
   <strong>演奏：</strong>七條恵子（フォルテピアノ）、平井千絵（フォルテピアノ）<br>
   <strong>お話：</strong>上田泰史、鷲野彰子<br>
