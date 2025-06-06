@@ -56,7 +56,6 @@ lang: jp
 協力：一橋大学小岩信治研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 <br>
-   <br>
 <style>
   .application-box {
     border: 2px solid #444;
