@@ -1,10 +1,25 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset='utf-8'>
-		<title>{{ page.title }}</title>
-		{% include styles/main.html %}
-	</head>
+	
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+
+  <!-- ✅ OGP メタタグ -->
+  <meta property="og:title" content="レクチャー・コンサート『ルバートの美学 Vol.1』" />
+  <meta property="og:description" content="2025年7月30日開催。C.P.E.バッハとモーツァルトを中心に、テンポ・ルバートの実践的可能性を探るレクチャー・コンサート。" />
+  <meta property="og:url" content="https://www.akikowashino.org/lecture-concert-2025/" />
+  <meta property="og:image" content="https://www.akikowashino.org/assets/rubato2025-flyer.png" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitterカードも追加（任意） -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="レクチャー・コンサート『ルバートの美学 Vol.1』">
+  <meta name="twitter:description" content="C.P.E.バッハとモーツァルト、ルバート表現の魅力に迫るイベント">
+  <meta name="twitter:image" content="https://www.akikowashino.org/assets/rubato2025-flyer.png">
+
+  {% include styles/main.html %}
+</head>
 
 	<body>
 	{% include scripts/main.html %}
