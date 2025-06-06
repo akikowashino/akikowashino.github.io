@@ -18,9 +18,7 @@ The first session will focus on works by C.P.E. Bach and Mozart, while the secon
 <p><em>C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano</em></p>
 
 
-
 <div style="padding-top:40px; padding-left: 20px">
-
 
 <style>
   .event-box {
@@ -34,33 +32,37 @@ The first session will focus on works by C.P.E. Bach and Mozart, while the secon
 </style>
 
 <div class="event-box">
-  <strong>日時：</strong>2025年7月30日（水）18:30開演<br>
-  <strong>会場：</strong>一橋大学 如水会100周年記念インテリジェントホール<br>
-　　（東京都国立市中２丁目１）　JR「国立」駅から徒歩10分<br><br>
+  <strong>Date & Time:</strong> Wednesday, July 30, 2025 – Starts at 18:30<br>
+  <strong>Venue:</strong> Hitotsubashi University, Josuikai 100th Anniversary Intelligent Hall<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;(2-1 Naka, Kunitachi, Tokyo 186-0004) – 10 minutes on foot from JR Kunitachi Station<br><br>
 
-  <strong>演奏：</strong>七條恵子（フォルテピアノ）、平井千絵（フォルテピアノ）<br>
-  <strong>お話：</strong>上田泰史、鷲野彰子<br>
-  <strong>司会：</strong>伊東信宏<br>
-  <strong>楽器：</strong>ワルターの復元楽器（太田垣 至 2023年製作）<br>
+  <strong>Performers:</strong> Keiko Shichijo (fortepiano), Chie Hirai (fortepiano)<br>
+  <strong>Talks by:</strong> Yasushi Ueda, Akiko Washino<br>
+  <strong>Moderator:</strong> Nobuhiro Ito<br>
+  <strong>Instrument:</strong> Reconstructed Walter fortepiano (built by Itaru Ohtagaki, 2023)<br>
 </div>
 
+<br>
+Free admission, reservation required (first 200 applicants)<br>
+*Registration will close once the capacity is reached.<br><br>
 
-<br>
-無料・要申込（先着200名）<br>
-※人数が上限に達した時点で締切ます。ご了承ください。<br>
-<br>
-主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」<br>
-（2022～2026年度、研究代表者：鷲野彰子）<br>
-協力：一橋大学小岩信治研究室<br>
-お問い合わせ：washino@fukuoka-pu.ac.jp<br>
-<br>
-   <br>
-準備が出来次第、ここに申込用のリンクを貼ります。
-   <br>
+Organized by: KAKENHI Grant-in-Aid for Scientific Research (B)<br>
+“Analytical Study of Rubato Performance through Historical Recordings and Piano Rolls from the Early 20th Century”<br>
+(2022–2026, Principal Investigator: Akiko Washino)<br>
+In collaboration with: Shinji Koiwa’s Laboratory, Hitotsubashi University<br>
+Contact: washino@fukuoka-pu.ac.jp<br><br>
+
+A registration link will be posted here once available.<br><br>
+
 <p>
-  会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">こちら</a> です。
+  <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">
+    Click here for the venue map
+  </a>.
 </p>
+
 </div>
+
+
 
    <br>
    <br>
