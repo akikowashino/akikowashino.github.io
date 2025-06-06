@@ -32,8 +32,9 @@ lang: jp
 準備が出来次第、ここに申込用のリンクを貼ります。
    <br>
 <p>
-  会場の地図は <a href="https://www.google.com/maps?q=〒186-0004+東京都国立市中２丁目１" target="_blank" rel="noopener noreferrer">こちら</a> です。
+  会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">こちら</a> です。
 </p>
+
    <br>
    <br>
    
