@@ -76,7 +76,7 @@ lang: jp
 
    <br>
 <p>
-  会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">こちら</a> です。
+  会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer"><u>こちら</u></a> です。
 </p>
 </div>
 
