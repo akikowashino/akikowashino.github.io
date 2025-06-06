@@ -14,9 +14,6 @@ Through performances and discussions, we will explore the role and possibilities
 The first session will focus on works by C.P.E. Bach and Mozart, while the second will center on pieces from the Romantic period onward.<br>
 <br>
 
-####  **Lecture concert "The Aesthetics of Tempo Rubato"　Vol. 1**<br>
-####    〜C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano〜<br>
-
 <h3>Lecture Concert: The Aesthetics of Rubato Vol. 1</h3>
 <p><em>C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano</em></p>
 
