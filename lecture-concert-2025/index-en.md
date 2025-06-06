@@ -9,9 +9,9 @@ lang: en
 
 
 <br>
-演奏家は何のためにテンポに緩急を付けたり、タイミングをずらしたりするのでしょうか。<br>
-演奏とお話を通して、テンポ・ルバート実践の役割と可能性を探ります。<br>
-第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降の作品に焦点を当てます。<br>
+Why do performers add tempo fluctuations or shift timing in their playing?<br>
+Through performances and discussions, we will explore the role and possibilities of tempo rubato in musical expression.<br>
+The first session will focus on works by C.P.E. Bach and Mozart, while the second will center on pieces from the Romantic period onward.<br>
 <br>
 
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 1」**<br>
