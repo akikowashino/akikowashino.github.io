@@ -57,7 +57,10 @@ lang: jp
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 <br>
    <br>
-準備が出来次第、ここに申込用のリンクを貼ります。
+<p>
+  お申し込みは <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer">こちら</a> のGoogle Formからお願いいたします。申込者が200名に達した時点で締め切ります。
+</p>
+
    <br>
 <p>
   会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">こちら</a> です。
