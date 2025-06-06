@@ -57,9 +57,22 @@ lang: jp
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 <br>
    <br>
-<p>
+<style>
+  .application-box {
+    border: 2px solid #444;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: #f0f0f0;
+    max-width: 600px;
+    margin-top: 30px;
+  }
+</style>
+
+<div class="application-box">
   お申し込みは <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer">こちら</a> のGoogle Formからお願いいたします。申込者が200名に達した時点で締め切ります。
-</p>
+</div>
+
 
    <br>
 <p>
