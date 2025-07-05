@@ -60,6 +60,7 @@ lang: en
 
 
 # Presentations
+* Akiko Washino, “Practical Analysis of Tempo Rubato from the Perspective of Performance Duration and Dynamics,” Otogaku Symposium 2025 (The 143rd Music Information Science and the 156th Spoken Language Processing Joint Research Conference), June 14, 2025.
 * Akiko Washino, “How to Evaluate Differences in the Same Piece Performed by the Same Performer,” The 142nd MUS Research Meeting, March 8, 2025.
 * Akiko Washino, "Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances," Symposium "Reading Performances: Tools and Analyses of Tempo Rubato Practices," December 8, 2024.
 * Akiko Washino, Craig Stuart Sapp, "Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz Op. 42 (Duo-Art 6401-6)," 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, July 27, 2024.
