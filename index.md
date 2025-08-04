@@ -86,21 +86,23 @@ lang: jp
 
 # 研究発表
 * 鷲野彰子,
-  演奏時間とダイナミクスの視点によるテンポ・ルバートの実践分析, 音学シンポジウム2025（第143回音楽情報科学・第156回音声言語情報処理合同研究発表会）, 2025年6月14日.
+  カール・ライネッケによるモーツァルト作品の演奏, レクチャー・コンサート「ルバートの美学 Vol.1：ワルターの復元楽器で楽しむC.P.E.バッハとモーツァルト」, 一橋大学如水会100周年記念インテリジェントホール, 2025年7月30日.
 * 鷲野彰子,
-  同一演奏家による同一演奏曲の差異をどう評価するか, 第142回MUS研究発表会, 2025年3月8日.
+  演奏時間とダイナミクスの視点によるテンポ・ルバートの実践分析, 音学シンポジウム2025（第143回音楽情報科学・第156回音声言語情報処理合同研究発表会）, 早稲田大学 西早稲田キャンパス, 2025年6月14日.
 * 鷲野彰子,
-  フランシス・プランテ（Francis Planté, 1839–1934）の演奏に具現化されたショパンのテンポ・ルバート, シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」, 2024年12月8日.
+  同一演奏家による同一演奏曲の差異をどう評価するか, 第142回MUS研究発表会, 九州大学大橋キャンパス, 2025年3月8日.
+* 鷲野彰子,
+  フランシス・プランテ（Francis Planté, 1839–1934）の演奏に具現化されたショパンのテンポ・ルバート, シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」,大阪大学中之島芸術センター 2024年12月8日.
 * Akiko Washino, Craig Stuart Sapp,
   Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz op. 42 (Duo-Art 6401-6) , 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, 2024年7月27日.
 * 鷲野彰子,
   ピアノロールの計量的解析による演奏分析, 「音楽家のためのComputational Musicology」, 神戸大学, 2023年11月23日.
 * 鷲野彰子,
-  楽譜に記譜された即興的前奏演奏, 日本音楽学会 第74回大会, 2023年11月4日.
+  楽譜に記譜された即興的前奏演奏, 日本音楽学会 第74回大会, 聖徳大学, 2023年11月4日.
 * 鷲野彰子,
-  20世紀前半の即興の前奏演奏実践例とそれを取り巻く要因の関係性, 日本音楽表現学会 第21回大会, 2023年6月18日.
+  20世紀前半の即興の前奏演奏実践例とそれを取り巻く要因の関係性, 日本音楽表現学会 第21回大会, 京都女子大学, 2023年6月18日.
 * 鷲野彰子,
-  20世紀前半の演奏会における即興の前奏演奏実践例の分析, 日本音楽学会 第73回大会, 2022年11月27日.
+  20世紀前半の演奏会における即興の前奏演奏実践例の分析, 日本音楽学会 第73回大会, 西南学院大学, 2022年11月27日.
 * Akiko Washino,
   Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 in Order to Investigate How Tempo Rubato Was Applied by Performers born in the 19th Century, 2nd Global Piano Roll Meeting. Hochschule der Künste Bern (Bern) 2022年6月18日.
 * 鷲野彰子,
@@ -108,26 +110,26 @@ lang: jp
 * Akiko Washino,
   Mazurka inflections in Chopin’s Waltz op. 42: A performance analysis of the recordings and editions of Moriz Rosenthal and other contemporary pianists, International Chopinological Conference The Institute of Art of the Polish Academy of Sciences, 2019年11月20日.
 * Akiko Washino,
-  Elucidating the modern and romantic aspects of Josef Hofmann’s pianism through performance analysis, IMSEA（国際音楽学会東アジア大会）, 2019年10月18日.
-* 鷲野彰子, 演奏の転換点：近代的ピアニズムの出現, 日本音楽表現学会 第17回大会, 2019年6月16日.
-* 鷲野彰子, ロマン派的演奏と近代的演奏の分岐点に位置するヨーゼフ・ホフマン, 日本音楽学会 第69回大会, 2018年11月3日.
+  Elucidating the modern and romantic aspects of Josef Hofmann’s pianism through performance analysis, IMSEA（国際音楽学会東アジア大会）, 蘇州大学, 2019年10月18日.
+* 鷲野彰子, 演奏の転換点：近代的ピアニズムの出現, 日本音楽表現学会 第17回大会, 愛知教育大学, 2019年6月16日.
+* 鷲野彰子, ロマン派的演奏と近代的演奏の分岐点に位置するヨーゼフ・ホフマン, 日本音楽学会 第69回大会, 桐朋学園大学調布キャンパス, 2018年11月3日.
 * Akiko Washino, Craig Stuart Sapp
   Performance analysis of Alfred Grünfeld's acoustic and piano-roll recordings of Schumann's Träumerei, Symposium “Reactions to the Record VI”, Stanford University, 2018年4月7日.
-* 鷲野彰子, 同一演奏者による複数回の演奏における差異とその傾向：基本的テンポと速度の緩急, 日本音楽表現学会 第15回大会, 2017年6月18日.
+* 鷲野彰子, 同一演奏者による複数回の演奏における差異とその傾向：基本的テンポと速度の緩急, 日本音楽表現学会 第15回大会, 東京音楽大学, 2017年6月18日.
 * Akiko Washino,
   A performance analysis utilizing the piano rolls of Chopin’s op. 42, Conference “Ghosts in the machine: The Player-Piano”, Cornell University, 2017年5月5日.
 * 中藤広美, 鷲野彰子,
-実習前における学生の環境構成についての意識の現状と課題, 全国保育士養成協議会 第54回研究大会, 2015年9月23日.
+実習前における学生の環境構成についての意識の現状と課題, 全国保育士養成協議会 第54回研究大会, ロイトン札幌, 2015年9月23日.
 * 鷲野彰子,
- ピアノロールの計量的解析によるパデレフスキのルバート奏法分析, 日本音楽表現学会 第13回大会, 2015年6月21日.
+ ピアノロールの計量的解析によるパデレフスキのルバート奏法分析, 日本音楽表現学会 第13回大会, 沖縄県立芸術大学, 2015年6月21日.
 * 鷲野彰子,
-シューマンの書法における「ズレ」の読み方を考える-ブラームス作品における「ズレ」との比較, 日本音楽表現学会 第12回大会, 2014年6月22日.
+シューマンの書法における「ズレ」の読み方を考える-ブラームス作品における「ズレ」との比較, 日本音楽表現学会 第12回大会, 帝塚山大学学園前キャンパス, 2014年6月22日.
 * 鷲野彰子,
-「ズレ」た演奏－録音（1900年-1920年頃）からブラームスの後期小品集を再考する, 日本音楽表現学会 第11回大会, 2013年6月9日.
+「ズレ」た演奏－録音（1900年-1920年頃）からブラームスの後期小品集を再考する, 日本音楽表現学会 第11回大会, 盛岡市民文化ホール & アイーナ, 2013年6月9日.
 * 鷲野彰子,
-「ズレ」た書法：「ズレ」からブラームス後期作品を解釈する, 日本音楽表現学会 第10回大会, 2012年6月24日.
+「ズレ」た書法：「ズレ」からブラームス後期作品を解釈する, 日本音楽表現学会 第10回大会, 山梨大学甲府キャンパス, 2012年6月24日.
 * 鷲野彰子,
-ヴォジ―シェク《ソナタOp. 20》（1820-24）の成立と構成, 日本音楽表現学会 第８回大会, 2010年6月13日.
+ヴォジ―シェク《ソナタOp. 20》（1820-24）の成立と構成, 日本音楽表現学会 第８回大会, 京都女子大学, 2010年6月13日.
 
 
 # 雑誌・Web雑誌
