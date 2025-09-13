@@ -85,6 +85,7 @@ lang: jp
    <br>
    
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 2」**<br>
+####    〜ショパンはピアノに何を語らせたかったのか〜<br>
 
 <div style="padding-top:40px; padding-left: 20px">
       
