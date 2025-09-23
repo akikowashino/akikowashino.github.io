@@ -88,17 +88,60 @@ lang: jp
 ####    〜ショパンはピアノに何を語らせたかったのか〜<br>
 
 <div style="padding-top:40px; padding-left: 20px">
-      
-日時：2025年12月12日（金）17:30開演<br>
-会場：大阪大学会館<br>
-      （大阪府豊中市待兼山町1−13, 豊中キャンパス内）　<br>
-  
+
+<style>
+  .event-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: fit-content;
+    font-family: sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+  }
+</style>
+
+<div class="event-box">
+  <strong>日時：</strong>2025年12月12日（水）17:30開演<br>
+  <strong>会場：</strong>大阪大学会館（〒560-0043　大阪府豊中市待兼山町1-13）<br>
+  阪急電車宝塚線「石橋阪大前駅」から西へ徒歩約15分<br>
+  大阪モノレール「柴原阪大前駅」北西へ徒歩約15分<br>
+
+  <strong>演奏：</strong>山名仁（ピアノ）、鷲野彰子（ピアノ）<br>
+  <strong>お話：</strong>上田泰史、鷲野彰子<br>
+  <strong>司会：</strong>伊東信宏<br>
+  <strong>楽器：</strong>ベーゼンドルファー（1920年）<br>
+</div>
+
+<br>
+無料・要申込（先着460名）<br>
+※人数が上限に達した時点で締め切ります。ご了承ください。<br>
+<br>
+主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」<br>
+（2022～2026年度、研究代表者：鷲野彰子）<br>
+協力：大阪大学音楽学研究室<br>
+お問い合わせ：washino@fukuoka-pu.ac.jp<br>
+<br>
+
+<style>
+  .application-box {
+    border: 2px solid #444;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: #f0f0f0;
+    max-width: 400px;
+    margin-top: 45px;
+  }
+</style>
+
+<div class="application-box">
+  【お申し込み】<br>
   <br>
-詳細が決まり次第、ここに公表します。  <br>
-  <br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAKiLQ4Qz5zP9YD6mgF3vJcijoxwDQcVfftgjJXaLBkytl_g/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u> こちら</u></a> のGoogle Formからお願いいたします。<br> 申込者が460名に達した時点で締め切ります。
+</div>
 
 
-
+<br>
 <br>
 主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」<br>
 （2022～2026年度、研究代表者：鷲野彰子）<br>
