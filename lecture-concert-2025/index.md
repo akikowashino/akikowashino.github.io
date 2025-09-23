@@ -56,26 +56,7 @@ lang: jp
 協力：一橋大学小岩信治研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
 <br>
-<style>
-  .application-box {
-    border: 2px solid #444;
-    padding: 20px;
-    font-family: sans-serif;
-    font-weight: 600;
-    background-color: #f0f0f0;
-    max-width: 400px;
-    margin-top: 45px;
-  }
-</style>
 
-<div class="application-box">
-  【お申し込み】<br>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u> こちら</u></a> のGoogle Formからお願いいたします。<br> 申込者が200名に達した時点で締め切ります。
-</div>
-
-
-   <br>
 <p>
   会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer"><u>こちら</u></a> から。
 </p>
