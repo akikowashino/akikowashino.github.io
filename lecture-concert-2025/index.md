@@ -101,7 +101,6 @@ lang: jp
 （2022～2026年度、研究代表者：鷲野彰子）<br>
 協力：大阪大学音楽学研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
-<br>
 
 <style>
   .application-box {
