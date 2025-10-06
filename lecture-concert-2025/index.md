@@ -55,8 +55,6 @@ lang: jp
 （2022～2026年度、研究代表者：鷲野彰子）<br>
 協力：一橋大学小岩信治研究室<br>
 お問い合わせ：washino@fukuoka-pu.ac.jp<br>
-<br>
-
 <p>
   会場の地図は <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer"><u>こちら</u></a> から。
 </p>
