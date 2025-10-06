@@ -64,9 +64,8 @@ lang: jp
 
    <br>
    <br>
-
-<a target="_blank" href="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5">
-  <img src="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5"
+<a target="_blank" href="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert%20%E3%80%8C%E3%83%AB%E3%83%8F%E3%82%99%E3%83%BC%E3%83%88%E3%81%AE%E7%BE%8E%E5%AD%A6Vol.2%E3%80%8D.png">
+  <img src="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert%20%E3%80%8C%E3%83%AB%E3%83%8F%E3%82%99%E3%83%BC%E3%83%88%E3%81%AE%E7%BE%8E%E5%AD%A6Vol.2%E3%80%8D.png"
        alt="LectureConcert『ルバートの美学 Vol.2』チラシ"
        style="float:right; width:250px; border:1px solid black;">
 </a>
