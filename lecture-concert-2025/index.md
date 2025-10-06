@@ -64,6 +64,12 @@ lang: jp
 
    <br>
    <br>
+
+<a target="_blank" href="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5">
+  <img src="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5"
+       alt="LectureConcert『ルバートの美学 Vol.1』チラシ"
+       style="float:right; width:250px; border:1px solid black;">
+</a>
    
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 2」**<br>
 ####    〜ショパンはピアノに何を語らせたかったのか〜<br>
@@ -83,7 +89,7 @@ lang: jp
 
 <div class="event-box">
   <strong>日時：</strong>2025年12月12日（金）17:30開演<br>
-  <strong>会場：</strong>大阪大学会館（〒560-0043　大阪府豊中市待兼山町1-13）<br>
+  <strong>会場：</strong>大阪大学会館「講堂」（〒560-0043　大阪府豊中市待兼山町1-13）<br>
   阪急電車宝塚線「石橋阪大前駅」から西へ徒歩約15分<br>
   大阪モノレール「柴原阪大前駅」北西へ徒歩約15分<br>
 
