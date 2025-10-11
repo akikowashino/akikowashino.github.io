@@ -64,9 +64,10 @@ lang: jp
    <br>
 <a target="_blank" href="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert-Vol2.png">
   <img src="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert-Vol2.png"
-       alt="LectureConcert『ルバートの美学 Vol.2』チラシ"
+       alt="LectureConcert-Vol2.png"
        style="float:right; width:250px; border:1px solid black;">
 </a>
+
    
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 2」**<br>
 ####    〜ショパンはピアノに何を語らせたかったのか〜<br>
