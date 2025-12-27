@@ -103,11 +103,31 @@ lang: jp
 
    <br>
    <br>
-<a target="_blank" href="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert-Vol2.png">
-  <img src="https://raw.githubusercontent.com/akikowashino/akikowashino.github.io/main/assets/LectureConcert-Vol2.png"
-       alt="LectureConcert-Vol2.png"
-       style="float:right; width:250px; border:1px solid black;">
-</a>
+
+
+<br style="clear:both;"><br><br>
+
+<!-- ================= Vol.2 ================= -->
+
+<div class="material-box">
+  <img src="/assets/LectureConcert-Vol2.png"
+       alt="ルバートの美学 Vol.2 チラシ">
+  <br>
+  <a class="download-link"
+     href="/assets/LectureConcert-Vol2.png"
+     download>
+    チラシ ダウンロード
+  </a>
+
+  <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png"
+       alt="ルバートの美学 Vol.2 プログラムノート表紙">
+  <br>
+  <a class="download-link"
+     href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf"
+     target="_blank">
+  　プログラムノート ダウンロード
+  </a>
+</div>
 
    
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 2」**<br>
