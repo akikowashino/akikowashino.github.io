@@ -49,7 +49,7 @@ lang: jp
     チラシ ダウンロード
   </a>
 
-  <img src="/assets/LectureConcert「ルバートの美学Vol.1」プログラムノート表紙.png"
+  <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png"
        alt="ルバートの美学 Vol.1 プログラムノート表紙">
   <br>
   <a class="download-link"
