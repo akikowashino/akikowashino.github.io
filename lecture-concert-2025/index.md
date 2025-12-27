@@ -55,7 +55,7 @@ lang: jp
   <a class="download-link"
      href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
      target="_blank">
-    ⬇ プログラムノートPDF ダウンロードはこちら
+    ⬇ プログラムノート ダウンロードはこちら
   </a>
 </div>
 
