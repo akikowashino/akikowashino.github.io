@@ -12,11 +12,52 @@ lang: jp
 第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降の作品に焦点を当てます。<br>
 <br>
 
-<a target="_blank" href="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5">
-  <img src="https://github.com/user-attachments/assets/42df51d4-abb5-4505-a3a1-f263af82a6e5"
-       alt="LectureConcert『ルバートの美学 Vol.1』チラシ"
-       style="float:right; width:250px; border:1px solid black;">
-</a>
+<style>
+  .material-box {
+    float: right;
+    width: 270px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+  }
+  .material-box img {
+    width: 250px;
+    border: 1px solid #000;
+  }
+  .download-link {
+    display: inline-block;
+    margin: 6px 0 14px 0;
+    padding: 6px 12px;
+    font-size: 0.9em;
+    border: 1px solid #333;
+    background: #f5f5f5;
+    color: #000;
+    text-decoration: none;
+  }
+</style>
+
+<!-- ================= Vol.1 ================= -->
+
+<div class="material-box">
+  <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+       alt="ルバートの美学 Vol.1 チラシ">
+  <br>
+  <a class="download-link"
+     href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+     download>
+    ⬇ チラシ ダウンロードはこちら
+  </a>
+
+  <img src="/assets/LectureConcert「ルバートの美学Vol.1」プログラムノート表紙.png"
+       alt="ルバートの美学 Vol.1 プログラムノート表紙">
+  <br>
+  <a class="download-link"
+     href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
+     target="_blank">
+    ⬇ プログラムノートPDF ダウンロードはこちら
+  </a>
+</div>
 
 ####  **レクチャー・コンサート「ルバートの美学 Vol. 1」**<br>
 ####    〜ワルターの復元楽器で楽しむC.P.E. バッハ、モーツァルト〜<br>
