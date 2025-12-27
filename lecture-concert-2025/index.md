@@ -46,7 +46,7 @@ lang: jp
   <a class="download-link"
      href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
      download>
-    ⬇ チラシ ダウンロードはこちら
+    チラシ ダウンロード
   </a>
 
   <img src="/assets/LectureConcert「ルバートの美学Vol.1」プログラムノート表紙.png"
@@ -55,7 +55,7 @@ lang: jp
   <a class="download-link"
      href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
      target="_blank">
-    ⬇ プログラムノート ダウンロードはこちら
+    プログラムノート ダウンロード
   </a>
 </div>
 
