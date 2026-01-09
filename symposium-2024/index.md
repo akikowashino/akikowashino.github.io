@@ -6,19 +6,43 @@ lang: jp
 
 ### **シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」**<br>
 
-<div style="float:right; width:250px; margin-left:20px;">
-  <a target="_blank" href="https://github.com/user-attachments/files/18140531/_.20241208.pdf">
+<style>
+  .material-box {
+    float: right;
+    width: 270px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+  }
+  .material-box img {
+    width: 250px;
+    border: 1px solid #000;
+  }
+  .download-link {
+    display: inline-block;
+    margin: 6px 0 14px 0;
+    padding: 6px 12px;
+    font-size: 0.9em;
+    border: 1px solid #333;
+    background: #f5f5f5;
+    color: #000;
+    text-decoration: none;
+  }
+</style>
+
+<div class="material-box">
+  <a target="_blank"
+     href="https://github.com/user-attachments/files/18140531/_.20241208.pdf">
     <img src="https://github.com/user-attachments/assets/b5dad13c-4b92-4daa-b462-930c34729a50"
-         alt="Symposium 2024 cover"
-         style="width:250px; border:1px solid black;">
+         alt="Symposium 2024 cover">
   </a>
-  <div style="margin-top:8px; text-align:center;">
-    <a target="_blank"
-       href="https://github.com/user-attachments/files/18140531/_.20241208.pdf"
-       style="text-decoration: underline;">
-      プログラムノート　ダウンロード
-    </a>
-  </div>
+  <br>
+  <a class="download-link"
+     target="_blank"
+     href="https://github.com/user-attachments/files/18140531/_.20241208.pdf">
+    プログラムノート ダウンロード
+  </a>
 </div>
 
 日時：2024年12月8日（日）12:00開始（18:00頃　終了予定）<br>
@@ -27,6 +51,7 @@ lang: jp
 言語：日本語・英語<br>
 
 <div style="padding-top:40px; padding-left: 20px">
+
 
 第1部：演奏解析ツール開発の現在<br>
 Yucong Jiang（University of Richmond, Computer Science）<br>
