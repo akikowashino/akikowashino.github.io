@@ -26,18 +26,23 @@ lang: en
 * Children's Musical Expression
 
 # Research Keywords
-* 19th-century Performance Practices
-* Performance Analysis
-* Player Pianos (Reproducing Pianos)
-* Piano Rolls
-* MIDI
-* Historical Recordings
-* Period Instruments
-* Piano Performance
-* Musical Expression
-* Children's Musical Expression
+* 19th-century performance practice  
+* Performance analysis  
+* Player piano  
+* Piano rolls  
+* MIDI  
+* Preluding  
+* Improvisation  
+* Historical recordings  
+* Period instruments (fortepiano, clavichord)  
+* Piano performance  
+* Musical expression  
+* Children's musical expression  
 
 # Publications
+
+* Shingo Sakurai, Akiko Washino, “Educational Practice Aimed at Improving Expressive Abilities in Art and Music in Early Childhood Education: Producing Video Teaching Materials from the Children’s Perspective,”  
+Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural University, 34(1), 75–87, Oct. 2025.
 * Akiko Washino, "Analysis of an edited performance record :Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42," Osaka University Musicological Journal, 21, 1-15, March 2025.
 * Akiko Washino, Shingo Sakurai, “Developing Educational Practices for Creating Video Teaching Materials in the 'Expression' Domain of Early Childhood Education to Enhance University Students' ICT Utilization Skills and Develop Collaborative Abilities,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 33(2), 53–66, March 2025.
 * Akiko Washino, Craig Stuart Sapp, "Josef Hofmann (1876-1957) Piano Roll Editing: Analysis of Editorial Traces in Duo-Art (No.6401-6)," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 1-21, March 2024.
@@ -60,6 +65,7 @@ lang: en
 
 
 # Presentations
+
 * Akiko Washino, “Practical Analysis of Tempo Rubato from the Perspective of Performance Duration and Dynamics,” Otogaku Symposium 2025 (The 143rd Music Information Science and the 156th Spoken Language Processing Joint Research Conference), June 14, 2025.
 * Akiko Washino, “How to Evaluate Differences in the Same Piece Performed by the Same Performer,” The 142nd MUS Research Meeting, March 8, 2025.
 * Akiko Washino, "Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances," Symposium "Reading Performances: Tools and Analyses of Tempo Rubato Practices," December 8, 2024.
@@ -86,6 +92,7 @@ lang: en
 
 # Magazines & Web Journals
 * "Monthly New Release Reviews," The record geijutsu ONLINE, October 2024 Issue – Present (Monthly).
+* "Piano Concerto No. 2," MOOK *Chopin and the Chopin Competition*, Ongaku no Tomo, 74–75, September 2025.
 * "An Interview with Keiko Shichijo about fortepiano, Mozart, and 19thーcentury performance," The record geijutsu ONLINE, April 2025 Issue.
 * Special Feature "Glenn Gould's 30 Years: The Creative Trail of ‘Recording’ 1952-1982," The record geijutsu, 49, 51, 54 and 57, November 2022 Issue.
 * Record Story No. 52: "J. Hofmann’s The Golden Jubilee Concert," The record geijutsu, 64-68, April 2022 Issue.
@@ -175,6 +182,9 @@ lang: en
 * Book Review: *The Resonance of the Left Hand on the Piano* (Takeshi Sano), Weekly Book Review, April 2016.
 * Newspaper Article: "The MIN-ON Music Museum West Japan Branch," Osaka Daily News, September 9, 2015.
 * Book Review: *Schumann’s Marriage: The Untold Truth* (Piet Waakey Eijsten, trans. Misaki Kazama), Weekly Book Review, June 2015.
+
+# Dictionary
+* “Automatic Musical Instruments,” *Dictionary of Music History*, Maruzen Publishing, pp. 540–541, December 31, 2025.
 
 # Research Projects & Grants
 * "Analysis of Rubato Performance Techniques through Piano Rolls and Historical Performances of the Early 20th Century," Japan Society for the Promotion of Science(JSPS), 2022-2027.
