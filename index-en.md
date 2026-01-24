@@ -40,7 +40,6 @@ lang: en
 * Children's musical expression  
 
 # Publications
-
 * Shingo Sakurai, Akiko Washino, “Educational Practice Aimed at Improving Expressive Abilities in Art and Music in Early Childhood Education: Producing Video Teaching Materials from the Children’s Perspective,”  
 Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural University, 34(1), 75–87, Oct. 2025.
 * Akiko Washino, "Analysis of an edited performance record :Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42," Osaka University Musicological Journal, 21, 1-15, March 2025.
@@ -65,7 +64,22 @@ Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural Univers
 
 
 # Presentations
-
+* Akiko Washino,  
+  “Exploring Performance Possibilities of Chopin’s Works from Historical Performances,”  
+  Lecture Concert “Aesthetics of Rubato Vol. 2: What Did Chopin Want the Piano to Express?”,  
+  Osaka University Hall, Dec. 12, 2025.
+* Akiko Washino,  
+  “The Left-Hand Accompaniment in Mozart’s Adagio K.540 by Fritz von Bose,”  
+  Panel: “Reconsidering Early Tempo Rubato” (Akiko Washino, Yasushi Ueda, Hermann Gottschewski, Ryohei Hashimoto, Natsuko Jimbo),  
+  76th Annual Conference of the Musicological Society of Japan, Sapporo Otani University, Nov. 1, 2025.
+* Akiko Washino,  
+  “Source Criticism and Qualitative Interpretation in Historical Performance Practice:  
+  A Case Study of Carl Reinecke’s Performance of Mozart’s Piano Concerto K.537,”  
+  144th SIGMUS Meeting (Summer Symposium), Keio University Hiyoshi Campus, Aug. 31, 2025.
+* Akiko Washino,  
+  “Performing Mozart’s Works According to Carl Reinecke,”  
+  Lecture Concert “Aesthetics of Rubato Vol. 1: C.P.E. Bach and Mozart on Walter’s Reconstructed Instrument,”  
+  Hitotsubashi University Josuikai 100th Anniversary Intelligent Hall, July 30, 2025.
 * Akiko Washino, “Practical Analysis of Tempo Rubato from the Perspective of Performance Duration and Dynamics,” Otogaku Symposium 2025 (The 143rd Music Information Science and the 156th Spoken Language Processing Joint Research Conference), June 14, 2025.
 * Akiko Washino, “How to Evaluate Differences in the Same Piece Performed by the Same Performer,” The 142nd MUS Research Meeting, March 8, 2025.
 * Akiko Washino, "Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances," Symposium "Reading Performances: Tools and Analyses of Tempo Rubato Practices," December 8, 2024.
