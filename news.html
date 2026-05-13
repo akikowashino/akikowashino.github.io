@@ -1,113 +1,14 @@
-
-<h1> News </h1>
-
-<ul class="msr_newslist01">
-<li></li>
-
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-19-02">2025/12/12</time>
-	<p class="cat01">Concert</p>
-	</div>
-	<p>レクチャー・コンサート「ルバートの美学　Vol.2」を開催しました</p>
-	</a>
-</li>
-
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-19-02">2025/10/02</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>レクチャー・コンサート「ルバートの美学　Vol.2」（2025年12月12日）開催のお知らせ</p>
-	</a>
-</li>
-	
-<li>
-	<a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank">
-	<div>
-	<time datetime="2025-08-02">2025/08/02</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>レコ芸ONLINEにレクチャー・コンサート「ルバートの美学　Vol.1」のレポートが掲載されました</p>
-	</a>
-</li>	
-<li>
-	<a href="/rubato-vol1-2025" target="_blank">
-	<div>
-	<time datetime="2025-07-30">2025/07/30</time>
-	<p class="cat01">Concert</p>
-	</div>
-	<p>レクチャー・コンサート「ルバートの美学　Vol.1」を開催しました</p>
-	</a>
-</li>	
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-06-01">2025/06/01</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>レクチャー・コンサート「ルバートの美学　Vol.1」（2025年7月30日）開催のお知らせ</p>
-	</a>
-</li><li>
-	<a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report1.pdf" target="_blank">
-	<div>
-	<time datetime="2025-02-28">2025/02/28</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>日本音楽学会のHPに「音楽関係学術イベント開催助成金報告記（鷲野彰子）」が掲載されました</p>
-	</a>
-</li><li>
-	<a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report2.pdf" target="_blank">
-	<div>
-	<time datetime="2025-02-28">2025/02/28</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>日本音楽学会のHPに「音楽関係学術イベント開催助成金傍聴記（神保夏子）」が掲載されました</p>
-	</a>
-</li><li>
-	<a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
-	<div>
-	<time datetime="2025-02-18">2025/02/18</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>ピティナ・音楽研究所のHPにシンポジウム「演奏を読む」のレポートが掲載されました</p>
-	</a>
-</li><li>
-	<a href="/symposium-2024" target="_blank">
-	<div>
-	<time datetime="2024-12-08">2024/12/08</time>
-	<p class="cat01">Lecture</p>
-	</div>
-	<p>シンポジウム「演奏を読む」を開催しました</p>
-	</a>
-</li><li>
-	<a href="https://www.musicology.jp/event/894/" target="_blank">
-	<div>
-	<time datetime="2025-02-18">2024/11/20</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>シンポジウム「演奏を読む」（2024年12月8日）開催のお知らせ</p>
-	</a>
-</li>
-</ul>
-
-<button id="toggle-btn" class="show-more-button">それ以前の記事を表示</button>
-
-
-
-<!-- 【2. CSS】ここから追加（見た目の設定） -->
+<!-- ① 見た目の設定 -->
 <style>
-  /* 7番目以降を隠す設定 */
-  .msr_newslist01 li.hidden-item {
+  /* 7番目以降のリストを初期状態で隠す */
+  #news-list li.hidden-item {
     display: none !important;
   }
-  /* ボタンを押した時に表示させる設定 */
-  .msr_newslist01 li.is-show {
+  /* ボタンを押した時に表示させる */
+  #news-list li.is-show {
     display: list-item !important;
   }
-  /* ボタンの装飾 */
+  /* ボタンの装飾（お好みに合わせて調整してください） */
   .show-more-button {
     display: block;
     margin: 30px auto;
@@ -125,63 +26,125 @@
   }
 </style>
 
-<!-- ここから元のHTML（一部 IDを追加しています） -->
+<!-- ② Newsリスト本体 -->
 <h1> News </h1>
 
 <ul class="msr_newslist01" id="news-list">
-  <li></li> <!-- 1つ目の空要素 -->
-  <li><a href="/lecture-concert-2025" target="_blank"><div><time datetime="2025-19-02">2025/12/12</time><p class="cat01">Concert</p></div><p>レクチャー・コンサート「ルバートの美学　Vol.2」を開催しました</p></a></li>
-  <li><a href="/lecture-concert-2025" target="_blank"><div><time datetime="2025-19-02">2025/10/02</time><p class="cat01">Notice</p></div><p>レクチャー・コンサート「ルバートの美学　Vol.2」（2025年12月12日）開催のお知らせ</p></a></li>
-  <li><a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank"><div><time datetime="2025-08-02">2025/08/02</time><p class="cat01">Report</p></div><p>レコ芸ONLINEにレクチャー・コンサート「ルバートの美学　Vol.1」のレポートが掲載されました</p></a></li>
-  <li><a href="/rubato-vol1-2025" target="_blank"><div><time datetime="2025-07-30">2025/07/30</time><p class="cat01">Concert</p></div><p>レクチャー・コンサート「ルバートの美学　Vol.1」を開催しました</p></a></li>
-  <li><a href="/lecture-concert-2025" target="_blank"><div><time datetime="2025-06-01">2025/06/01</time><p class="cat01">Notice</p></div><p>レクチャー・コンサート「ルバートの美学　Vol.1」（2025年7月30日）開催のお知らせ</p></a></li>
-  <li><a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report1.pdf" target="_blank"><div><time datetime="2025-02-28">2025/02/28</time><p class="cat01">Report</p></div><p>日本音楽学会のHPに「報告記（鷲野彰子）」が掲載されました</p></a></li>
-  <li><a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report2.pdf" target="_blank"><div><time datetime="2025-02-28">2025/02/28</time><p class="cat01">Report</p></div><p>日本音楽学会のHPに「傍聴記（神保夏子）」が掲載されました</p></a></li>
-  <li><a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank"><div><time datetime="2025-02-18">2025/02/18</time><p class="cat01">Report</p></div><p>ピティナ・レポートが掲載されました</p></a></li>
-  <li><a href="/symposium-2024" target="_blank"><div><time datetime="2024-12-08">2024/12/08</time><p class="cat01">Lecture</p></div><p>シンポジウム「演奏を読む」を開催しました</p></a></li>
-  <li><a href="https://www.musicology.jp/event/894/" target="_blank"><div><time datetime="2025-02-18">2024/11/20</time><p class="cat01">Notice</p></div><p>シンポジウム開催のお知らせ</p></a></li>
+  <!-- 最初の空行（必要なければ削除してください） -->
+  <li></li>
+
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div><time datetime="2025-12-12">2025/12/12</time><p class="cat01">Concert</p></div>
+      <p>レクチャー・コンサート「ルバートの美学　Vol.2」を開催しました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div><time datetime="2025-10-02">2025/10/02</time><p class="cat01">Notice</p></div>
+      <p>レクチャー・コンサート「ルバートの美学　Vol.2」（2025年12月12日）開催のお知らせ</p>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank">
+      <div><time datetime="2025-08-02">2025/08/02</time><p class="cat01">Report</p></div>
+      <p>レコ芸ONLINEにレクチャー・コンサート「ルバートの美学　Vol.1」のレポートが掲載されました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="/rubato-vol1-2025" target="_blank">
+      <div><time datetime="2025-07-30">2025/07/30</time><p class="cat01">Concert</p></div>
+      <p>レクチャー・コンサート「ルバートの美学　Vol.1」を開催しました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div><time datetime="2025-06-01">2025/06/01</time><p class="cat01">Notice</p></div>
+      <p>レクチャー・コンサート「ルバートの美学　Vol.1」（2025年7月30日）開催のお知らせ</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report1.pdf" target="_blank">
+      <div><time datetime="2025-02-28">2025/02/28</time><p class="cat01">Report</p></div>
+      <p>日本音楽学会のHPに「音楽関係学術イベント開催助成金報告記（鷲野彰子）」が掲載されました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report2.pdf" target="_blank">
+      <div><time datetime="2025-02-28">2025/02/28</time><p class="cat01">Report</p></div>
+      <p>日本音楽学会のHPに「音楽関係学術イベント開催助成金傍聴記（神保夏子）」が掲載されました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
+      <div><time datetime="2025-02-18">2025/02/18</time><p class="cat01">Report</p></div>
+      <p>ピティナ・音楽研究所のHPにシンポジウム「演奏を読む」のレポートが掲載されました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="/symposium-2024" target="_blank">
+      <div><time datetime="2024-12-08">2024/12/08</time><p class="cat01">Lecture</p></div>
+      <p>シンポジウム「演奏を読む」を開催しました</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.musicology.jp/event/894/" target="_blank">
+      <div><time datetime="2024-11-20">2024/11/20</time><p class="cat01">Notice</p></div>
+      <p>シンポジウム「演奏を読む」（2024年12月8日）開催のお知らせ</p>
+    </a>
+  </li>
 </ul>
 
+<!-- ③ 切り替えボタン -->
 <button id="toggle-btn" class="show-more-button">それ以前の記事を表示</button>
 
-<!-- 【3. JavaScript】ここから追加（動かす命令） -->
+<!-- ④ 動かすためのプログラム -->
 <script>
-  // ページが読み込まれたら実行
+  // ページが完全に読み込まれたら実行
   window.addEventListener('load', function() {
-    const visibleCount = 6; // 表示させたい件数
+    const visibleCount = 6; // 最初に見せる数（6項目）
     const listParent = document.getElementById('news-list');
-    if (!listParent) return; // エラー防止
-    
-    const listItems = listParent.querySelectorAll('li');
     const btn = document.getElementById('toggle-btn');
+    
+    if (!listParent || !btn) return;
 
-    // 7番目以降に隠す用のクラスをつける
+    const listItems = listParent.querySelectorAll('li');
+
+    // 1. 自動振り分け：7番目以降に隠す用のクラスをつける
     listItems.forEach((item, index) => {
       if (index >= visibleCount) {
         item.classList.add('hidden-item');
       }
     });
 
-    // そもそも件数が少なければボタンを消す
+    // 2. 記事が指定数以下ならボタンを隠す
     if (listItems.length <= visibleCount) {
-      if(btn) btn.style.display = 'none';
+      btn.style.display = 'none';
     }
 
-    // ボタンクリック時の挙動
-    if(btn) {
-      btn.addEventListener('click', function() {
-        const hiddenItems = listParent.querySelectorAll('.hidden-item');
-        hiddenItems.forEach(item => {
-          item.classList.toggle('is-show');
-        });
-
-        // ボタンの文字を切り替え
-        if (btn.innerText === 'それ以前の記事を表示') {
-          btn.innerText = '閉じる';
-        } else {
-          btn.innerText = 'それ以前の記事を表示';
-        }
+    // 3. ボタンを押した時の動き
+    btn.addEventListener('click', function() {
+      const hiddenItems = listParent.querySelectorAll('.hidden-item');
+      
+      hiddenItems.forEach(item => {
+        item.classList.toggle('is-show');
       });
-    }
+
+      // ボタンの文字を切り替える
+      if (btn.innerText === 'それ以前の記事を表示') {
+        btn.innerText = '閉じる';
+      } else {
+        btn.innerText = 'それ以前の記事を表示';
+      }
+    });
   });
 </script>
