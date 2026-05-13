@@ -93,4 +93,34 @@
 </li>
 </ul>
 
+<button id="toggle-btn" class="show-more-button">それ以前の記事を表示</button>
 
+/* 7番目以降を隠す設定 */
+.hidden-item {
+  display: none !important;
+}
+
+/* ボタンを押した時に表示させる設定 */
+.hidden-item.is-show {
+  display: block !important; /* リストのデザインに合わせて調整してください */
+}
+
+/* ボタンの装飾（お好みで調整） */
+.show-more-button {
+  display: block;
+  margin: 20px auto;
+  padding: 12px 30px;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-size: 14px;
+}
+.show-more-button:hover {
+  background-color: #eee;
+}
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // 先ほどのJavaScriptコードをここにすべて貼る
+  });
+</script>
