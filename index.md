@@ -60,8 +60,9 @@ lang: jp
 * 鷲野彰子, Craig Stuart Sapp<br>
  <a href="https://fukuoka-pu.repo.nii.ac.jp/records/2000094" class="external-link" target="_blank" rel="noopener noreferrer">「ヨゼフ・ホフマン(1876-1957, Josef Hofmann)のピアノロール編集：デュオ＝アート（No. 6401-6）の編集痕跡の分析」
  </a>, 福岡県立大学人間社会学部紀要 32(2), 1-21, 2024年3月.
-* 鷲野彰子<br>
-「特別支援教科書『おんがく☆』（星本）と小学校音楽教科書の表記の差異」福岡県立大学人間社会学部紀要 32(2), 55-64, 2024年3月.
+* 鷲野彰子, <br>
+ <a href="https://fukuoka-pu.repo.nii.ac.jp/records/2000098" class="external-link" target="_blank" rel="noopener noreferrer">「特別支援教科書『おんがく☆』（星本）と小学校音楽教科書の表記の差異」
+ </a>, 福岡県立大学人間社会学部紀要 32(2), 55-64, 2024年3月.
 * 鷲野彰子<br>
  <a href="https://www.jstage.jst.go.jp/article/jmes/21/0/21_1/_article/-char/ja" target="_blank" rel="noopener noreferrer">「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」
  </a>, 音楽表現学, 21, 1-20, 2023年11月.
