@@ -63,8 +63,6 @@ lang: jp
 * 鷲野彰子<br>
 「特別支援教科書『おんがく☆』（星本）と小学校音楽教科書の表記の差異」福岡県立大学人間社会学部紀要 32(2), 55-64, 2024年3月.
 * 鷲野彰子<br>
-「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」音楽表現学, 21, 1-20, 2023年11月.
-* 鷲野彰子<br>
  <a href="https://www.jstage.jst.go.jp/article/jmes/21/0/21_1/_article/-char/ja" target="_blank" rel="noopener noreferrer">「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」
  </a>, 音楽表現学, 21, 1-20, 2023年11月.
 * 鷲野彰子<br>
