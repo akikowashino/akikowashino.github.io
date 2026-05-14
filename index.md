@@ -65,6 +65,9 @@ lang: jp
 * 鷲野彰子<br>
 「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」音楽表現学, 21, 1-20, 2023年11月.
 * 鷲野彰子<br>
+ <a href="https://www.jstage.jst.go.jp/article/jmes/21/0/21_1/_article/-char/ja" target="_blank" rel="noopener noreferrer">「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」
+ </a>, 音楽表現学, 21, 1-20, 2023年11月.
+* 鷲野彰子<br>
 「ヨゼフ・ホフマン（1876-1957）の即興的前奏演奏」阪大音楽学報, 19, 47-73, 2023年3月.
 * Akiko Washino<br>
 "The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played", The Element of dance in music of the first half of the nineteenth century, 179-203 2023.
