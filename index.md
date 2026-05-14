@@ -151,14 +151,6 @@ lang: jp
 * 新譜月評, レコード芸術ONLINE, 2024年10月号〜現在（毎月）.
 * 「フォルテピアノ界の大御所、リュビモフの彩り豊かな演奏」, MOOK『レコード芸術2026』（音楽之友社）, 38, 2026年1月.
 * 「ピアノ協奏曲第2番」, MOOK『ショパンとショパン・コンクール』（音楽之友社）, 74-75, 2025年9月.
-* <li style="position: relative; list-style: none; padding: 5px 30px 5px 0; border-bottom: 1px dotted #ccc;">
-  <a href="https://recogei.ontomo-mag.com/article/interview/p-16439/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-    インタビュー「七條恵子に聞くフォルテピアノとモーツァルト、19世紀のこと」, レコード芸術ONLINE, 2025年4月号.
-    <span style="position: absolute; right: 5px; top: 50%; transform: translateY(-50%); font-size: 0.8em;">
-      <i class="fas fa-external-link-alt"></i> 🔗
-    </span>
-  </a>
-</li>
 *  <a href="https://recogei.ontomo-mag.com/article/interview/p-16439/" class="external-link" target="_blank" rel="noopener noreferrer">インタビュー「七條恵子に聞くフォルテピアノとモーツァルト、19世紀のこと」</a>, レコード芸術ONLINE, 2025年4月号.
 * 特集「グレン・グールドの30年：「録音」という創造の軌跡1952-1982」内のコラム「グレン・グールドの演奏とノイズ」とディスク・レビュー（4点）, 『レコード芸術』, 2022年11月号, 49, 51, 54, 57, 2022年10月.  
 * レコード誕生物語第52回「現代に通じるモダニスト。J.ホフマンのザ・ゴールデン・ジュビリー・コンサート」, 『レコード芸術』, 2022年4月号, 64-68, 2022年3月.   
