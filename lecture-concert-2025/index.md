@@ -109,7 +109,7 @@ lang: jp
 
 <!-- ================= Vol.2 ================= -->
 
-<div class="material-box">
+<div class="material-box" id="vol2">
   <img src="/assets/LectureConcert-Vol2.png"
        alt="ルバートの美学 Vol.2 チラシ">
   <br>
