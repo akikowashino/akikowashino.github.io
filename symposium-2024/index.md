@@ -98,12 +98,11 @@ Hermann Gottschewski（東京大学　音楽学）<br>
   <strong>お問い合わせ：</strong>washino@fukuoka-pu.ac.jp<br>
 </div>
 
-<br>
-＊ピティナ・音楽研究所のWebページに本シンポジウムのレポートが掲載されました。
-https://prim.piano.or.jp/2025/02/entry_29.html
-</div>
+<style>
+  .web-icon-font { color: #d93333; margin-left: 8px; font-size: 0.9em; vertical-align: middle; }
+</style>
 
-
+＊ピティナ・音楽研究所のWebページに<a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank" rel="noopener noreferrer"><u>本シンポジウムのレポート</u></a>が掲載されました。<i class="fas fa-external-link-alt web-icon-font"></i>
 
 
 
