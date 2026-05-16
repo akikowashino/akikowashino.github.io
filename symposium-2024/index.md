@@ -64,7 +64,7 @@ Yucong Jiang（University of Richmond, Computer Science）<br>
  「楽器演奏における個人特徴の統計的モデル化技術の概要と応用」<br>
 Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
  「ショパンのマズルカにおける２拍子」<br>
-<br>
+<br><br>
 <strong>第２部：演奏解析で読み解くテンポ・ルバートの実践分析</strong><br>
 高橋舞（日本学術振興会　音楽学）<br>
  「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」<br>
@@ -74,7 +74,7 @@ Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
  「フランシス・プランテ（Francis Planté, 1839-1934）の演奏に具現化されたショパンの「テンポ・ルバート」<br>
 Hermann Gottschewski（東京大学　音楽学）<br>
  「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」<br>
-<br>
+<br><br>
 <strong>第３部:ディスカッション</strong><br>
 コメンテーター　伊東信宏（大阪大学）<br>
 <br>
