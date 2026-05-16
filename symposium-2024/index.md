@@ -55,7 +55,7 @@ lang: jp
 <div style="padding-top:40px; padding-left: 20px">
 
 
-<strong>第1部：演奏解析ツール開発の現在</strong><br>
+<strong>第1部：演奏解析ツール開発の現在</strong><br><br>
 Yucong Jiang（University of Richmond, Computer Science）<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
  「パフォーマンス・プレシジョン：コンピュータ支援による音楽パフォーマンスの注釈と分析」</span><br><br>
@@ -86,7 +86,7 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
  「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」</span><br>
 <br><br>
-<strong>第３部:ディスカッション</strong><br>
+<strong>第３部:ディスカッション</strong><br><br>
 コメンテーター　伊東信宏（大阪大学）<br>
 <br>
 <br>
