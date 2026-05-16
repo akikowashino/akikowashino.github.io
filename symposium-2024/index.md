@@ -86,7 +86,7 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
  「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」</span><br>
 <br><br>
-<strong>第３部:ディスカッション</strong><br><br>
+<strong>第３部：ディスカッション</strong><br><br>
 コメンテーター　伊東信宏（大阪大学）<br>
 <br>
 
@@ -106,7 +106,7 @@ Hermann Gottschewski（東京大学　音楽学）<br>
   </div>
 
   <div>
-    <strong>【お問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
+    <strong>【問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
   </div>
 
 </div>
