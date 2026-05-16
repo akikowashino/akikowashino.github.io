@@ -57,15 +57,20 @@ lang: jp
 
 <strong>第1部：演奏解析ツール開発の現在</strong><br>
 Yucong Jiang（University of Richmond, Computer Science）<br>
- 「パフォーマンス・プレシジョン：コンピュータ支援による音楽パフォーマンスの注釈と分析」<br>
+<span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
+ 「パフォーマンス・プレシジョン：コンピュータ支援による音楽パフォーマンスの注釈と分析」</span><br><br>
 印藤海翔, 山本邦雄, 尾下真樹（九州工業大学　メディア情報学）<br>
- 「演奏速度のずれを活用したピアノ演奏の比較分析補助ツールの開発」<br>
+<span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
+ 「演奏速度のずれを活用したピアノ演奏の比較分析補助ツールの開発」</span><br><br>
 中村栄太（九州大学　音楽情報処理）<br>
- 「ピアノ演奏分析のための自動採譜とアライメント」<br>
+<span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
+ 「ピアノ演奏分析のための自動採譜とアライメント」</span><br><br>
 奥村健太（名古屋国際工科専門職大学　情報工学）<br>
- 「楽器演奏における個人特徴の統計的モデル化技術の概要と応用」<br>
+<span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
+ 「楽器演奏における個人特徴の統計的モデル化技術の概要と応用」</span><br><br>
 Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
- 「ショパンのマズルカにおける２拍子」<br>
+<span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
+ 「ショパンのマズルカにおける２拍子」</span><br><br>
 <br><br>
 <strong>第２部：演奏解析で読み解くテンポ・ルバートの実践分析</strong><br><br>
 高橋舞（日本学術振興会　音楽学）<br>
