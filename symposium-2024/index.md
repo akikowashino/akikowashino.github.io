@@ -106,11 +106,12 @@ Hermann Gottschewski（東京大学　音楽学）<br>
   </div>
 
   <div>
-    <strong>【問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
+    <strong>【お問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
   </div>
 
 </div>
 
+<br>
 <style>
   .web-icon-font { color: #d93333; margin-left: 8px; font-size: 0.9em; vertical-align: middle; }
 </style>
