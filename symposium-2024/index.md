@@ -91,7 +91,7 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 <br>
 
 <div style="font-size: 0.95em; line-block; line-height: 1.7;">
-  <strong>主催：</strong><br>
+  <strong>主催：</strong>
   <span style="display: inline-block; margin-left: 1.5em;">科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」</span><br>
   <span style="display: inline-block; margin-left: 1.5em;">（2022～2026年度、研究代表者：鷲野彰子）</span><br>
   <strong>助成：</strong>日本音楽学会　<strong>協力：</strong>大阪大学音楽学研究室<br>
