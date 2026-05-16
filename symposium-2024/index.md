@@ -90,12 +90,25 @@ Hermann Gottschewski（東京大学　音楽学）<br>
 コメンテーター　伊東信宏（大阪大学）<br>
 <br>
 
-<div style="font-size: 0.95em; line-block; line-height: 1.7;">
-  <strong>主催：</strong>
-  <span style="display: inline-block; margin-left: 1.5em;">科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」</span><br>
-  <span style="display: inline-block; margin-left: 1.5em;">（2022～2026年度、研究代表者：鷲野彰子）</span><br>
-  <strong>助成：</strong>日本音楽学会　<strong>協力：</strong>大阪大学音楽学研究室<br>
-  <strong>お問い合わせ：</strong>washino@fukuoka-pu.ac.jp<br>
+<div style="font-size: 0.95em; line-height: 1.8; margin-top: 30px; padding-top: 20px; border-top: 1px dashed #ccc;">
+  
+  <div style="margin-bottom: 8px;">
+    <strong>【主　催】</strong>科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」<br>
+    <span style="display: inline-block; margin-left: 5em; color: #555;">（2022～2026年度、研究代表者：鷲野彰子）</span>
+  </div>
+
+  <div style="margin-bottom: 8px;">
+    <strong>【助　成】</strong>日本音楽学会
+  </div>
+
+  <div style="margin-bottom: 8px;">
+    <strong>【協　力】</strong>大阪大学音楽学研究室
+  </div>
+
+  <div>
+    <strong>【問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
+  </div>
+
 </div>
 
 <style>
