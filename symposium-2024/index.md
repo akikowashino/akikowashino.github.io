@@ -67,26 +67,23 @@ Yucong Jiang（University of Richmond, Computer Science）<br>
 Craig Stuart Sapp（Stanford University, Computational Musicology）<br>
  「ショパンのマズルカにおける２拍子」<br>
 <br><br>
-<strong>第２部：演奏解析で読み解くテンポ・ルバートの実践分析</strong><br>
+<strong>第２部：演奏解析で読み解くテンポ・ルバートの実践分析</strong><br><br>
 高橋舞（日本学術振興会　音楽学）<br>
-<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
- 「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」</span><br>
+ 「演奏の形成における流派の役割：バッハの《半音階的幻想曲とフーガ》を事例として」</span><br><br>
 上田泰史（京都大学　音楽学）<br>
-<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
- 「ショパンらしさの構築：C. サン＝サーンスとR. プーニョによるテンポ・ルバート実践」</span><br>
+ 「ショパンらしさの構築：C. サン＝サーンスとR. プーニョによるテンポ・ルバート実践」</span><br><br>
 鷲野彰子（福岡県立大学　音楽学）<br>
-<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
- 「フランシス・プランテ（Francis Planté, 1839-1934）の演奏に具現化されたショパンの「テンポ・ルバート」</span><br>
+ 「フランシス・プランテ（Francis Planté, 1839-1934）の演奏に具現化されたショパンの「テンポ・ルバート」</span><br><br>
 Hermann Gottschewski（東京大学　音楽学）<br>
-<br>
 <span style="font-size: 0.9em; color: #555; padding-left: 10px; display: inline-block;">
  「拍の位置を定められない演奏の時間構造：マックス・レーガーの自作ユーモレスク作品20第五番ト短調（WM 1017, 1905年12月8日記録）の演奏における12〜18小節の分析を中心に」</span><br>
 <br><br>
 <strong>第３部:ディスカッション</strong><br>
 コメンテーター　伊東信宏（大阪大学）<br>
+<br>
 <br>
 主催：科学研究費基盤研究（Ｂ）「20世紀前半の歴史的演奏とピアノロールの演奏解析によるルバート奏法分析」（2022～2026年度、研究代表者：鷲野彰子）<br>
 助成：日本音楽学会　協力：大阪大学音楽学研究室<br>
