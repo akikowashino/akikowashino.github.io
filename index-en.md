@@ -189,10 +189,38 @@ Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural Univers
 * “Automatic Musical Instruments,” *Dictionary of Music History*, Maruzen Publishing, pp. 540–541, December 31, 2025.
 
 # Research Projects & Grants
-* "Analysis of Rubato Performance Techniques through Piano Rolls and Historical Performances of the Early 20th Century," Japan Society for the Promotion of Science(JSPS), 2022-2027.
-* "Prelude Performance in 19th-Century Musical Culture," Japan Society for the Promotion of Science(JSPS), 2019-2022.
-* "Analyzing 'Preluding' in Early Recordings and Musical Scores: The Role of Preludes in 19th-Century Performance Practices," Kao Foundation for Arts and Sciences, Grant for Research in Music under the Arts and Culture Division, 2019-2020.
-* "Quantitative Analysis of Waltz Performances Using Piano Rolls," Japan Society for the Promotion of Science(JSPS), Young Researchers’ Grant, 2015-2018.
-* "Analyzing Rubato through Piano Rolls," Kawai Sound Technology Foundation, 2016-2017.
-* "Tracing 19th-Century Performance Practices Through Recordings," Japan Society for the Promotion of Science(JSPS),Young Researchers’ Grant, 2013-2015.
+
+* "Deepening Performance Analysis Using Sound and Score Media: Focusing on Chopin's Mazurkas" <br>
+  JSPS KAKENHI Grant-in-Aid for Scientific Research (A), April 2026–March 2031 <br>
+  **Principal Investigator:** Akiko Washino; **Co-Investigators:** Nobuhiro Ito, Yasushi Ueda, Hermann Gottschewski, Hiroko Nishida, Risa Matsuo, Eita Nakamura, Mitsuyo Hashida
+
+* "Prefectural University Video Production Project" <br>
+  Tagawa City "Bringing Learning to the Town × Shaping Ideas into Reality: Campus to Community Project," April 2026–March 2027 <br>
+  **Principal Investigator:** Akiko Washino
+
+* "Analysis of Rubato Performance Techniques through Quantitative Analysis of Piano Rolls and Historical Performances of the Early 20th Century" <br>
+  JSPS KAKENHI Grant-in-Aid for Scientific Research (B), April 2022–March 2026 <br>
+  **Principal Investigator:** Akiko Washino; **Co-Investigators:** Nobuhiro Ito, Yasushi Ueda, Kunio Yamamoto
+
+* "Prelude Performance in 19th-Century Musical Culture" <br>
+  JSPS KAKENHI Grant-in-Aid for Scientific Research (C), April 2019–March 2022 <br>
+  **Principal Investigator:** Akiko Washino (Solo)
+
+* "Analyzing 'Preluding' in Early Recordings and Musical Scores: The Role of Preludes in 19th-Century Performance Practices" <br>
+  Kao Foundation for Arts and Sciences, Grant for Music Research (Arts and Culture Division), April 2019–March 2020 <br>
+  **Principal Investigator:** Akiko Washino (Solo)
+
+* "Performance Analysis of Waltz Works Using Quantitative Analysis of Piano Rolls" <br>
+  JSPS KAKENHI Grant-in-Aid for Young Scientists (B), April 2015–March 2018 <br>
+  **Principal Investigator:** Akiko Washino (Solo)
+
+* "Analysis of Rubato Performance Techniques through Quantitative Analysis of Piano Rolls" <br>
+  Kawai Sound Technology and Music Foundation, Research Grant for Music Promotion, April 2016–March 2017 <br>
+  **Principal Investigator:** Akiko Washino (Solo)
+
+* "Tracing 19th-Century Performance Styles Through Recordings" <br>
+  JSPS KAKENHI Grant-in-Aid for Young Scientists (B), April 2013–March 2015 <br>
+  **Principal Investigator:** Akiko Washino (Solo)
+
+
 
