@@ -64,33 +64,60 @@ Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural Univers
 
 
 # Presentations
-* Akiko Washino, “Exploring Performance Possibilities of Chopin’s Works Based on Historical Performances,” Lecture Concert “Aesthetics of Rubato Vol. 2: What Did Chopin Want the Piano to Express?”, Osaka University Hall, December 12, 2025.
-* Akiko Washino, “The Left-Hand Accompaniment in Mozart’s Adagio K.540 by Fritz von Bose,” Panel “Reconsidering Early Tempo Rubato,” The 76th Annual Conference of the Musicological Society of Japan, Sapporo Otani University, November 1, 2025.
-* Akiko Washino, “Source Criticism and Qualitative Interpretation in Historical Performance Practice: A Case Study of Carl Reinecke’s Performance of Mozart’s Piano Concerto K.537,” The 144th Music Information Science Research Meeting (SIGMUS Summer Symposium), Keio University Hiyoshi Campus, August 31, 2025.
-* Akiko Washino, “Performing Mozart’s Works According to Carl Reinecke,” Lecture Concert “Aesthetics of Rubato Vol. 1: C.P.E. Bach and Mozart on Walter’s Reconstructed Instrument,” Hitotsubashi University Josuikai 100th Anniversary Intelligent Hall, July 30, 2025.
-* Akiko Washino, “Practical Analysis of Tempo Rubato from the Perspective of Performance Duration and Dynamics,” Otogaku Symposium 2025 (The 143rd Music Information Science and the 156th Spoken Language Processing Joint Research Conference), June 14, 2025.
-* Akiko Washino, “How to Evaluate Differences in the Same Piece Performed by the Same Performer,” The 142nd MUS Research Meeting, March 8, 2025.
-* Akiko Washino, "Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances," Symposium "Reading Performances: Tools and Analyses of Tempo Rubato Practices," December 8, 2024.
-* Akiko Washino, Craig Stuart Sapp, "Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz Op. 42 (Duo-Art 6401-6)," 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, July 27, 2024.
-* Akiko Washino, "Performance Analysis through Quantitative Study of Piano Rolls," Kobe University, November 23, 2023.
-* Akiko Washino, "Improvised Prelude Performances Notated in Scores," 74th Annual Conference of the Musicological Society of Japan, November 4, 2023.
-* Akiko Washino, "Analyzing 20th-century Early Improvised Prelude Practices," 21st Annual Conference of the Japanese Society for Music Expression Studies, June 18, 2023.
-* Akiko Washino, “Analyzing Improvised Prelude Practices in Early 20th-Century Concerts,” 73rd Annual Conference of the Musicological Society of Japan, November 27, 2022.
-* Akiko Washino, “Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 to Investigate How Tempo Rubato Was Applied by Performers Born in the 19th Century,” 2nd Global Piano Roll Meeting, Hochschule der Künste Bern (Bern), June 18, 2022.
-* Akiko Washino, “The Culture of Performing Preludes: Prelude Performances Preserved in Early Recordings,” 18th Annual Conference of the Japanese Society for Music Expression Studies (Published in Music Expression Studies Vol. 18), July 31, 2020.
-* Akiko Washino, “Mazurka Inflections in Chopin’s Waltz Op. 42: A Performance Analysis of Recordings and Editions by Moriz Rosenthal and Other Contemporary Pianists,” International Chopinological Conference, The Institute of Art of the Polish Academy of Sciences, November 20, 2019.
-* Akiko Washino, “Elucidating the Modern and Romantic Aspects of Josef Hofmann’s Pianism Through Performance Analysis,” IMSEA (International Musicological Society East Asia Conference), October 18, 2019.
-* Akiko Washino, “Turning Points in Performance: The Emergence of Modern Pianism,” 17th Annual Conference of the Japanese Society for Music Expression Studies, June 16, 2019.
-* Akiko Washino, “Josef Hofmann at the Crossroads of Romantic and Modern Pianism,” 69th Annual Conference of the Musicological Society of Japan, November 3, 2018.
-* Akiko Washino, Craig Stuart Sapp, “Performance Analysis of Alfred Grünfeld’s Acoustic and Piano-Roll Recordings of Schumann’s Träumerei,” Symposium “Reactions to the Record VI,” Stanford University, April 7, 2018.
-* Akiko Washino, “Differences and Trends in Multiple Performances by the Same Performer: Tempo and Variations in Speed,” 15th Annual Conference of the Japanese Society for Music Expression Studies, June 18, 2017.
-* Akiko Washino, “A Performance Analysis Utilizing the Piano Rolls of Chopin’s Op. 42,” Conference “Ghosts in the Machine: The Player-Piano,” Cornell University, May 5, 2017.
-* Hiromi Nakato, Akiko Washino, “The Current State and Challenges of Students’ Awareness Regarding Environmental Structure in Pre-Internship Training,” 54th Annual Conference of the National Council for Nursery Teacher Training, September 23, 2015.
-* Akiko Washino, “Analyzing Paderewski’s Use of Rubato Through Quantitative Analysis of Piano Rolls,” 13th Annual Conference of the Japanese Society for Music Expression Studies, June 21, 2015.
-* Akiko Washino, “Interpreting ‘Discrepancies’ in Schumann’s Writing Style: A Comparison with ‘Discrepancies’ in Brahms’ Works,” 12th Annual Conference of the Japanese Society for Music Expression Studies, June 22, 2014.
-* Akiko Washino, “‘Discrepant’ Performances: Reconsidering Brahms’ Late Piano Pieces Through Recordings (ca. 1900–1920),” 11th Annual Conference of the Japanese Society for Music Expression Studies, June 9, 2013.
-* Akiko Washino, “‘Discrepant’ Writing Styles: Interpreting Brahms’ Late Works Through ‘Discrepancies,’” 10th Annual Conference of the Japanese Society for Music Expression Studies, June 24, 2012.
-* Akiko Washino, “The Creation and Structure of Voříšek’s Sonata Op. 20 (1820–24),” 8th Annual Conference of the Japanese Society for Music Expression Studies, June 13, 2010.
+
+* Akiko Washino, “Exploring Performance Possibilities of Chopin’s Works Based on Historical Performances,” Lecture Concert “Aesthetics of Rubato Vol. 2: What Did Chopin Want the Piano to Express?”, Osaka University Hall (Osaka), December 12, 2025.
+
+* Akiko Washino, “The Left-Hand Accompaniment in Mozart’s Adagio K. 540 by Fritz von Bose,” Panel: “Reconsidering Early Tempo Rubato” (Panelists: Akiko Washino, Yasushi Ueda, Hermann Gottschewski, Ryohei Hashimoto, Natsuko Jimbo), The 76th Annual Conference of the Musicological Society of Japan, Sapporo Otani University (Hokkaido), November 1, 2025.
+
+* Akiko Washino, “Source Criticism and Qualitative Interpretation in Historical Performance Practice: A Case Study of Carl Reinecke’s Performance of Mozart’s Piano Concerto K. 537,” The 144th Music Information Science Research Meeting (SIGMUS Summer Symposium), Keio University Hiyoshi Campus, Non-Formal Learning Space (Kanagawa), August 31, 2025.
+
+* Akiko Washino, “Performing Mozart’s Works According to Carl Reinecke,” Lecture Concert “Aesthetics of Rubato Vol. 1: C.P.E. Bach and Mozart on Walter’s Reconstructed Instrument,” Hitotsubashi University Josuikai 100th Anniversary Intelligent Hall (Tokyo), July 30, 2025.
+
+* Akiko Washino, “Practical Analysis of Tempo Rubato from the Perspective of Performance Duration and Dynamics,” Otogaku Symposium 2025 (The 143rd Music Information Science and 156th Spoken Language Processing Joint Research Conference), Waseda University Nishi-Waseda Campus (Tokyo), June 14, 2025.
+
+* Akiko Washino, “How to Evaluate Differences in the Same Piece Performed by the Same Performer,” The 142nd MUS Research Meeting, Kyushu University Ohashi Campus (Fukuoka), March 8, 2025.
+
+* Akiko Washino, “Chopin’s Tempo Rubato Embodied in Francis Planté’s (1839–1934) Performances,” Symposium “Reading Performances: Tools and Analyses of Tempo Rubato Practices,” Osaka University Nakanoshima Art Center (Osaka), December 8, 2024.
+
+* Akiko Washino and Craig Stuart Sapp, “Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin’s Waltz Op. 42 (Duo-Art 6401-6),” 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney (Australia), July 27, 2024.
+
+* Akiko Washino, “Performance Analysis through Quantitative Study of Piano Rolls,” Computational Musicology for Musicians, Kobe University (Hyogo), November 23, 2023.
+
+* Akiko Washino, “Improvised Prelude Performances Notated in Scores,” The 74th Annual Conference of the Musicological Society of Japan, Seitoku University (Chiba), November 4, 2023.
+
+* Akiko Washino, “The Relationship between Improvised Prelude Practice Examples and Surrounding Factors in the First Half of the 20th Century,” The 21st Annual Conference of the Japanese Society for Music Expression Studies, Kyoto Women's University (Kyoto), June 18, 2023.
+
+* Akiko Washino, “Analyzing Improvised Prelude Practices in Early 20th-Century Concerts,” The 73rd Annual Conference of the Musicological Society of Japan, Seinan Gakuin University (Fukuoka), November 27, 2022.
+
+* Akiko Washino, “Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 to Investigate How Tempo Rubato Was Applied by Performers Born in the 19th Century,” 2nd Global Piano Roll Meeting, Hochschule der Künste Bern (Switzerland), June 18, 2022.
+
+* Akiko Washino, “The Culture of Performing Preludes: Prelude Performances Preserved in Early Recordings,” The 18th Annual Conference of the Japanese Society for Music Expression Studies (Published in *Music Expression Studies*, Vol. 18), July 31, 2020.
+
+* Akiko Washino, “Mazurka Inflections in Chopin’s Waltz Op. 42: A Performance Analysis of Recordings and Editions by Moriz Rosenthal and Other Contemporary Pianists,” International Chopinological Conference, The Institute of Art of the Polish Academy of Sciences (Poland), November 20, 2019.
+
+* Akiko Washino, “Elucidating the Modern and Romantic Aspects of Josef Hofmann’s Pianism Through Performance Analysis,” IMSEA 2019 (The 5th Conference of the Regional Association for East Asia of the International Musicological Society), Soochow University (China), October 18, 2019.
+
+* Akiko Washino, “Turning Points in Performance: The Emergence of Modern Pianism,” The 17th Annual Conference of the Japanese Society for Music Expression Studies, Aichi University of Education (Aichi), June 16, 2019.
+
+* Akiko Washino, “Josef Hofmann at the Crossroads of Romantic and Modern Pianism,” The 69th Annual Conference of the Musicological Society of Japan, Toho Gakuen School of Music Chofu Campus (Tokyo), November 3, 2018.
+
+* Akiko Washino and Craig Stuart Sapp, “Performance Analysis of Alfred Grünfeld’s Acoustic and Piano-Roll Recordings of Schumann’s *Träumerei*,” Symposium “Reactions to the Record VI,” Stanford University (USA), April 7, 2018.
+
+* Akiko Washino, “Differences and Trends in Multiple Performances by the Same Performer: Basic Tempo and Variations in Speed,” The 15th Annual Conference of the Japanese Society for Music Expression Studies, Tokyo College of Music (Tokyo), June 18, 2017.
+
+* Akiko Washino, “A Performance Analysis Utilizing the Piano Rolls of Chopin’s Op. 42,” Conference “Ghosts in the Machine: The Player-Piano,” Cornell University (USA), May 5, 2017.
+
+* Hiromi Nakato and Akiko Washino, “The Current State and Challenges of Students’ Awareness Regarding Environmental Structure Prior to Practical Training,” The 54th Annual Conference of the National Council for Nursery Teacher Training, Royton Sapporo (Hokkaido), September 23, 2015.
+
+* Akiko Washino, “Analyzing Paderewski’s Rubato through Quantitative Analysis of Piano Rolls,” The 13th Annual Conference of the Japanese Society for Music Expression Studies, Okinawa Prefectural University of Arts (Okinawa), June 21, 2015.
+
+* Akiko Washino, “Interpreting ‘Asynchrony’ in Schumann’s Notation: A Comparison with ‘Asynchrony’ in Brahms’ Works,” The 12th Annual Conference of the Japanese Society for Music Expression Studies, Tezukayama University Gakuenmae Campus (Nara), June 22, 2014.
+
+* Akiko Washino, “‘Asynchronous’ Performances: Reconsidering Brahms’ Late Piano Pieces through Recordings (ca. 1900–1920),” The 11th Annual Conference of the Japanese Society for Music Expression Studies, Morioka Civic Cultural Hall & Aiina (Iwate), June 9, 2013.
+
+* Akiko Washino, “‘Asynchronous’ Notation: Interpreting Brahms’ Late Works through ‘Asynchronies’,” The 10th Annual Conference of the Japanese Society for Music Expression Studies, University of Yamanashi Kofu Campus (Yamanashi), June 24, 2012.
+
+* Akiko Washino, “The Genesis and Structure of Voříšek’s *Sonata Op. 20* (1820–24),” The 8th Annual Conference of the Japanese Society for Music Expression Studies, Kyoto Women's University (Kyoto), June 13, 2010.
 
 # Magazines & Web Journals
 * "Monthly New Release Reviews," The record geijutsu ONLINE, October 2024 Issue – Present (Monthly).
