@@ -203,17 +203,26 @@ Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural Univers
 * "From Europe," Music Friends (South Korea), 44, 17–19, April 2011 Issue.
 * "Understanding Music," Music Friends (South Korea), 43, 18–19, March 2011 Issue.
 
+
 # Book Reviews & Newspaper Articles
-* Newspaper Article: "Vast Collection of Phonographs and SP Records," Osaka Daily News, June 21, 2022.
-* Book Review: *The Young Violinist on the Titanic* (Christopher Ward), Weekly Book Review, January 2020.
-* Book Review: *Vienna Philharmonic Concertmaster's Backstage Story* (Werner Hink), Weekly Book Review, February 2018.
-* Book Review: *The Legend of Constanze Mozart: Fact or Fiction* (Masayasu Komiya), Weekly Book Review, May 2017.
-* Book Review: *The Resonance of the Left Hand on the Piano* (Takeshi Sano), Weekly Book Review, April 2016.
-* Newspaper Article: "The MIN-ON Music Museum West Japan Branch," Osaka Daily News, September 9, 2015.
-* Book Review: *Schumann’s Marriage: The Untold Truth* (Piet Waakey Eijsten, trans. Misaki Kazama), Weekly Book Review, June 2015.
+
+* Newspaper Article: "Vast Collection of Phonographs and SP Records," *Osaka Daily News*, June 21, 2022, p. 8.
+
+* Book Review: Review of *The Young Violinist on the Titanic* by Christopher Ward (trans. Shinji Ogasawara), *Weekly Book Review*, January 2020, p. 6.
+
+* Book Review: Review of *Vienna Philharmonic Concertmaster's Backstage Story* by Werner Hink (trans. Masayasu Komiya), *Weekly Book Review*, February 2018, p. 6.
+
+* Book Review: Review of *The Legend of Constanze Mozart: Fact or Fiction* by Masayasu Komiya, *Weekly Book Review*, May 2017, p. 6.
+
+* Book Review: Review of *The Resonance of the Left Hand on the Piano* by Takeo Chinai, *Weekly Book Review*, April 2016, p. 6.
+
+* Newspaper Article: "The MIN-ON Music Museum West Japan Branch," *Osaka Daily News*, September 9, 2015, p. 18.
+
+* Book Review: Review of *Schumann’s Marriage: The Untold Truth* by Piet Waakey Eijsten (trans. Misaki Kazama), *Weekly Book Review*, June 2015, p. 6.
 
 # Dictionary
 * “Automatic Musical Instruments,” *Dictionary of Music History*, Maruzen Publishing, pp. 540–541, December 31, 2025.
+
 
 # Research Projects & Grants
 
