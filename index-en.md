@@ -40,27 +40,48 @@ lang: en
 * Children's musical expression  
 
 # Publications
-* Shingo Sakurai, Akiko Washino, “Educational Practice Aimed at Improving Expressive Abilities in Art and Music in Early Childhood Education: Producing Video Teaching Materials from the Children’s Perspective,”  
-Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural University, 34(1), 75–87, Oct. 2025.
-* Akiko Washino, "Analysis of an edited performance record :Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42," Osaka University Musicological Journal, 21, 1-15, March 2025.
-* Akiko Washino, Shingo Sakurai, “Developing Educational Practices for Creating Video Teaching Materials in the 'Expression' Domain of Early Childhood Education to Enhance University Students' ICT Utilization Skills and Develop Collaborative Abilities,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 33(2), 53–66, March 2025.
-* Akiko Washino, Craig Stuart Sapp, "Josef Hofmann (1876-1957) Piano Roll Editing: Analysis of Editorial Traces in Duo-Art (No.6401-6)," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 1-21, March 2024.
-* Akiko Washino, “Differences in Notation Between the Special Support Textbook Ongaku☆ (Hoshihon) and Elementary School Music Textbooks,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 32(2), 55–64, March 2024.
-* Akiko Washino, "Improvised Prelude Performances by Wilhelm Backhaus," Journal of Music Expression Studies, 21, 1-20, November 2023.
-* Akiko Washino, "Improvised Prelude Performances of Josef Hofmann (1876-1957)," Osaka University Musicological Journal, 19, 47-73, March 2023.
-* Akiko Washino, "The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, Score Notations, and Interpretive Directions," Dance Elements in Music of the Early 19th Century, 2023, 179-203.
-* Akiko Washino, “Proximity of Performance Tempo in Repeated Performances by the Same Performer: A Comparative Analysis of Multiple Recordings of Chopin’s Waltz Op. 42 by Rosenthal and Hofmann,” Osaka University Musicological Journal, 15, 51–82, 2018.
-* Akiko Washino, “Percentage of Primary Triads in Children's Songs for 'Playing and Singing': Rethinking Instruction Methods for Piano Beginners,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 139–150, February 2018.
-* Akiko Washino, Kuniyoshi Sakurai, “Research Notes on Music and Art ‘Teaching Materials’ in Expressive Activities of Young Children,” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(2), 129–137, February 2018.
-* Akiko Washino, Craig Stuart Sapp, "Piano Rolls as Performance Analysis Resources," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 26(1), 27-48, September 2017.
-* Akiko Washino, "Performance Analysis through Quantitative Study of Piano Rolls: Chopin's Waltz Op. 42," Doctoral Dissertation, 1-180, March 2017.
-* Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 2)," Osaka University Musicological Journal, 14, 1-33, December 2016.
-* Akiko Washino, "Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 1)," Philocalia, 33, 27-58, March 2016.
-* Akiko Washino, "An Attempt at Data Analysis of Piano Rolls: Focusing on the Waltz Rhythms in Paderewski’s Performance of Chopin’s Waltz Op. 34-1," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 24(1), 55–71, September 2015.
-* Hiromi Nakato, Akiko Washino, "Challenges and Methods in Pre-Internship Education: Based on Students’ Understanding of Environmental Structure," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 24(1), 17–31, September 2015.
-* Akiko Washino, "Brahms and the Arpeggio: Interpreting the Significance of Arpeggios in Performances from His Time—Both Reflected and Not Reflected in the Scores," Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 22(2), 77–102, January 2014.
-* Akiko Washino, “What Kind of Performance Did Brahms Imagine for Op.117-1? Understanding the Expressive Potential of 'Discrepancies',” Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University, 22(1), 55–67, July 2013.
-* Akiko Washino, “Rethinking the ‘Correct’ Way to Read a Musical Score,” Shunju, 525, 19–21, January 2011.
+
+* Akiko Washino, “How Did Carl Reinecke Conceive the Beat?: A Performance Analysis of the Second Movement of Mozart’s Piano Concerto K. 537,” *Osaka University Musicological Journal*, 22, 195–209, February 2026.
+
+* Shingo Sakurai and Akiko Washino, “Educational Practice Aimed at Improving Expressive Abilities in Art and Music in Early Childhood Education: Producing Video Teaching Materials from the Children’s Perspective,” *Bulletin of the Faculty of Human and Social Studies, Fukuoka Prefectural University*, 34(1), 75–87, October 2025.
+
+* Akiko Washino, “[Analysis of an edited performance record: Josef Hofmann’s piano roll of Chopin’s Waltz Op. 42](https://ir.library.osaka-u.ac.jp/repo/ouka/all/100679/),” *Osaka University Musicological Journal*, 21, 1–15, March 2025.
+
+* Akiko Washino and Shingo Sakurai, “Developing Educational Practices for Creating Video Teaching Materials in the 'Expression' Domain of Early Childhood Education to Enhance University Students' ICT Utilization Skills and Develop Collaborative Abilities,” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 33(2), 53–66, March 2025.
+
+* Akiko Washino and Craig Stuart Sapp, “[Josef Hofmann (1876–1957) Piano Roll Editing: Analysis of Editorial Traces in Duo-Art (No. 6401-6)](https://fukuoka-pu.repo.nii.ac.jp/records/2000094),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 32(2), 1–21, March 2024.
+
+* Akiko Washino, “[Differences in Notation Between the Special Support Textbook Ongaku☆ (Hoshihon) and Elementary School Music Textbooks](https://fukuoka-pu.repo.nii.ac.jp/records/2000098),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 32(2), 55–64, March 2024.
+
+* Akiko Washino, “[Improvised Prelude Performances by Wilhelm Backhaus](https://www.jstage.jst.go.jp/article/jmes/21/0/21_1/_article/-char/ja),” *Journal of Music Expression Studies*, 21, 1–20, November 2023.
+
+* Akiko Washino, “[Improvised Prelude Performances of Josef Hofmann (1876–1957)](https://ir.library.osaka-u.ac.jp/repo/ouka/all/98491/?lang=0&mode=1&opkey=R177873897927699&idx=3&codeno=&fc_val=&chk_st=0&check=0000),” *Osaka University Musicological Journal*, 19, 47–73, March 2023.
+
+* Akiko Washino, “The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played,” *The Element of Dance in Music of the First Half of the Nineteenth Century*, 179–203, 2023.
+
+* Akiko Washino, “Proximity of Performance Tempo in Repeated Performances by the Same Performer: A Comparative Analysis of Multiple Recordings of Chopin’s Waltz Op. 42 by Rosenthal and Hofmann,” *Osaka University Musicological Journal*, 15, 51–82, 2018.
+
+* Akiko Washino, “[Percentage of Primary Triads in Children's Songs for 'Playing and Singing': Rethinking Instruction Methods for Piano Beginners](https://fukuoka-pu.repo.nii.ac.jp/records/408),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 26(2), 139–150, February 2018.
+
+* Akiko Washino and Kuniyoshi Sakurai, “Research Notes on Music and Art ‘Teaching Materials’ in Expressive Activities of Young Children,” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 26(2), 129–137, February 2018.
+
+* Akiko Washino and Craig Stuart Sapp, “[Piano Rolls as Performance Analysis Resources](https://fukuoka-pu.repo.nii.ac.jp/records/163),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 26(1), 27–48, September 2017.
+
+* Akiko Washino, “Performance Analysis through Quantitative Study of Piano Rolls: Chopin's Waltz Op. 42,” *Doctoral Dissertation*, 1–180, March 2017.
+
+* Akiko Washino, “Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 2),” *Osaka University Musicological Journal*, 14, 1–33, December 2016.
+
+* Akiko Washino, “[Paderewski’s Rubato: An Analytical Essay on Piano Rolls (Part 1)](https://ir.library.osaka-u.ac.jp/repo/ouka/all/76036/?lang=0&mode=1&opkey=R177873921322676&idx=2&codeno=&fc_val=&chk_st=0&check=0000),” *Philocalia*, 33, 27–58, March 2016.
+
+* Akiko Washino, “An Attempt at Data Analysis of Piano Rolls: Focusing on the Waltz Rhythms in Paderewski’s Performance of Chopin’s Waltz Op. 34-1,” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 24(1), 55–71, September 2015.
+
+* Hiromi Nakato and Akiko Washino, “Challenges and Methods in Pre-Internship Education: Based on Students’ Understanding of Environmental Structure,” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 24(1), 17–31, September 2015.
+
+* Akiko Washino, “[Brahms and the Arpeggio: Interpreting the Significance of Arpeggios in Performances from His Time—Both Reflected and Not Reflected in the Scores](https://fukuoka-pu.repo.nii.ac.jp/records/173),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 22(2), 77–102, January 2014.
+
+* Akiko Washino, “[What Kind of Performance Did Brahms Imagine for Op. 117-1? Understanding the Expressive Potential of 'Discrepancies'](https://fukuoka-pu.repo.nii.ac.jp/records/179),” *Bulletin of the Faculty of Human and Social Sciences, Fukuoka Prefectural University*, 22(1), 55–67, July 2013.
+
+* Akiko Washino, “Rethinking the ‘Correct’ Way to Read a Musical Score,” *Shunju*, 525, 19–21, January 2011.
 
 
 # Presentations
