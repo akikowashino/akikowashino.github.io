@@ -1,7 +1,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-
 <style>
+  /* ページ内スクロールをなめらかにする設定 */
+  html {
+    scroll-behavior: smooth;
+  }
+
   /* 7番目以降のリストを初期状態で隠す */
   #news-list li.hidden-item {
     display: none !important;
@@ -50,16 +54,12 @@
   }
 </style>
 
-
-
-
 <h1> News </h1>
 
 <ul class="msr_newslist01" id="news-list">
-  <li></li>
 
   <li>
-    <a href="/lecture-concert-2025" target="_blank">
+    <a href="#vol2-section">
       <div>
         <time datetime="2025-12-12">2025/12/12</time>
         <p class="cat01">Concert</p>
@@ -70,7 +70,7 @@
   </li>
 
   <li>
-    <a href="/lecture-concert-2025" target="_blank">
+    <a href="#vol2-section">
       <div>
         <time datetime="2025-10-02">2025/10/02</time>
         <p class="cat01">Notice</p>
@@ -78,8 +78,8 @@
       <p>Announcement: Lecture Concert “Aesthetics of Rubato Vol. 2” (December 12, 2025)
         <i class="fas fa-chevron-right internal-icon-font"></i> </p>
     </a>
-  </li>
-  
+  </li>  
+
   <li>
     <a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank">
       <div>
