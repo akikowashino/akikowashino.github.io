@@ -26,7 +26,9 @@ lang: en
 * Children's Musical Expression
 
 # Research Keywords
-* 19th-century performance practice  
+* Chopin
+* Mazurka
+* 19th-century performance practice
 * Performance analysis  
 * Player piano  
 * Piano rolls  
