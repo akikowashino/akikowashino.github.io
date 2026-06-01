@@ -9,7 +9,7 @@ lang: jp
 <br>
 演奏家は何のためにテンポに緩急を付けたり、タイミングをずらしたりするのでしょうか。<br>
 演奏とお話を通して、テンポ・ルバート実践の役割と可能性を探ります。<br>
-第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降の作品に焦点を当てます。<br>
+第１回はC.P.E.バッハやモーツァルトの作品に、第２回はロマン派以降 of 作品に焦点を当てます。<br>
 <br>
 
 <style>
@@ -40,20 +40,20 @@ lang: jp
 <!-- ================= Vol.1 ================= -->
 
 <div class="material-box">
-  <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+  <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png"
        alt="ルバートの美学 Vol.1 チラシ">
   <br>
   <a class="download-link"
-     href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+     href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
      download>
     チラシ ダウンロード
   </a>
 
-  <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png"
+  <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png"
        alt="ルバートの美学 Vol.1 プログラムノート表紙">
   <br>
   <a class="download-link"
-     href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
+     href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
      target="_blank">
     プログラムノート ダウンロード
   </a>
@@ -77,7 +77,7 @@ lang: jp
 </style>
 
 <div class="event-box">
-  <strong>日時：</strong>2025年7月30日（水）18:30開演<br>
+  <strong>日時：</strong>2025年7月30日（（水）18:30開演<br>
   <strong>会場：</strong>一橋大学 如水会100周年記念インテリジェントホール<br>
 　　（東京都国立市中２丁目１）　JR「国立」駅から徒歩10分<br><br>
 
@@ -108,6 +108,8 @@ lang: jp
 <br style="clear:both;"><br><br>
 
 <!-- ================= Vol.2 ================= -->
+<!-- ニュースからのリンクを受け取るための目印を追加しました -->
+<div id="vol2-section"></div>
 
 <div class="material-box" id="vol2">
   <img src="/assets/LectureConcert-Vol2.png"
@@ -119,13 +121,13 @@ lang: jp
     チラシ ダウンロード
   </a>
 
-  <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png"
+  <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png"
        alt="ルバートの美学 Vol.2 プログラムノート表紙">
   <br>
   <a class="download-link"
-     href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf"
+     href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf"
      target="_blank">
-  　プログラムノート ダウンロード
+ 　プログラムノート ダウンロード
   </a>
 </div>
 
@@ -194,5 +196,3 @@ lang: jp
 
 
  <br>
-
-
