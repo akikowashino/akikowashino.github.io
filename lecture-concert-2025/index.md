@@ -76,20 +76,23 @@ lang: jp
 
 <br><br>
 
+<!-- ================= Vol.1 セクション ================= -->
 <div class="concert-section">
   
+  <!-- 右側：画像・ダウンロードエリア -->
   <div class="material-box">
-    <img src="/assets/LectureConcert-Vol1.png" alt="ルバートの美学 Vol.1 チラシ">
-    <a class="download-link" href="/assets/LectureConcert-Vol1.png" download>
+    <img src="{{ '/assets/LectureConcert「ルバートの美学Vol.1」.png' | relative_url }}" alt="ルバートの美学 Vol.1 チラシ">
+    <a class="download-link" href="{{ '/assets/LectureConcert「ルバートの美学Vol.1」.png' | relative_url }}" download>
       チラシ ダウンロード
     </a>
 
-    <img src="/assets/ProgramNote-Cover-Vol1.png" alt="ルバートの美学 Vol.1 プログラムノート表紙">
-    <a class="download-link" href="/assets/ProgramNotes-Vol1.pdf" target="_blank">
+    <img src="{{ '/assets/プログラムノート表紙「ルバートの美学Vol.1」.png' | relative_url }}" alt="ルバートの美学 Vol.1 プログラムノート表紙">
+    <a class="download-link" href="{{ '/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf' | relative_url }}" target="_blank">
       プログラムノート ダウンロード
     </a>
   </div>
 
+  <!-- 左側：テキストエリア -->
   <div class="text-area">
     <h4><strong>レクチャー・コンサート「ルバートの美学 Vol. 1」</strong></h4>
     <h5>〜ワルターの復元楽器で楽しむC.P.E. バッハ、モーツァルト〜</h5>
@@ -122,20 +125,24 @@ lang: jp
 </div>
 
 
+<!-- ================= Vol.2 セクション ================= -->
+<!-- ニュースページからのジャンプ用目印 -->
 <div id="vol2-section" class="concert-section">
 
+  <!-- 右側：画像・ダウンロードエリア -->
   <div class="material-box" id="vol2">
-    <img src="/assets/LectureConcert-Vol2.png" alt="ルバートの美学 Vol.2 チラシ">
-    <a class="download-link" href="/assets/LectureConcert-Vol2.png" download>
+    <img src="{{ '/assets/LectureConcert-Vol2.png' | relative_url }}" alt="ルバートの美学 Vol.2 チラシ">
+    <a class="download-link" href="{{ '/assets/LectureConcert-Vol2.png' | relative_url }}" download>
       チラシ ダウンロード
     </a>
 
-    <img src="/assets/ProgramNote-Cover-Vol2.png" alt="ルバートの美学 Vol.2 プログラムノート表紙">
-    <a class="download-link" href="/assets/ProgramNotes-Vol2.pdf" target="_blank">
+    <img src="{{ '/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png' | relative_url }}" alt="ルバートの美学 Vol.2 プログラムノート表紙">
+    <a class="download-link" href="{{ '/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf' | relative_url }}" target="_blank">
       プログラムノート ダウンロード
     </a>
   </div>
 
+  <!-- 左側：テキストエリア -->
   <div class="text-area">
     <h4><strong>レクチャー・コンサート「ルバートの美学 Vol. 2」</strong></h4>
     <h5>〜ショパンはピアノに何を語らせたかったのか〜</h5>
