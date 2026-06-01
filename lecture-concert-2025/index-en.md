@@ -4,184 +4,239 @@ layout: default
 lang: en
 ---
 
-<h3>  <strong>Lecture Concert: “The Aesthetics of Tempo Rubato”</strong></h3><br>
-<br>
-Why do performers add tempo fluctuations or shift timing in their playing?<br>
-Through performances and discussions, we will explore the role and possibilities of tempo rubato in musical expression.<br>
-The first session will focus on works by C.P.E. Bach and Mozart, while the second will center on pieces from the Romantic period onward.<br>
-<br>
-
 <style>
+  /* 全体の基本フォントスタイル（日本語版の雰囲気に合わせる） */
+  .concert-container {
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", sans-serif;
+    color: #333;
+    line-height: 1.7;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .concert-container h3 {
+    font-size: 1.45em;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    color: #000;
+  }
+  
+  .concert-container p.subtitle {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 25px;
+  }
+
+  /* ２段組（テキストと写真）のレイアウト */
+  .concert-section {
+    display: flex;
+    flex-direction: row;        /* 左にテキスト、右に写真 */
+    justify-content: space-between;
+    gap: 40px;
+    margin-bottom: 50px;
+    align-items: flex-start;
+  }
+  
+  .concert-text {
+    flex: 1;
+    min-width: 0;               /* テキストの折り返し保証 */
+  }
+  
+  /* 右側の写真・ダウンロードエリア */
   .material-box {
-    float: right;
-    width: 270px;
-    text-align: center;
-    margin-left: 20px;
-    margin-bottom: 30px;
-    font-family: sans-serif;
-  }
-  .material-box img {
     width: 250px;
-    border: 1px solid #000;
+    text-align: center;
+    flex-shrink: 0;
+    margin-top: 15px;
   }
+  
+  .material-box img {
+    width: 100%;
+    max-width: 250px;
+    border: 1px solid #888;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* 日本語版のボタンに合わせたシンプルなデザイン */
   .download-link {
     display: inline-block;
-    margin: 6px 0 14px 0;
-    padding: 6px 12px;
-    font-size: 0.9em;
-    border: 1px solid #333;
+    width: 180px;               /* ボタンの横幅を均一に */
+    margin: 10px 0 25px 0;
+    padding: 5px 10px;
+    font-size: 0.85em;
+    border: 1px solid #666;
     background: #f5f5f5;
     color: #000;
     text-decoration: none;
+    transition: background 0.2s;
   }
+  .download-link:hover {
+    background: #e0e0e0;
+  }
+
+  /* 演奏会情報のグレーの四角（見出しと左端を揃える） */
   .event-box {
     border: 1px solid #ccc;
-    padding: 20px;
-    width: fit-content;
-    font-family: sans-serif;
+    padding: 20px 25px;
+    width: 100%;
+    max-width: 520px;           /* 日本語版に近いスマートな横幅 */
+    box-sizing: border-box;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #fafafa;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 0.95em;
   }
+  
+  /* 申し込みボックス */
   .application-box {
-    border: 2px solid #444;
+    border: 1px solid #555;
     padding: 20px;
-    font-family: sans-serif;
-    font-weight: 600;
-    background-color: #f0f0f0;
-    max-width: 400px;
-    margin-top: 45px;
+    background-color: #f2f2f2;
+    max-width: 360px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 0.95em;
+  }
+
+  /* リンクのアンダーライン表現 */
+  .concert-container a {
+    color: #0000ee;
+    text-decoration: underline;
+  }
+
+  /* スマホ表示の時は縦並びに */
+  @media (max-width: 768px) {
+    .concert-section {
+      flex-direction: column-reverse; /* スマホでは文章の後に写真が来るように */
+      gap: 30px;
+    }
+    .material-box {
+      margin: 0 auto;
+    }
+    .event-box, .application-box {
+      max-width: 100%;
+    }
   }
 </style>
 
-<!-- ================= Vol.1 ================= -->
+<div class="concert-container">
 
-<div class="material-box">
-  <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png"
-       alt="The Aesthetics of Tempo Rubato Vol.1 Flyer">
-  <br>
-  <a class="download-link"
-     href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
-     download>
-    Download Flyer
-  </a>
+  <h3>Lecture Concert: “The Aesthetics of Tempo Rubato”</h3>
+  <p style="margin-bottom: 40px;">
+    Why do performers add tempo fluctuations or shift timing in their playing?<br>
+    Through performances and discussions, we will explore the role and possibilities of tempo rubato in musical expression.<br>
+    The first session will focus on works by C.P.E. Bach and Mozart, while the second will center on pieces from the Romantic period onward.
+  </p>
 
-  <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png"
-       alt="The Aesthetics of Tempo Rubato Vol.1 Program Notes Cover">
-  <br>
-  <a class="download-link"
-     href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
-     target="_blank">
-    Download Program Notes
-  </a>
-</div>
+  <!-- ================= Vol.1 ================= -->
+  
+  <h3>Lecture Concert: The Aesthetics of Rubato Vol. 1</h3>
+  <p class="subtitle">～C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano～</p>
 
-<h3>Lecture Concert: The Aesthetics of Rubato Vol. 1</h3>
-<p><em>C.P.E. Bach and Mozart on a Reconstructed Walter Fortepiano</em></p>
+  <div class="concert-section">
+    <!-- 左側：テキストエリア -->
+    <div class="concert-text">
+      <div class="event-box">
+        <strong>Date & Time:</strong> Wednesday, July 30, 2025 – Starts at 18:30<br>
+        <strong>Venue:</strong> Hitotsubashi University, Josuikai 100th Anniversary Intelligent Hall<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;(2-1 Naka, Kunitachi, Tokyo 186-0004) – 10 minutes on foot from JR Kunitachi Station<br><br>
 
-<div style="padding-top:40px; padding-left: 20px">
+        <strong>Performers:</strong> Keiko Shichijo (fortepiano), Chie Hirai (fortepiano)<br>
+        <strong>Talks by:</strong> Yasushi Ueda, Akiko Washino<br>
+        <strong>Moderator:</strong> Nobuhiro Ito<br>
+        <strong>Instrument:</strong> Reconstructed Walter fortepiano (built by Itaru Ohtagaki, 2023)<br>
+      </div>
 
-<div class="event-box">
-  <strong>Date & Time:</strong> Wednesday, July 30, 2025 – Starts at 18:30<br>
-  <strong>Venue:</strong> Hitotsubashi University, Josuikai 100th Anniversary Intelligent Hall<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;(2-1 Naka, Kunitachi, Tokyo 186-0004) – 10 minutes on foot from JR Kunitachi Station<br><br>
+      <p style="font-size: 0.95em; line-height: 1.6;">
+        Free admission, reservation required (first 200 applicants)<br>
+        <span style="color: #555;">*Registration will close once the capacity is reached.</span>
+      </p>
 
-  <strong>Performers:</strong> Keiko Shichijo (fortepiano), Chie Hirai (fortepiano)<br>
-  <strong>Talks by:</strong> Yasushi Ueda, Akiko Washino<br>
-  <strong>Moderator:</strong> Nobuhiro Ito<br>
-  <strong>Instrument:</strong> Reconstructed Walter fortepiano (built by Itaru Ohtagaki, 2023)<br>
-</div>
+      <p style="font-size: 0.9em; color: #333; line-height: 1.6; margin-top: 25px;">
+        Organized by: KAKENHI Grant-in-Aid for Scientific Research (B)<br>
+        “Analytical Study of Rubato Performance through Historical Recordings and Piano Rolls from the Early 20th Century”<br>
+        (2022–2026, Principal Investigator: Akiko Washino)<br>
+        In collaboration with: Shinji Koiwa’s Laboratory, Hitotsubashi University<br>
+        Contact: washino@fukuoka-pu.ac.jp
+      </p>
 
-<br>
-Free admission, reservation required (first 200 applicants)<br>
-*Registration will close once the capacity is reached.<br><br>
+      <p style="margin-top: 20px;">
+        Click here for the venue map <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">here</a>.
+      </p>
+    </div>
 
-Organized by: KAKENHI Grant-in-Aid for Scientific Research (B)<br>
-“Analytical Study of Rubato Performance through Historical Recordings and Piano Rolls from the Early 20th Century”<br>
-(2022–2026, Principal Investigator: Akiko Washino)<br>
-In collaboration with: Shinji Koiwa’s Laboratory, Hitotsubashi University<br>
-Contact: washino@fukuoka-pu.ac.jp<br>
+    <!-- 右側：写真エリア -->
+    <div class="material-box">
+      <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png" alt="The Aesthetics of Tempo Rubato Vol.1 Flyer">
+      <a class="download-link" href="/assets/LectureConcert「ルバートの美学Vol.1」.png" download>Download Flyer</a>
 
-<div class="application-box">
- [Registration]<br>
-  <br>
-  Please register using <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV0VlAXRh9gkK_Xz5yWarKJMguI8CQwYnvoTb4nKLo4UwLkw/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u>this Google Form.</u></a> <br> Registration will close once we reach 200 participants.
-</div><br>
+      <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png" alt="The Aesthetics of Tempo Rubato Vol.1 Program Notes Cover">
+      <a class="download-link" href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf" target="_blank">Download Program Notes</a>
+    </div>
+  </div>
 
-<p>
-  <a href="https://www.google.com/maps?q=一橋大学+如水会百周年記念インテリジェントホール" target="_blank" rel="noopener noreferrer">
-    Click here for the venue map
-  </a>.
-</p>
 
-</div>
+  <!-- ================= Vol.2 ================= -->
+  <div id="vol2-section" style="padding-top: 20px;"></div>
 
-<br style="clear:both;"><br><br>
+  <h3>Lecture Concert: The Aesthetics of Rubato Vol. 2</h3>
+  <p class="subtitle">～What did Chopin want the piano to express?～</p>
 
-<!-- ================= Vol.2 ================= -->
-<!-- Target anchor for internal link from the News page -->
-<div id="vol2-section"></div>
+  <div class="concert-section">
+    <!-- 左側：テキストエリア -->
+    <div class="concert-text">
+      <div class="event-box">
+        <strong>Date & Time:</strong> Friday, December 12, 2025 – Starts at 17:30<br>
+        <strong>Venue:</strong> Osaka University Hall, "Assembly Hall"<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;(1-13 Machikaneyama-cho, Toyonaka-shi, Osaka 560-0043)<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Approx. 15 minutes on foot west from Hankyu Takarazuka Line "Ishibashi handai-mae Station"<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Approx. 15 minutes on foot northwest from Osaka Monorail "Shibahara handai-mae Station"<br><br>
 
-<div class="material-box">
-  <img src="/assets/LectureConcert-Vol2.png"
-       alt="The Aesthetics of Tempo Rubato Vol.2 Flyer">
-  <br>
-  <a class="download-link"
-     href="/assets/LectureConcert-Vol2.png"
-     download>
-    Download Flyer
-  </a>
+        <strong>Performers:</strong> Toshiyuki Yamana (piano), Akiko Washino (piano)<br>
+        <strong>Talks by:</strong> Yasushi Ueda, Akiko Washino<br>
+        <strong>Moderator:</strong> Nobuhiro Ito<br>
+        <strong>Instrument:</strong> Bösendorfer (1920)<br>
+      </div>
 
-  <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png"
-       alt="The Aesthetics of Tempo Rubato Vol.2 Program Notes Cover">
-  <br>
-  <a class="download-link"
-     href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf"
-     target="_blank">
-    Download Program Notes
-  </a>
-</div>
+      <p style="font-size: 0.95em; line-height: 1.6;">
+        Free admission, reservation required (first 460 applicants)<br>
+        <span style="color: #555;">*Registration will close once the capacity is reached.</span>
+      </p>
 
-<h3>Lecture Concert: The Aesthetics of Rubato Vol. 2</h3>
-<p><em>What did Chopin want the piano to express?</em></p>
+      <p style="font-size: 0.9em; color: #333; line-height: 1.6; margin-top: 25px;">
+        Organized by: KAKENHI Grant-in-Aid for Scientific Research (B)<br>
+        “Analytical Study of Rubato Performance through Historical Recordings and Piano Rolls from the Early 20th Century”<br>
+        (2022–2026, Principal Investigator: Akiko Washino)<br>
+        In collaboration with: Department of Musicology, Osaka University<br>
+        Supported by: The Piano Teachers' National Association of Japan (PTNA)<br>
+        Contact: washino@fukuoka-pu.ac.jp
+      </p>
 
-<div style="padding-top:40px; padding-left: 20px">
+      <div class="application-box">
+        <strong>【Registration】</strong><br>
+        <br>
+        Please register using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAKiLQ4Qz5zP9YD6mgF3vJcijoxwDQcVfftgjJXaLBkytl_g/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer">this Google Form</a>.<br>
+        Registration will close once we reach 460 participants.
+      </div>
 
-<div class="event-box">
-  <strong>Date & Time:</strong> Friday, December 12, 2025 – Starts at 17:30<br>
-  <strong>Venue:</strong> Osaka University Hall, "Assembly Hall"<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;(1-13 Machikaneyama-cho, Toyonaka-shi, Osaka 560-0043)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Approx. 15 minutes on foot west from Hankyu Takarazuka Line "Ishibashi handai-mae Station"<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Approx. 15 minutes on foot northwest from Osaka Monorail "Shibahara handai-mae Station"<br><br>
+      <p style="margin-top: 20px;">
+        Click here for the venue map <a href="https://maps.app.goo.gl/uTtsiuPTCKFhhPMo7" target="_blank" rel="noopener noreferrer">here</a>.
+      </p>
+    </div>
 
-  <strong>Performers:</strong> Toshiyuki Yamana (piano), Akiko Washino (piano)<br>
-  <strong>Talks by:</strong> Yasushi Ueda, Akiko Washino<br>
-  <strong>Moderator:</strong> Nobuhiro Ito<br>
-  <strong>Instrument:</strong> Bösendorfer (1920)<br>
-</div>
+    <!-- 右側：写真エリア -->
+    <div class="material-box">
+      <img src="/assets/LectureConcert-Vol2.png" alt="The Aesthetics of Tempo Rubato Vol.2 Flyer">
+      <a class="download-link" href="/assets/LectureConcert-Vol2.png" download>Download Flyer</a>
 
-<br>
-Free admission, reservation required (first 460 applicants)<br>
-*Registration will close once the capacity is reached.<br><br>
-
-Organized by: KAKENHI Grant-in-Aid for Scientific Research (B)<br>
-“Analytical Study of Rubato Performance through Historical Recordings and Piano Rolls from the Early 20th Century”<br>
-(2022–2026, Principal Investigator: Akiko Washino)<br>
-In collaboration with: Department of Musicology, Osaka University<br>
-Supported by: The Piano Teachers' National Association of Japan (PTNA)<br>
-Contact: washino@fukuoka-pu.ac.jp<br>
-
-<div class="application-box">
- [Registration]<br>
-  <br>
-  Please register using <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAKiLQ4Qz5zP9YD6mgF3vJcijoxwDQcVfftgjJXaLBkytl_g/viewform?usp=sharing&ouid=117442073187484349255" target="_blank" rel="noopener noreferrer"><u>this Google Form.</u></a> <br> Registration will close once we reach 460 participants.
-</div><br>
-
-<p>
-  <a href="https://maps.app.goo.gl/uTtsiuPTCKFhhPMo7" target="_blank" rel="noopener noreferrer">
-    Click here for the venue map
-  </a>.
-</p>
+      <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png" alt="The Aesthetics of Tempo Rubato Vol.2 Program Notes Cover">
+      <a class="download-link" href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf" target="_blank">Download Program Notes</a>
+    </div>
+  </div>
 
 </div>
-
-<br>
