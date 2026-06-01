@@ -1,106 +1,213 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+<style>
+  /* 7番目以降のリストを初期状態で隠す */
+  #news-list li.hidden-item {
+    display: none !important;
+  }
+  /* ボタンを押した時に表示させる */
+  #news-list li.is-show {
+    display: list-item !important;
+  }
+  /* ボタンの装飾 */
+  .show-more-button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 35px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s;
+  }
+  .show-more-button:hover {
+    background-color: #666;
+  }
+
+  /* PDFアイコンを赤くする設定 */
+  .pdf-icon-font {
+    color: #d93333;      /* アイコンを赤色に */
+    margin-left: 8px;    /* 文字との間に少し隙間を作る */
+    font-size: 1.1em;    /* サイズを少し大きく */
+    vertical-align: middle; /* 高さを中央に揃える */
+  }
+
+  .web-icon-font {
+    color: #d93333;      /* PDFと同じ赤色 */
+    margin-left: 8px;    /* 文字との隙間 */
+    font-size: 0.9em;    /* 矢印は少し小さめが綺麗です */
+    vertical-align: middle;
+  }
+
+  .internal-icon-font {
+    color: #d93333;      /* 他のアイコンと同じ赤色 */
+    margin-left: 8px;    /* 文字との隙間 */
+    font-size: 1.0em;    /* 他のアイコンとバランスを取ったサイズ */
+    vertical-align: middle;
+  }
+</style>
+
+
+
+
 <h1> News </h1>
 
-<ul class="msr_newslist01">
-<li></li>
+<ul class="msr_newslist01" id="news-list">
+  <li></li>
 
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-12-12">2025/12/12</time>
-	<p class="cat01">Concert</p>
-	</div>
-	<p>Lecture Concert “Aesthetics of Rubato Vol. 2” was held</p>
-	</a>
-</li>
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div>
+        <time datetime="2025-12-12">2025/12/12</time>
+        <p class="cat01">Concert</p>
+      </div>
+      <p>Lecture Concert “Aesthetics of Rubato Vol. 2” was held
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-10-02">2025/10/02</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>Announcement: Lecture Concert “Aesthetics of Rubato Vol. 2” (December 12, 2025)</p>
-	</a>
-</li>
-	
-<li>
-	<a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank">
-	<div>
-	<time datetime="2025-08-02">2025/08/02</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>A report on the Lecture Concert “Aesthetics of Rubato Vol. 1” has been published on Record Geijutsu ONLINE</p>
-	</a>
-</li>	
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div>
+        <time datetime="2025-10-02">2025/10/02</time>
+        <p class="cat01">Notice</p>
+      </div>
+      <p>Announcement: Lecture Concert “Aesthetics of Rubato Vol. 2” (December 12, 2025)
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://recogei.ontomo-mag.com/article/%E9%80%9F%E5%A0%B1%E3%83%AC%E3%83%9D/p-25891/" target="_blank">
+      <div>
+        <time datetime="2025-08-02">2025/08/02</time>
+        <p class="cat01">Report</p>
+      </div>
+      <p>A report on the Lecture Concert “Aesthetics of Rubato Vol. 1” has been published on Record Geijutsu ONLINE
+        <i class="fas fa-external-link-alt web-icon-font"></i> </p>
+    </a>
+  </li>  
 
-<li>
-	<a href="/rubato-vol1-2025" target="_blank">
-	<div>
-	<time datetime="2025-07-30">2025/07/30</time>
-	<p class="cat01">Concert</p>
-	</div>
-	<p>Lecture Concert “Aesthetics of Rubato Vol. 1” was held</p>
-	</a>
-</li>	
+  <li>
+    <a href="/rubato-vol1-2025" target="_blank">
+      <div>
+        <time datetime="2025-07-30">2025/07/30</time>
+        <p class="cat01">Concert</p>
+      </div>
+      <p>Lecture Concert “Aesthetics of Rubato Vol. 1” was held
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>  
 
-<li>
-	<a href="/lecture-concert-2025" target="_blank">
-	<div>
-	<time datetime="2025-06-01">2025/06/01</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>Announcement: Lecture Concert “Aesthetics of Rubato Vol. 1” (July 30, 2025)</p>
-	</a>
-</li>
+  <li>
+    <a href="/lecture-concert-2025" target="_blank">
+      <div>
+        <time datetime="2025-06-01">2025/06/01</time>
+        <p class="cat01">Notice</p>
+      </div>
+      <p>Announcement: Lecture Concert “Aesthetics of Rubato Vol. 1” (July 30, 2025)
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report1.pdf" target="_blank">
-	<div>
-	<time datetime="2025-02-28">2025/02/28</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>“Report on the Grant for Academic Events in Music (Akiko Washino)” has been published on the website of the Musicological Society of Japan</p>
-	</a>
-</li>
+  <li>
+    <a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report1.pdf" target="_blank">
+      <div>
+        <time datetime="2025-02-28">2025/02/28</time>
+        <p class="cat01">Report</p>
+      </div>
+      <p>“Report on the Grant for Academic Events in Music (Akiko Washino)” has been published on the website of the Musicological Society of Japan
+        <i class="fa-solid fa-file-pdf pdf-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report2.pdf" target="_blank">
-	<div>
-	<time datetime="2025-02-28">2025/02/28</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>“Observer’s Report on the Grant for Academic Events in Music (Natsuko Jimbo)” has been published on the website of the Musicological Society of Japan</p>
-	</a>
-</li>
+  <li>
+    <a href="https://www.musicology.jp/head/wp-content/uploads/2025/02/project_2024_2_report2.pdf" target="_blank">
+      <div>
+        <time datetime="2025-02-28">2025/02/28</time>
+        <p class="cat01">Report</p>
+      </div>
+      <p>“Observer’s Report on the Grant for Academic Events in Music (Natsuko Jimbo)” has been published on the website of the Musicological Society of Japan
+        <i class="fa-solid fa-file-pdf pdf-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
-	<div>
-	<time datetime="2025-02-18">2025/02/18</time>
-	<p class="cat01">Report</p>
-	</div>
-	<p>A report on the symposium “Reading Performances” has been published on the website of the PTNA Piano Research Institute</p>
-	</a>
-</li>
+  <li>
+    <a href="https://prim.piano.or.jp/2025/02/entry_29.html" target="_blank">
+      <div>
+        <time datetime="2025-02-18">2025/02/18</time>
+        <p class="cat01">Report</p>
+      </div>
+      <p>A report on the symposium “Reading Performances” has been published on the website of the PTNA Piano Research Institute
+        <i class="fas fa-external-link-alt web-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="/symposium-2024" target="_blank">
-	<div>
-	<time datetime="2024-12-08">2024/12/08</time>
-	<p class="cat01">Lecture</p>
-	</div>
-	<p>Symposium “Reading Performances” was held</p>
-	</a>
-</li>
+  <li>
+    <a href="/symposium-2024" target="_blank">
+      <div>
+        <time datetime="2024-12-08">2024/12/08</time>
+        <p class="cat01">Lecture</p>
+      </div>
+      <p>Symposium “Reading Performances” was held
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>
 
-<li>
-	<a href="https://www.musicology.jp/event/894/" target="_blank">
-	<div>
-	<time datetime="2024-11-20">2024/11/20</time>
-	<p class="cat01">Notice</p>
-	</div>
-	<p>Announcement: Symposium “Reading Performances” (December 8, 2024)</p>
-	</a>
-</li>
+  <li>
+    <a href="https://www.musicology.jp/event/894/" target="_blank">
+      <div>
+        <time datetime="2024-11-20">2024/11/20</time>
+        <p class="cat01">Notice</p>
+      </div>
+      <p>Announcement: Symposium “Reading Performances” (December 8, 2024)
+        <i class="fas fa-chevron-right internal-icon-font"></i> </p>
+    </a>
+  </li>
 
 </ul>
+
+<button id="toggle-btn" class="show-more-button">Read More</button>
+
+<script>
+  window.addEventListener('load', function() {
+    const visibleCount = 6; // 最初に見せる数（6項目）
+    const listParent = document.getElementById('news-list');
+    const btn = document.getElementById('toggle-btn');
+    
+    if (!listParent || !btn) return;
+
+    const listItems = listParent.querySelectorAll('li');
+
+    // 1. 自動振り分け：7番目以降に隠す用のクラスをつける
+    listItems.forEach((item, index) => {
+      if (index >= visibleCount) {
+        item.classList.add('hidden-item');
+      }
+    });
+
+    // 2. 記事が指定数以下ならボタンを隠す
+    if (listItems.length <= visibleCount) {
+      btn.style.display = 'none';
+    }
+
+    // 3. ボタンを押した時の動き
+    btn.addEventListener('click', function() {
+      const hiddenItems = listParent.querySelectorAll('.hidden-item');
+      
+      hiddenItems.forEach(item => {
+        item.classList.toggle('is-show');
+      });
+
+      // ボタンの文字を切り替える (英語版)
+      if (btn.innerText === 'Read More') {
+        btn.innerText = 'Close';
+      } else {
+        btn.innerText = 'Read More';
+      }
+    });
+  });
+</script>
