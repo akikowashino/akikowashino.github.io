@@ -1,0 +1,607 @@
+<html>
+<head>
+<!-- スタイルシート -->
+<link href="./htmlsrc/style.css" rel="stylesheet" />
+<!-- 以下の 3 行は画像のポップアップのため．// -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" defer type="text/javascript"></script>
+</head>
+<body>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h1>into(仮)システムについて</h1>
+<div>
+
+<figure>
+<img class="figsmall" src="./htmlsrc/fig/image.png" alt="システムのイメージ図">
+<figcaption>図 1. 本システムのイメージ図</figcaption>
+</figure>
+
+<p>
+2 つの MIDI ファイル(参照演奏と対象演奏)と，参照演奏内の注目したい音の時間を記録したテキストファイルを準備すると，
+対象演奏側の注目したい音の時間をファイルに出力するシステムです(<span class="ref">図 1 </span>)．
+(音の時間を記録したテキストファイルは無くても手動での設定もできます．)
+</p>
+
+<p>
+手順としては，
+<ol class="parentheses">
+<li>2 つの MIDI ファイル(参照演奏と対象演奏)と参照演奏側の注目したい音の時間を記録したテキストファイルを準備する．
+<li>中村栄太先生のシステムで 2 つの MIDI の演奏をマッチングしてファイルを生成する．
+<li>生成したファイルと時間を記録したテキストファイルを本システムに入力する．
+<li>必要に応じて修正する．
+<li>対象演奏側の時間を記録したテキストファイルを生成する．
+</ol>
+となっています．(4) は必要ないことがありますので，まずは，(2) → (3) → (5) の順に説明し，
+より細かく設定したい場合や修正したい場合の方法を最後に説明します．
+</p>
+
+<p>
+全体として目次は以下の通りです．
+<ul>
+<li><a href="#eitanakamura">中村先生のシステムについて</a> (上記の手順 (2))
+<li><a href="#view">本システムの基本
+	<ul>
+	<li><a href="#input">ファイルの入力と操作方法について</a> (上記の手順 (3))
+	<li><a href="#inputclean">参照演奏側の注目したい音の入力について</a> (上記の手順 (3))
+	<li><a href="#outputtext">対象演奏側の注目したい音の保存について</a>  (上記の手順 (5))
+	<li><a href="#checknotes">注目する音(バー)の編集</a>
+	<li><a href="#layer">レイヤー</a>
+	</ul>
+<li><a href="#onoff">補助機能</a>
+	<ul>
+	<li><a href="#disptime">時間の表示/非表示について</a>
+	<li><a href="#dispsync">同期について</a>
+	<li><a href="#dispsharp">#，♭の表示/非表示について</a>
+	<li><a href="#dispno">番号の表示/非表示について</a>
+	</ul>
+<li><a href="#edit">マッチングの修正</a>
+	<ul>
+	<li><a href="#newpair">新しいペアの作成</a>
+	<li><a href="#delpair">ペアの削除</a>
+	<li><a href="#savematching">マッチングデータの保存</a>
+	</ul>
+</ul>
+</p>
+
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h2 id="eitanakamura">中村先生のシステムについて</h3>
+
+<div>
+<p>
+本システムの前に 2 つの演奏のマッチング情報を取るために中村先生のシステムを使用します．
+中村先生のシステムの使い方を簡単に紹介します．
+詳細ついては，下記の (2) で解凍したフォルダの中に
+<span class="filename">MANUAL.pdf</span> がありますのでそちらをご覧ください．
+
+<ol class="parentheses">
+<li>中村栄太先生の<a target="_blank" href="https://eita-nakamura.github.io/index-ja.html">サイト内</a> の
+	<a target="_blank" href="https://midialignment.github.io/demo.html">https://midialignment.github.io/demo.html</a> から
+	AlignmentTool_v240109.zip をダウンロードする．
+<li><span class="filiname">AlignmentTool_v240109.zip</span> を解凍(展開)する．
+	(「AlignmentTool」とう名前のフォルダができます．)
+<li>コマンドプロンプトまたはターミナルを起動する．
+<li> コマンドプロンプト(ターミナル)で cd コマンドなどを使い，解凍してできたフォルダ「AlignmentTool」に移動する．
+	(Windows11 だとフォルダ「AlignmentTool」内で右クリックして「ターミナルで開く」を選ぶと移動済みの状態で起動します．)
+<li>移動後，コマンドプロンプト(ターミナル)で「compile.sh(エンターキー)」とする．
+	(「Programs」というフォルダができ，そのフォルダ内にもいろいろなファイルができます．
+	(また，「compile.sh」は「./compile.sh」とか「. compile.sh」とか書き方が環境によって違うかもしれません．
+	また，少し時間がかかります．)
+<li>「AlignmentTool」フォルダ内に使いたい 2 つの MIDI ファイルをコピーする．
+<li>コマンドプロンプト(ターミナル)で「MIDIToMIDIAlign.sh MIDI1 MIDI2(エンターキー)」とする．
+	(このとき，MIDI のファイル名が <span class="filename">sample1.mid</span> と <span class="filename">sample2.mid</span> なら「MIDIToMIDIAlign.sh sample1 sample2(エンターキー)」となります．)
+<li>fmt3x.txt と match.txt を含む 5 つくらいの .txt ファイルがでる．
+</ol>
+
+本システムでは作られたファイルのうち，
+<span class="filename">*_fmt3x.txt</span>と<span class="filename">*_match.txt</span>を利用します．
+(* 部分は任意の文字列です．)
+</p>
+</div>
+
+
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h2 id="view">本システムの基本</h2>
+
+<div>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/init.png" alt="初期画面">
+<figcaption>図 2. 初期画面</figcaption>
+</figure>
+
+<p>
+ダウンロードしたファイルは圧縮している状態なので解凍(展開)してください．
+解凍(展開)後，フォルダ内に
+「<span class="filename">into_20260303_windows(.exe)</span>」または
+「<span class="filename">into_20260303_mac(.app)</span>」
+のがありますのでダブルクリック等で実行するとプログラムが動きます．
+(アプリの起動に若干間があることがあるようです．)
+</p>
+
+<p>
+プログラムを実行すると<span class="ref">図 2 </span>のようなウインドウが表示されます．
+重要な (1) ファイルの入力と (6) 出力についてはこの後に，
+「<a href="#input">ファイルの入力と操作方法について</a>」
+「<a href="#inputclean">参照演奏側の注目したい音の入力について</a>」
+「<a href="#outputtext">対象演奏側の注目したい音の保存について</a>」
+して順位説明し，
+(2)～(5) は後で<a href="#onoff">補助機能</a>として補足的に説明します．
+</p>
+
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="input">ファイルの入力と操作方法について</h3>
+
+<div>
+
+<p>
+<span class="ref">図 2 </span>の (1) はファイルの入力です．ファイルをウインドウ内に直接ドラッグ & ドロップしても入力できます．
+対応ファイルは，中村先生のシステムで生成した
+<span class="filename">*_fmt3x.txt</span>，
+<span class="filename">*_match.txt</span>と，
+注目したい音の時間を記録した
+<span class="filename">*_clean.txt</span>
+です．
+(* 部分は任意の文字列です．)
+</p>
+
+<p>
+<span class="ref">図 3 </span>は
+本システムに<span class="filename">*_fmt3x.txt</span>を入力した状態です．
+<span class="ref">図 4 </span>は
+さらに続けて<span class="filename">*_match.txt</span>を入力した状態です．
+<span class="filename">*_fmt3x.txt</span>と<span class="filename">*_match.txt</span>を 2 つ同時に入力しても問題ありません．
+</p>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/fmt3x.png" alt="fmt3x ファイルを入力した画面">
+<figcaption>図 3. <span class="filename">*_fmt3x.txt</span> 入力時の画面</figcaption>
+</figure>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/match.png" alt="match ファイルを入力した画面">
+<figcaption>図 4. 続けて<span class="filename">*_match.txt</span> 入力時の画面</figcaption>
+</figure>
+
+<p>
+<span class="ref">図 4 </span>では，
+入力したファイル名が表示され(<span class="ref">図 4 (1)</span>)，
+上側に参照となる参照演奏<!--(<span class="filename">*_fmt3x.txt</span>)-->が表示(<span class="ref">図 4 (2)</span>)され，
+下側に対象となる対象演奏<!--(<span class="filename">*_match.txt</span>)-->が表示(<span class="ref">図 4 (3)</span>)されます．
+演奏はそぞれれの打鍵状態の音の高さを五線上(<span class="ref">図 4 (4)</span>)の位置に，
+音の長さを長さとしてバー(<span class="ref">図 4 (5)</span>)で表示されます．
+参照演奏と対象演奏のそれぞれの演奏で対応する音(バー)はペアとして線で結ばれます(<span class="ref">図 4 (6)</span>)．
+点線の赤丸で囲まれた音(バー)のように線で結ばれてない場合はペアの音が存在しない音(バー)であると判断された音(バー)になります．
+</p>
+
+<p>
+本システムの基本的な操作方法は<span class="ref">表 1 </span>の通りです．
+画面上のマッチングを編集する操作については，<a href="#edit">マッチングの修正</a>に載せています．
+</p>
+
+<table>
+<caption>表 1．基本的な操作方法一覧</caption>
+<tr>
+	<th>入力</th>
+	<th>内容</th>
+</tr>
+<tr>
+	<td>ウインドウ下部のスクロールバー，または，矢印(←，→)キー</td>
+	<td>画面を左右にスクロールします．</td>
+</tr>
+<tr>
+	<td>矢印(↑，↓)キー</td>
+	<td>楽譜の左右の幅を拡大，縮小します．</td>
+</tr>
+<!--
+<tr>
+	<td></td>
+	<td></td>
+</tr>
+-->
+</table>
+
+</div>
+
+
+
+<h3 id="inputclean">参照演奏側の注目したい音の入力について</h3>
+<div>
+
+<p>
+入力するファイル <span class="filename">*_clean.txt</span> は次のように注目したい音の時間と番号(1 からの順)になっています．
+これは Sonic Visualiser などで作ることができます．
+また，ファイルがない時は<a href="#checknotes">手動での設定</a>もできます．
+</p>
+
+<pre class="code">
+4.735941043	1
+8.359387755	2
+12.531292517	3
+16.390589569	4
+20.914104308	5
+...
+</pre>
+
+<p>
+注目する音(バー)はレイヤーで管理しています．
+画面の右上の白い四角内にある [ + ] をクリックするとクリックした回数だけレイヤーが 1, 2, 3, ... と増えます．
+例えば 3 回クリックすると<span class="ref">図 5 </span>のように
+1 番から 3 番までのレイヤーが増えます．
+ちなみに，レイヤー 0 番はマッチングの情報を管理するための特別なレイヤーで，
+詳しくは<a href="#edit">後で説明</a>します．
+</p>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/layer_add3.png" alt="レイヤーを 3 つ追加した状態">
+<figcaption>図 5. レイヤーを 3 つ追加した状態</figcaption>
+</figure>
+
+<p>
+ここで，(0 以外の) 青色の [ 1 ] と書かれたレイヤーを選びます．選ばれたレイヤーには下に▲が付きます．
+その状態で，先ほど準備した <span class="filename">*_clean.txt</span> をウインドウ内にドラッグ & ドロップすると
+<span class="ref">図 6 </span>のように注目する音にレイヤーと同じ色(今回は青色)の枠が付きます．
+さらに，対象演奏側でマッチングしている音にも自動的に青色の枠が付いているのが分かると思います．
+</p>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/checknote2.png" alt="注目する音を選んだ状態">
+<figcaption>図 6. 注目する音(バー)</figcaption>
+</figure>
+
+<p>
+ここでは簡単にレイヤーを紹介しましたが，詳細については<a href="#layer">レイヤー</a>の説明を見てください．
+</p>
+
+</div>
+
+
+<h3 id="outputtext">対象演奏側の注目したい音の保存について</h3>
+<div>
+
+<p>
+注目する音(バー)の保存は保存したいレイヤーを選んだ状態(保存したいレイヤーの下に▲がある状態)で，
+左側のメニューの「output text(s)」をクリックします．
+保存先を聞かれますのでフォルダを選ぶと，
+<span class="filename">*_fmt3x_times.txt</span>(参照演奏側の情報)と
+<span class="filename">*_match_times.txt</span>(対象演奏側の情報)という 2 つのファイルができます．
+このファイルはどちらも以下の様に
+「番号，音(バー)の始まりの時間，音(バー)の終わりの時間，音(バー)の長さの時間」
+となっています．
+現在は，このデータを Sonic Visualiser などで利用することを想定していたので，
+本システムでの再利用はできません．今後の課題です．
+</p>
+
+<pre class="code">
+1	2.851	4.467	1.616
+2	4.467	4.582	0.115
+3	4.735	5.240	0.505
+...
+</pre>
+
+</div>
+
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="checknotes">注目する音(バー)の編集</h3>
+<div>
+
+<p>
+注目する音は <span class="filename">*_clean.txt</span> で設定することもできますが，
+個別に設定することもできます．
+設定するには参照演奏の音(バー)をクリックしてください．
+<span class="ref">図 7 </span> は左側の図が元の状態で，
+右側の図は 6.5 秒頃にある C#4 の音(バー)をクリックした後の状態です．
+クリックした音(バー)とそれにマッチングしている対象演奏側にも青い枠が付いていることが分かります．
+(また，ここで注意して欲しいのは，右上の青色の [ 1 ] に▲がついていることです．[ 0 ] には追加できません．)
+</p>
+
+<p>
+一般的に，多くの音(バー)をクリックするのは大変なので
+<a href="#inputclean">参照演奏側の注目したい音の入力について</a>のようにファイルを準備した方が良いです．
+</p>
+
+<p>
+もう一度クリックすると削除できます．バーの中央辺りをクリックすると追加や削除の操作がしやすいです．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/addnote1.png" data-lightbox="groupaddnote"><img class="fig2" src="./htmlsrc/fig/addnote1.png" alt="注目する音の元の状態"></a>
+<a href="./htmlsrc/fig/addnote2.png" data-lightbox="groupaddnote"><img class="fig2" src="./htmlsrc/fig/addnote2.png" alt="注目する音を 1 つ追加した状態"></a>
+<figcaption>図 7. 注目する音(バー)を手動で 1 つ追加する様子 (画像をクリックで拡大表示)</figcaption>
+</figure>
+
+
+<h3 id="layer">レイヤー</h3>
+
+<p>
+レイヤーは，<span class="ref">表 2 </span>の通りマッチングや注目する音(バー)の情報を管理します．
+通常はレイヤー 0 とレイヤー 1 で十分かもしれませんが，
+注目する音(バー)を複数参照したい場合などはレイヤー 2 以降も使用してください．
+</p>
+
+<p>
+レイヤーは，画面右上の [ + ] をクリックすると追加され，
+番号が書かれた四角い枠をクリックすることで選択できます．
+選択されているレイヤーには下に▲のマークがつきますので，
+どのレイヤーを操作中か注意しながら編集を進めてください．
+(もっと利用しやすい方法にできそうでしたら修正します．)
+</p>
+
+<table>
+<caption>表 2．レイヤーの役割</caption>
+<tr>
+	<th>レイヤー</th>
+	<th>役割</th>
+</tr>
+<tr>
+	<td>レイヤー 0</td>
+	<td><a href="#edit">マッチングの編集</a></td>
+</tr>
+<tr>
+	<td>レイヤー 0 以外 (レイヤー 1, レイヤー 2, ...)</td>
+	<td><a href="#inputclean">参照演奏側の注目したい音の入力について</a> または <a href="#checknotes">注目する音(バー)の編集</a></td>
+</tr>
+<!--
+<tr>
+	<td></td>
+	<td></td>
+</tr>
+-->
+</table>
+
+<p>
+レイヤーは番号の下にある長方形の枠をクリックすると非表示にできます．
+<span class="ref">図 8 </span>では，
+すべてのレイヤーを表示している場合(<span class="ref">図 8 (左側)</span>)と，
+レイヤー 1 番とレイヤー 3 番を非表示にした場合(<span class="ref">図 8 (右側)</span>)の例です．
+レイヤー 1 番とレイヤー 3 番を非表示にすると，
+画面上ではレイヤー 0 番(マッチングの情報)とレイヤー 2 番の注目する音(バー)の枠(オレンジ色)のみが表示されます．
+非表示のレイヤーは番号の下にある長方形の枠が白色に変り，
+もう一度クリックすると表示されます．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/displayerall.png" data-lightbox="groupdisplayer"><img class="fig2" src="./htmlsrc/fig/displayerall.png" alt="すべてのレイヤーが表示の状態"></a>
+<a href="./htmlsrc/fig/displayer2.png" data-lightbox="groupdisplayer"><img class="fig2" src="./htmlsrc/fig/displayer2.png" alt="レイヤー 1 番とレイヤー 3 版が非表示の状態"></a>
+<figcaption>図 8. レイヤーの表示と非表示 (画像をクリックで拡大表示)</figcaption>
+</figure>
+
+</div>
+
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h2 id="onoff">補助機能</h2>
+<div>
+
+<p>
+ここでは補助機能である <span class="ref">図 2 </span> の (2)～(5) について各補助機能を説明します．
+</p>
+
+<figure>
+<img class="figsmall" src="./htmlsrc/fig/init.png" alt="初期画面">
+<figcaption>図 2. 初期画面 (再掲)</figcaption>
+</figure>
+
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="disptime">時間の表示/非表示について</h3>
+
+<div>
+
+<p>
+<span class="ref">図 2 (2)</span> は，時間の表示/非表示の違いで，
+<span class="ref">図 9 </span>のように五線の上下にある時間(数値)表示が変わります．
+時間の表示が不要な時は，非表示にしていた方が全体の表示速度が少し高速になります．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/def.png" data-lightbox="grouptime"><img class="fig2" src="./htmlsrc/fig/def.png" alt="「time」が表示の状態"></a>
+<a href="./htmlsrc/fig/offtime.png" data-lightbox="grouptime"><img class="fig2" src="./htmlsrc/fig/offtime.png" alt="「time」が非表示の状態"></a>
+<figcaption>図 9. 「time」の表示(左図)/非表示(右図)の違い (画像をクリックで拡大表示)</figcaption>
+</figure>
+</div>
+
+<!--
+460x280
+-->
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="dispsync">同期について</h3>
+<div>
+
+<p>
+<span class="ref">図 2 (3)</span> は，
+参照演奏と対象演奏について，画面中央の位置で現在演奏中の場所をそろえるかどうかです．
+例えば参照演奏の演奏がゆっくりで時間が長く，対象演奏は速くて時間が短い場合に演奏の後半を表示すると
+<span class="ref">図 9 (右側)</span> のように演奏が早く終わった方が見えなくなりますが，
+オンにすることで<span class="ref">図 9 (左側)</span> のように画面中央で演奏箇所がそろうようになります．
+オフにすると上下の時間が揃うので，
+現在の演奏箇所の音(バー)で揃えたい(オン)か，または，時間を揃えたい(オフ)かで選択してください．
+オフの方が表示が速くなります．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/onsync.png" data-lightbox="groupsync"><img class="fig2" src="./htmlsrc/fig/onsync.png" alt="「sync」がオンの状態"></a>
+<a href="./htmlsrc/fig/offsync.png" data-lightbox="groupsync"><img class="fig2" src="./htmlsrc/fig/offsync.png" alt="「sync」がオフの状態"></a>
+<figcaption>図 10. 「sync」のオン(左)/オフ(右)の違い (画像をクリックで拡大表示)</figcaption>
+</figure>
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="dispsharp">#，♭の表示/非表示について</h3>
+<div>
+
+<p>
+<span class="ref">図 2 (4)</span> は，#や♭の文字列表示の違いです．
+<span class="ref">図 11 </span>のように
+表示にすると画面上に Bb4 や C#4 などが音(バー)の上に表示されます．
+非表示にすると文字列は表示されずに，♭の音(バー)は少し低い位置に，#の音(バー)は少し高い位置に表示されます．
+五線上では#と♭は見分けづらいので，その場合は表示にしてください．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/def.png" data-lightbox="groupsharp"><img class="fig2" src="./htmlsrc/fig/def.png" alt="「#，♭」が表示の状態"></a>
+<a href="./htmlsrc/fig/offsharp.png" data-lightbox="groupsharp"><img class="fig2" src="./htmlsrc/fig/offsharp.png" alt="「#，♭」が非表示の状態"></a>
+<figcaption>図 11. 「#，♭」の表示(左図)/非表示(右図)の違い (画像をクリックで拡大表示)</figcaption>
+</figure>
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="dispno">番号の表示/非表示について</h3>
+<div>
+
+<p>
+<span class="ref">図 2 (5)</span> は，それぞれの音(バー)に付けられている番号の表示/非表示です．
+番号は演奏内の音(バー)の下側に付いていて，先頭から順に 1 から割り当てられています．
+<span class="ref">図 12 </span> のように音(バー)の下につけられた番号が表示されたり消えたりします．
+番号の表示が不要な時は，非表示にしていた方が全体の表示速度が少し高速になります．
+</p>
+
+<figure>
+<a href="./htmlsrc/fig/def.png" data-lightbox="groupno"><img class="fig2" src="./htmlsrc/fig/def.png" alt="「note No.」が表示の状態"></a>
+<a href="./htmlsrc/fig/offno.png" data-lightbox="groupno"><img class="fig2" src="./htmlsrc/fig/offno.png" alt="「note No.」が非表示の状態"></a>
+<figcaption>図 12. 「note No.」の表示(左図)/非表示(右図)の違い (画像をクリックで拡大表示)</figcaption>
+</figure>
+</div>
+
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h2 id="edit">マッチングの修正</h2>
+<div>
+
+<p>
+ここでは，マッチングの修正方法について説明します．
+<a href="#eitanakamura">中村先生のシステム</a>
+でも演奏によってはマッチングが合っていない場合があるので，その際に修正してください．
+</p>
+
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="newpair">新しいペアの作成</h3>
+<div>
+
+<figure>
+<a href="./htmlsrc/fig/newpair_click.png" data-lightbox="grouppair"><img class="fig2" src="./htmlsrc/fig/def.png" alt="参照演奏のバー上にマウスカーソルがある状態"></a>
+<a href="./htmlsrc/fig/newpair_drag.png" data-lightbox="grouppair"><img class="fig2" src="./htmlsrc/fig/offno.png" alt="マウスカーソルをドラッグしている状態"></a>
+<a href="./htmlsrc/fig/newpair_onbar.png" data-lightbox="grouppair"><img class="fig2" src="./htmlsrc/fig/def.png" alt="対象演奏のバー上までドラッグしている状態"></a>
+<a href="./htmlsrc/fig/newpair.png" data-lightbox="grouppair"><img class="fig2" src="./htmlsrc/fig/offno.png" alt="新しいペアができた状態"></a>
+<figcaption>図 13. 新しいペアの作成 (画像をクリックで拡大表示)</figcaption>
+</figure>
+
+<p>
+参照演奏と対象演奏のそれぞれの音(バー)の組み合わせで，
+ペアになっていて欲しいのにペアになっていない場合があります．
+その時は<span class="ref">図 13 </span>のように新しくペアを作ることができます．
+手順は以下の通りです．
+</p>
+
+<ol class="parentheses">
+<li><a href="#layer">レイヤー 0 </a>を選択する．(マッチングの編集はレイヤー 0 に対応するので，右上の [ 0 ] の下に▲が付いている状態にしてください．)
+<li>参照演奏のペアにしたい音(バー)の位置にマウスカーソルを合わせてドラッグを開始する (<span class="ref">図 13 (左上)</span>)．
+<li>ドラッグすると選んだ音(バー)からマウスカーソルまで赤い線が延びる (<span class="ref">図 13 (右上)</span>)．
+<li>マウスカーソルを対象演奏のペアにしたい音(バー)の位置に合わせる (<span class="ref">図 13 (左下)</span>)．
+<li>マウスボタンから指を離す(ドラッグを止める)とそれぞれの音(バー)が青い線で結ばれる (<span class="ref">図 13 (右下)</span>)．
+</ol>
+
+<p>
+操作する際は音(バー)の先頭ではなく，音(バー)の中央あたりを選ぶと操作しやすいです．(今後の改善点です．)
+</p>
+
+<p>
+このときすでにペアがある場合，参照演奏に元々あるペアは自動的に削除されますが，対象演奏に元々あるペアは残ります．
+例えば，<span class="ref">図 14 </span>の場合は，
+参照演奏の最初の音(バー)から対象演奏の先頭から 2 番目の音(バー)をペアにしていますが，
+元々あった先頭の音(バー)ペアは消えていますが，
+2 番目の音(バー)には 2 つのペアが残ったまま繋がっています．
+不要な場合は<a href="#delpair">削除</a>の処理をしてください．
+</p>
+
+<p>
+編集したマッチングの状態はファイルに<a href="#savematching">保存</a>することができます．
+</p>
+
+<figure>
+<img class="fig" src="./htmlsrc/fig/newpair_example.png" alt="fmt3x ファイルを入力した画面">
+<figcaption>図 14. すでにペアがある場合の例</figcaption>
+</figure>
+
+</div>
+
+
+<!-- ************************************************************* 
+     ************************************************************* -->
+<h3 id="delpair">ペアの削除</h3>
+<div>
+
+<figure>
+<a href="./htmlsrc/fig/pair_delete.png" data-lightbox="groupdelete"><img class="fig2" src="./htmlsrc/fig/def.png" alt="ペアの線上にマウスカーソルがある状態"></a>
+<a href="./htmlsrc/fig/pair_deleted.png" data-lightbox="groupdelete"><img class="fig2" src="./htmlsrc/fig/offno.png" alt="ペアを削除した状態"></a>
+<figcaption>図 15. ペアの削除 (画像をクリックで拡大表示)</figcaption>
+</figure>
+
+<p>
+ペアを削除するには，ペアを表示している線の近くにマウスカーソルを合わせて(<span class="ref">図 15 (左側)</span>)，
+ダブルクリックするとペアが削除されて線も消えます(<span class="ref">図 15 (右側)</span>)．
+<span class="ref">図 15 </span>では先頭から 2 つ目のマッチング(線)を削除しています
+</p>
+
+<p>
+編集したマッチングの状態はファイルに<a href="#savematching">保存</a>することができます．
+</p>
+
+</div>
+
+
+<h3 id="savematching">マッチングデータの保存</h4>
+<div>
+<p>
+編集したマッチングデータはファイルに保存し，その後も再利用できます．
+保存方法は，レイヤー 0 番を選んだ状態(レイヤー 0 番の下に▲がある状態)で，
+左側のメニューの「output text(s)」をクリックします．
+ファイルは入力した<span class="filename">*_match.txt</span>があるフォルダに
+<span class="filename">*_(保存時の時間の数字 12 桁)_match.txt</span>というファイル名で保存されます．
+</p>
+
+<p>
+次回は元の <span class="filename">*_fmt3x.txt</span> と，
+この新しい <span class="filename">*_(保存時の時間の数字 12 桁)_match.txt</span> の 2 つのファイルを入力すると
+修正したマッチングで作業をすることができます．
+</p>
+</div>
+
+
+</body>
+</html>
