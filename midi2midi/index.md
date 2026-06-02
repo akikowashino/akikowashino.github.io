@@ -4,7 +4,7 @@ layout: default
 lang: en
 ---
 
-## In Progress (日本語のページ)
+## 準備中 (日本語のページ)
 
 
 <img src="../midi2midi/small.png">
