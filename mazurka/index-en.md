@@ -1,5 +1,5 @@
 ---
-title:Mazurka project
+title:"Mazurka project"
 layout:default
 lang:en
 ---
