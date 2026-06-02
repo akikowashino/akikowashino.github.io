@@ -6,6 +6,10 @@ lang: en
 
 In Progress English
 
+<img src="../midi2midi/small.png">
+
+
+
 # 参考資料
 
 ## 参考文献
