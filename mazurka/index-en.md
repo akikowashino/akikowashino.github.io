@@ -1,7 +1,7 @@
 ---
-title:"Mazurka project"
-layout:default
-lang:en
+title: Mazurka
+layout: default
+lang: en
 ---
 
 In Progress English
