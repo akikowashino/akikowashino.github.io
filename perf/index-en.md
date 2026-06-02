@@ -25,8 +25,8 @@ lang: en
 * [Sonic Visualiser](https://www.sonicvisualiser.org)
 * <table>
 	<tr>
-		<td><img src=../midi2midi/small.png></td>
-		<td><a href=../midi2midi/manual.html>midi2midi>midi2midi</a></td></tr></table>
+		<td><img src="../midi2midi/small.png"></td>
+		<td><a href="../midi2midi/manual.html">midi2midi>midi2midi</a></td></tr></table>
 
 
 
