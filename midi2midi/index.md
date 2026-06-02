@@ -3,8 +3,8 @@ title: "Mazurka project"
 layout: default
 lang: en
 ---
-
-## 準備中 (日本語のページ)
+# MIDI2MIDI（準備中）
+## (日本語のページ)
 
 
 <img src="../midi2midi/small.png">
