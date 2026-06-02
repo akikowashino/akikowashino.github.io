@@ -23,7 +23,8 @@ lang: en
 
 * [Mazurka Project online tools](http://mazurka.org.uk/software/online)
 * [Sonic Visualiser](https://www.sonicvisualiser.org)
-* [MIDI2MIDI](midi2midi/manual.html)
+* [MIDI2MIDI](../midi2midi/manual.html)
+
 
 
 ## Digital scores
