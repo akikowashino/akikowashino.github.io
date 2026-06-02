@@ -1,4 +1,9 @@
 
+---
+title: "Mazurka project"
+layout: default
+lang: jap
+---
 
 
 ## In Progress (日本語のページ)
