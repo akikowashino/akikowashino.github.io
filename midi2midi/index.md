@@ -13,9 +13,9 @@ lang: en
 
 
 <ul>
-<li>マニュアル<a href="manual.html">Online Manual</a></li>
-<li>Windows用<a href="into.exe">Windows documentation</a></li>
-<li>Mac用<a href="mac.zip">Mac documentation</a></li>
+<li>マニュアル　<a href="manual.html">Online Manual</a></li>
+<li>Windows用　<a href="into.exe">Windows documentation</a></li>
+<li>Mac用　<a href="mac.zip">Mac documentation</a></li>
 </ul>
 
 <br><br>
