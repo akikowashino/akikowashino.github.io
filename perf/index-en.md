@@ -23,7 +23,8 @@ lang: en
 
 * [Mazurka Project online tools](http://mazurka.org.uk/software/online)
 * [Sonic Visualiser](https://www.sonicvisualiser.org)
-* <table><tr><td><img src ../midi2midi/small.png</td><td>[midi2midi](../midi2midi/manual.html)</td></tr></table>
+* <table><tr><td><img src=../midi2midi/small.png</td>
+<td><a href=../midi2midi/manual.html>midi2midi</a></td></tr></table>
 
 
 
