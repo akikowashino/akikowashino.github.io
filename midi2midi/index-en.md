@@ -12,7 +12,8 @@ In Progress English
 
 https://ismir2008.ismir.net/papers/ISMIR2008_240.pdf
 
-<a href="manual.html">Online Manual</a>
-<a href="into.exe">Windows documentation</a>
-<a href="mac.zip">Mac documentation</a>
-
+<ul>
+<li><a href="manual.html">Online Manual</a>
+<li><a href="into.exe">Windows documentation</a>
+<li><a href="mac.zip">Mac documentation</a>
+</ul>
