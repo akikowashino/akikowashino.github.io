@@ -161,7 +161,7 @@ lang: en
         <tr><td>Op. 68 No. 3</td><td><a href="https://chopinscores.org/en/partytura/1020" target="_blank" rel="noopener">マズルカ 第48番 ヘ長調 (遺作)</a></td></tr>
         <tr><td>Op. 68 No. 4</td><td><a href="https://chopinscores.org/en/partytura/1021" target="_blank" rel="noopener">マズルカ 第49番 ヘ短調 (遺作)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="https://ks15.imslp.org/files/imglnks/usimg/e/e2/IMSLP96715-PMLP152738-Chopin_Klindworth_Band_1_Bote_12261_B_134_scan.pdf" target="_blank" rel="noopener">マズルカ 第50番 イ短調「ノートル・タン」B134(KK IIb/4)</a></td></tr>
-        <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第51番 イ短調「エミール・ガイヤール」</a></td></tr>
+        <tr><td>作品番号なし</td><td><a href="https://vmirror.imslp.org/files/imglnks/usimg/4/47/IMSLP399502-PMLP152797-BnF_btv1b52500541b_1.pdf" target="_blank" rel="noopener">マズルカ 第51番 イ短調「エミール・ガイヤール」B140(KK IIb/5)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変ロ長調</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ト長調</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ニ長調</a></td></tr>
