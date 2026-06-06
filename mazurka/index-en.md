@@ -156,10 +156,10 @@ lang: en
         <tr><td>Op. 67 No. 2</td><td><a href="https://chopinscores.org/en/partytura/11" target="_blank" rel="noopener">マズルカ 第43番 ト短調 (遺作)</a></td></tr>
         <tr><td>Op. 67 No. 3</td><td><a href="https://chopinscores.org/en/partytura/1016" target="_blank" rel="noopener">マズルカ 第44番 ハ長調 (遺作)</a></td></tr>
         <tr><td>Op. 67 No. 4</td><td><a href="https://chopinscores.org/en/partytura/1017" target="_blank" rel="noopener">マズルカ 第45番 イ短調 (遺作)</a></td></tr>
-        <tr><td>Op. 68 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第46番 ハ長調 (遺作)</a></td></tr>
-        <tr><td>Op. 68 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第47番 イ短調 (遺作)</a></td></tr>
-        <tr><td>Op. 68 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第48番 ヘ長調 (遺作)</a></td></tr>
-        <tr><td>Op. 68 No. 4</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第49番 ヘ短調 (遺作)</a></td></tr>
+        <tr><td>Op. 68 No. 1</td><td><a href="https://chopinscores.org/en/partytura/1018" target="_blank" rel="noopener">マズルカ 第46番 ハ長調 (遺作)</a></td></tr>
+        <tr><td>Op. 68 No. 2</td><td><a href="https://chopinscores.org/en/partytura/1019" target="_blank" rel="noopener">マズルカ 第47番 イ短調 (遺作)</a></td></tr>
+        <tr><td>Op. 68 No. 3</td><td><a href="https://chopinscores.org/en/partytura/1020" target="_blank" rel="noopener">マズルカ 第48番 ヘ長調 (遺作)</a></td></tr>
+        <tr><td>Op. 68 No. 4</td><td><a href="https://chopinscores.org/en/partytura/1021" target="_blank" rel="noopener">マズルカ 第49番 ヘ短調 (遺作)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第50番 イ短調「ノートル・タン」</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第51番 イ短調「エミール・ガイヤール」</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変ロ長調</a></td></tr>
