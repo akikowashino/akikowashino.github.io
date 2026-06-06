@@ -208,6 +208,181 @@ lang: jp
 
 <BR>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<!-- ① 見た目の設定 -->
+<style>
+  /* 11番目以降のリストを初期状態で隠す */
+  #magazine-list li.hidden-item {
+    display: none !important;
+  }
+  /* ボタンを押した時に表示させる */
+  #magazine-list li.is-show {
+    display: list-item !important;
+  }
+  /* ボタンの装飾（他のページと共通のデザインです） */
+  .show-more-button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 35px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s;
+  }
+  .show-more-button:hover {
+    background-color: #666;
+  }
+</style>
+
+<!-- ② 雑誌・Web雑誌リスト本体 -->
+<h1>雑誌・Web雑誌</h1>
+
+<!-- 他のページと共通のスタイルを当てる場合は、必要に応じて class="..." を追加してください -->
+<ul id="magazine-list">
+  <li>新譜月評, レコード芸術ONLINE, 2024年10月号〜現在（毎月）.</li>
+  <li>「フォルテピアノ界の大御所、リュビモ夫の彩り豊かな演奏」, MOOK『レコード芸術2026』（音楽之友社）, 38, 2026年1月.</li>
+  <li>「ピアノ協奏曲第2番」, MOOK『ショパンとショパン・コンクール』（音楽之友社）, 74-75, 2025年9月.</li>
+  <li>インタビュー「七條恵子に聞くフォルテピアノとモーツァルト、19世紀のこと」, レコード芸術ONLINE, 2025年4月号.</li>
+  <li>特集「グレン・グールドの30年：「録音」という創造の軌跡1952-1982」内のコラム「グレン・グールドの演奏とノイズ」とディスク・レビュー（4点）, 『レコード芸術』, 2022年11月号, 49, 51, 54, 57, 2022年10月.</li>
+  <li>レコード誕生物語第52回「現代に通じるモダニスト。J.ホフマンのザ・ゴールデン・ジュビリー・コンサート」, 『レコード芸術』, 2022年4月号, 64-68, 2022年3月.</li>
+  <li>第1回ショパン国際ピリオド楽器コンクール , 『ムジカノーヴァ』, 2018年12月号, 35-36, 2018年12月.</li>
+  <li>「演奏分析」, Music Friends（韓国）, 117, 26-29, 2017年5月.</li>
+  <li>「ロサンジェルス：Nethercutt CollectionとEl Capitan Theatre」, Music Friends（韓国）, 116 25-31, 2017年4月.</li>
+  <li>「CCRMAとCCARH 」, Music Friends（韓国）, 115, 24-29, 2017年3月.</li>
+  
+  <!-- ↑ ここまでが最初の10項目（常時表示） / ↓ ここから下が自動的に隠れます -->
+  
+  <li>「風光明媚なシリコンバレー 」, Music Friends（韓国）, 114, 25-29, 2017年2月.</li>
+  <li>「スタンフォード大学音楽図書館(2)：Archive of Recorded Sound」, Music Friends（韓国）, 113, 26-31, 2017年1月.</li>
+  <li>「スタンフォード大学音楽図書館(1)」, Music Friends（韓国）, 112, 23-28, 2016年12月.</li>
+  <li>「スタンフォード・シアターで観た2つの『メリー・ウィドウ』」, Music Friends（韓国）, 111, 23-28, 2016年11月.</li>
+  <li>「AMICA」, Music Friends（韓国）, 110, 23-28, 2016年10月.</li>
+  <li>「スタンフォードの夏休み(2)：サンノゼのベートーヴェン・センター」, Music Friends（韓国）, 109, 22-28, 2016年9月.</li>
+  <li>「スタンフォードの夏休み(1)：サンフランシスコ」, Music Friends（韓国）, 108, 22-27, 2016年8月.</li>
+  <li>「アメリカにおける古楽演奏の学会と古楽音楽祭」, Music Friends（韓国）, 107, 20-24, 2016年7月.</li>
+  <li>「演奏法の授業」, Music Friends（韓国）, 106, 20-23, 2016年6月.</li>
+  <li>「スタンフォード滞在記：スタンフォード大学」, Music Friends（韓国）, 105, 20-23, 2016年5月.</li>
+  <li>「新しい視点」, Music Friends（韓国）, 104, 20-23, 2016年4月.</li>
+  <li>「子どものための音楽教育(2)：どのように教えるか」, Music Friends（韓国）, 103, 20-24, 2016年3月.</li>
+  <li>「子どものための音楽教育(1)：何を教えるか」, Music Friends（韓国）, 102, 20-25, 2016年2月.</li>
+  <li>「アルバート・ロトというピアニスト」, Music Friends（韓国）, 101, 20-24, 2016年1月.</li>
+  <li>「楽器博物館」, Music Friends（韓国）, 100, 20-24, 2015年12月.</li>
+  <li>「技術」, Music Friends（韓国）, 99, 20-24, 2015年11月.</li>
+  <li>「楽器博物館」, Music Friends（韓国）, 100, 20-24, 2015年12月.</li>
+  <li>「技術」, Music Friends（韓国）, 99, 20-24, 2015年11月.</li>
+  <li>「マルコム・ビルソン名誉教授」, Music Friends（韓国）, 98, 20-24, 2015年10月.</li>
+  <li>「ショパンの《ノクターン》に見られる旋律の「歌い回し」方」, Music Friends（韓国）, 97, 20-24, 2015年9月.</li>
+  <li>「作曲家による自作自演」, Music Friends（韓国）, 96, 20-24, 2015年8月.</li>
+  <li>「シューマンの実像」, Music Friends（韓国）, 95, 20-24, 2015年7月.</li>
+  <li>「トリルをどう弾くか？」, Music Friends（韓国）, 94, 20-24, 2015年6月.</li>
+  <li>「もうひとつのショパン《ワルツOp.34-1》：２つの楽譜からショパンの作曲行程を探る」, Music Friends（韓国）, 93, 20-24, 2015年5月.</li>
+  <li>「ショパン《ワルツOp. 34-1》の作品分析」, Music Friends（韓国）, 92, 20-24, 2015年4月.</li>
+  <li>「ショパン《ワルツOp. 34-1》の楽譜比較」, Music Friends（韓国）, 91, 20-24, 2015年3月.</li>
+  <li>「土地に根づいた芸術」, Music Friends（韓国）, 90, 20-24, 2015年2月.</li>
+  <li>「魔法的要素と錯覚」, Music Friends（韓国）, 89, 20-24, 2015年1月.</li>
+  <li>「練習」, Music Friends（韓国）, 88, 20-23, 2014年12月.</li>
+  <li>「間合い」, Music Friends（韓国）, 87, 18-22, 2014年11月.</li>
+  <li>「味わいある作品。そしてその制作者。」, Music Friends（韓国）, 86, 18-22, 2014年10月.</li>
+  <li>「和音を同時に弾かない19世紀のピアニスト」, Music Friends（韓国）, 85, 18-22, 2014年9月.</li>
+  <li>「安城男寺党（アンソン・ナムサダン）」, Music Friends（韓国）, 84, 18-22, 2014年8月.</li>
+  <li>「チェコ人作曲家ヤン・ヴァーツラフ・ヴォジーシェク）」, Music Friends（韓国）, 83, 18-22, 2014年7月.</li>
+  <li>「同一曲の出版譜が複数ある理由」, Music Friends（韓国）, 82, 18-22, 2014年6月.</li>
+  <li>「19世紀におけるユダヤ人音楽家の存在」, Music Friends（韓国）, 81, 18-22, 2014年5月.</li>
+  <li>「音楽家とサロン」, Music Friends（韓国）, 80, 18-22, 2014年4月.</li>
+  <li>「100年前の演奏」, Music Friends（韓国）, 79, 18-22, 2014年3月.</li>
+  <li>「教材の選択: ツェルニーの《練習曲》」, Music Friends（韓国）, 78, 18-22, 2014年2月.</li>
+  <li>「《ラ・ヴァルス》:幻のバレエ《ウィーン》」, Music Friends（韓国）, 77, 18-22, 2014年1月.</li>
+  <li>「室内楽」, Music Friends（韓国）, 76, 18-22, 2013年12月.</li>
+  <li>「作曲家の声」, Music Friends（韓国）, 75, 18-22, 2013年11月.</li>
+  <li>「デトレフ・クラウス先生」, Music Friends（韓国）, 74, 18-22, 2013年10月.</li>
+  <li>「ズレの存在」, Music Friends（韓国）, 73, 18-22, 2013年9月.</li>
+  <li>「待つこと、休符」, Music Friends（韓国）, 72, 18-22, 2013年8月.</li>
+  <li>「自動演奏ピアノ」, Music Friends（韓国）, 71, 17-21, 2013年7月.</li>
+  <li>「フォルテピアノ演奏から見える景色」, Music Friends（韓国）, 70, 17-22, 2013年6月.</li>
+  <li>「フォルテピアノ製作家の現在：フォルテピアノ製作家ロバート・ブラウン氏に楽器製作について聞く」, Music Friends（韓国）, 69, 17-21, 2013年5月.</li>
+  <li>「ウィーンの音楽界に新たな楽器が参入したとき：モシェレスが1823年に企画した演奏会についてのトム・ベギンの論文を考える」, Music Friends（韓国）, 68, 16-21, 2013年4月.</li>
+  <li>「フォルテピアノを弾くこと」, Music Friends（韓国）, 67, 17-21, 2013年3月.</li>
+  <li>「音楽専攻の大学受験」, Music Friends（韓国）, 66, 18-21, 2013年2月.</li>
+  <li>「聴く楽しみ」, Music Friends（韓国）, 65, 18-21, 2013年1月.</li>
+  <li>「反復・繰り返し」, Music Friends（韓国）, 64, 18-21, 2012年12月.</li>
+  <li>「音の素材」, Music Friends（韓国）, 63, 17-21, 2012年11月.</li>
+  <li>「なぜペダルを上手に踏むのはこれほど難しいのか？」, 『ムジカノーヴァ』, 2012年11月号, 84-85, 2012年11月.</li>
+  <li>「シェーンベルク」, Music Friends（韓国）, 62, 16-21, 2012年10月.</li>
+  <li>「アメリカ留学時代の授業」, Music Friends（韓国）, 61, 18-21, 2012年9月.</li>
+  <li>「演奏の技術」, Music Friends（韓国）, 60, 16-19, 2012年8月.</li>
+  <li>「作品分析」, Music Friends（韓国）, 59, 16-20, 2012年7月.</li>
+  <li>「暗譜・楽譜・譜めくり」, Music Friends（韓国）, 58, 16-19, 2012年6月.</li>
+  <li>「演奏空間」, Music Friends（韓国）, 57, 16-19, 2012年5月.</li>
+  <li>「伝統：受け継がれる演奏スタイル」, Music Friends（韓国）, 56, 16-19, 2012年4月.</li>
+  <li>「モーツァルト」, Music Friends（韓国）, 55, 16-19, 2012年3月.</li>
+  <li>「先生」, Music Friends（韓国）, 54, 16-19, 2012年2月.</li>
+  <li>「ペダル`」, Music Friends（韓国）, 53, 16-19, 2012年1月.</li>
+  <li>「スラー」, Music Friends（韓国）, 52, 16-19, 2011年12月.</li>
+  <li>「エステルハーザ」, Music Friends（韓国）, 51, 16-19, 2011年11月.</li>
+  <li>「指遣い」, Music Friends（韓国）, 50, 18-21, 2011年10月.</li>
+  <li>「クラヴィコード」, Music Friends（韓国）, 49, 20-22, 2011年9月.</li>
+  <li>「カデンツ」, Music Friends（韓国）, 48, 18-20, 2011年8月.</li>
+  <li>「「聴く」こと、「弾く」こと」, Music Friends（韓国）, 47, 20-21, 2011年7月.</li>
+  <li>「連弾のススメ」, Music Friends（韓国）, 46, 18-19, 2011年6月.</li>
+  <li>「作曲をする：映画『アマデウス』より」, Music Friends（韓国）, 45, 18-19, 2011年5月.</li>
+  <li>「ヨーロッパから」, Music Friends（韓国）, 44, 17-19, 2011年4月.</li>
+  <li>「音楽を理解すること」, Music Friends（韓国）, 43, 18-19, 2011年3月.</li>
+</ul>
+
+<!-- ③ 切り替えボタン -->
+<button id="magazine-toggle-btn" class="show-more-button">それ以前の雑誌・Web雑誌を表示</button>
+
+<!-- ④ 動かすためのプログラム -->
+<script>
+  window.addEventListener('load', function() {
+    const visibleCount = 10; // 最初に見せる数（10項目＝11行目以降を隠す）
+    const listParent = document.getElementById('magazine-list');
+    const btn = document.getElementById('magazine-toggle-btn');
+    
+    if (!listParent || !btn) return;
+
+    const listItems = listParent.querySelectorAll('li');
+
+    // 1. 自動振り分け：11番目以降に隠す用のクラスをつける
+    listItems.forEach((item, index) => {
+      if (index >= visibleCount) {
+        item.classList.add('hidden-item');
+      }
+    });
+
+    // 2. 項目が指定数以下ならボタンを隠す
+    if (listItems.length <= visibleCount) {
+      btn.style.display = 'none';
+    }
+
+    // 3. ボタンを押した時の動き
+    btn.addEventListener('click', function() {
+      const hiddenItems = listParent.querySelectorAll('.hidden-item');
+      
+      hiddenItems.forEach(item => {
+        item.classList.toggle('is-show');
+      });
+
+      // ボタンの文字を切り替える
+      if (btn.innerText === 'それ以前の雑誌・Web雑誌を表示') {
+        btn.innerText = '閉じる';
+      } else {
+        btn.innerText = 'それ以前の雑誌・Web雑誌を表示';
+      }
+    });
+  });
+</script>
+
+
+
+
+
+
+
 # 雑誌・Web雑誌
 * 新譜月評, レコード芸術ONLINE, 2024年10月号〜現在（毎月）.
 * 「フォルテピアノ界の大御所、リュビモフの彩り豊かな演奏」, MOOK『レコード芸術2026』（音楽之友社）, 38, 2026年1月.
