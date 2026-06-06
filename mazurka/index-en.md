@@ -169,7 +169,7 @@ lang: en
         <tr><td>作品番号なし</td><td><a href="https://chopin.nifc.pl/en/chopin/kompozycja/56" target="_blank" rel="noopener">マズルカ 変ロ長調 B73(KK IVb/1)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ニ長調(KK IVb/2)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ハ長調(KK IVb/3)</a></td></tr>
-        <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変イ長調(KK IVb/4)</a></td></tr>
+        <tr><td>作品番号なし</td><td><a href="https://chopin.nifc.pl/en/chopin/kompozycja/70_mazurka-in-a-flat-major-from-the-album-of-maria-szymanowska" target="_blank" rel="noopener">マズルカ 変イ長調 WN45(KK IVb/4)</a></td></tr>
 
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変ロ長調</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ニ長調</a></td></tr>
