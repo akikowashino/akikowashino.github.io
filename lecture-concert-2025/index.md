@@ -40,7 +40,7 @@ lang: jp
 <!-- ================= Vol.1 ================= -->
 
 <div class="material-box">
-  <img src="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+  <img src="/assets/LC_Aethtics_Rubato_Vol1_Flyer.png"
        alt="ルバートの美学 Vol.1 チラシ">
   <br>
   <a class="download-link"
