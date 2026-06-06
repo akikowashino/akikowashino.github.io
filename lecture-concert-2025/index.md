@@ -123,7 +123,7 @@ lang: jp
        alt="ルバートの美学 Vol.2 プログラムノート表紙">
   <br>
   <a class="download-link"
-     href="/assets/軽量化済_2025最終_ルバート_プログラムノート_1216修正.pdf"
+     href="/assets/LC_Aethtics_Rubato_Vol2_ProgramNote.pdf"
      target="_blank">
  　プログラムノート ダウンロード
   </a>
