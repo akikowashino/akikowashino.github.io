@@ -4,7 +4,7 @@ layout: default
 lang: en
 ---
 
-## In Progress (English page)
+## MIDI2MIDI(In Progress)
 
 
 <img src="../midi2midi/small.png">
