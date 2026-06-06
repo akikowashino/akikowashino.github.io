@@ -149,13 +149,13 @@ lang: en
         <tr><td>Op. 59 No. 1</td><td><a href="https://chopinscores.org/en/partytura/55" target="_blank" rel="noopener">マズルカ 第36番 イ短調</a></td></tr>
         <tr><td>Op. 59 No. 2</td><td><a href="https://chopinscores.org/en/partytura/56" target="_blank" rel="noopener">マズルカ 第37番 変イ長調</a></td></tr>
         <tr><td>Op. 59 No. 3</td><td><a href="https://chopinscores.org/en/partytura/57" target="_blank" rel="noopener">マズルカ 第38番 嬰ヘ短調</a></td></tr>
-        <tr><td>Op. 63 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第39番 ロ長調</a></td></tr>
-        <tr><td>Op. 63 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第40番 ヘ短調</a></td></tr>
-        <tr><td>Op. 63 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第41番 嬰ハ短調</a></td></tr>
-        <tr><td>Op. 67 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第42番 ト長調 (遺作)</a></td></tr>
-        <tr><td>Op. 67 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第43番 ト短調 (遺作)</a></td></tr>
-        <tr><td>Op. 67 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第44番 ハ長調 (遺作)</a></td></tr>
-        <tr><td>Op. 67 No. 4</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第45番 イ短調 (遺作)</a></td></tr>
+        <tr><td>Op. 63 No. 1</td><td><a href="https://chopinscores.org/en/partytura/12" target="_blank" rel="noopener">マズルカ 第39番 ロ長調</a></td></tr>
+        <tr><td>Op. 63 No. 2</td><td><a href="https://chopinscores.org/en/partytura/13" target="_blank" rel="noopener">マズルカ 第40番 ヘ短調</a></td></tr>
+        <tr><td>Op. 63 No. 3</td><td><a href="https://chopinscores.org/en/partytura/14" target="_blank" rel="noopener">マズルカ 第41番 嬰ハ短調</a></td></tr>
+        <tr><td>Op. 67 No. 1</td><td><a href="https://chopinscores.org/en/partytura/10" target="_blank" rel="noopener">マズルカ 第42番 ト長調 (遺作)</a></td></tr>
+        <tr><td>Op. 67 No. 2</td><td><a href="https://chopinscores.org/en/partytura/11" target="_blank" rel="noopener">マズルカ 第43番 ト短調 (遺作)</a></td></tr>
+        <tr><td>Op. 67 No. 3</td><td><a href="https://chopinscores.org/en/partytura/1016" target="_blank" rel="noopener">マズルカ 第44番 ハ長調 (遺作)</a></td></tr>
+        <tr><td>Op. 67 No. 4</td><td><a href="https://chopinscores.org/en/partytura/1017" target="_blank" rel="noopener">マズルカ 第45番 イ短調 (遺作)</a></td></tr>
         <tr><td>Op. 68 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第46番 ハ長調 (遺作)</a></td></tr>
         <tr><td>Op. 68 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第47番 イ短調 (遺作)</a></td></tr>
         <tr><td>Op. 68 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第48番 ヘ長調 (遺作)</a></td></tr>
