@@ -102,6 +102,111 @@ lang: jp
 * 鷲野彰子<br>
 「「正しい」楽譜の読み方再考」春秋, 525, 19-21, 2011年1月.    
   
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<style>
+  /* 11番目以降のリストを初期状態で隠す */
+  #research-list li.hidden-item {
+    display: none !important;
+  }
+  /* ボタンを押した時に表示させる */
+  #research-list li.is-show {
+    display: list-item !important;
+  }
+  /* ボタンの装飾（Newsページと共通のデザインです） */
+  .show-more-button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 35px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s;
+  }
+  .show-more-button:hover {
+    background-color: #666;
+  }
+</style>
+
+<h1>研究発表</h1>
+
+<ul id="research-list">
+  <li>鷲野彰子, 古の演奏から考えるショパン作品の演奏の可能性, レクチャー・コンサート「ルバートの美学 Vol.2：ショパンはピアノに何を語らせたかったのか」, 大阪大学会館, 2025年12月12日.</li>
+  <li>鷲野彰子, フリッツ・フォン・ボーゼよる モーツァルト《アダージョ》KV 540の左手伴奏部分, パネル「「前期」テンポ・ルバート再考」（鷲野彰子, 上田泰史, ヘルマン・ゴチェフスキ, 橋本崚平, 神保夏子） 日本音楽学会 第76回大会, 札幌大谷大学, 2025年11月1日.</li>
+  <li>鷲野彰子, 歴史的演奏実践研究における史料批判と質的解釈：カール・ライネッケによるモーツァルト《ピアノ協奏曲》KV 537を例に, 第144回音楽情報科学研究発表会（SIGMUS夏のシンポジウム）, 慶応義塾大学日吉キャンパス来往舎, 2025年8月31日.</li>
+  <li>鷲野彰子, カール・ライネッケによるモーツァルト作品の演奏, レクチャー・コンサート「ルバートの美学 Vol.1：ワルターの復元楽器で楽しむC.P.E.バッハとモーツァルト」, 一橋大学如水会100周年記念インテリジェントホール, 2025年7月30日.</li>
+  <li>鷲野彰子, 演奏時間とダイナミクスの視点によるテンポ・ルバートの実践分析, 音学シンポジウム2025（第143回音楽情報科学・第156回音声言語情報処理合同研究発表会）, 早稲田大学西早稲田キャンパス, 2025年6月14日.</li>
+  <li>鷲野彰子, 同一演奏家による同一演奏曲の差異をどう評価するか, 第142回MUS研究発表会, 九州大学大橋キャンパス, 2025年3月8日.</li>
+  <li>鷲野彰子, フランシス・プランテ（Francis Planté, 1839–1934）の演奏に具現化されたショパンのテンポ・ルバート, シンポジウム「演奏を読む：演奏解析ツールと演奏解析によるテンポ・ルバートの実践分析」,大阪大学中之島芸術センター 2024年12月8日.</li>
+  <li>Akiko Washino, Craig Stuart Sapp, Traces of Josef Hofmann Editing His Own Piano-Roll Recording of Chopin's Waltz op. 42 (Duo-Art 6401-6) , 3rd Global Piano Roll Meeting, Sydney Conservatorium of Music, University of Sydney, 2024年7月27日.</li>
+  <li>鷲野彰子, ピアノロールの計量的解析による演奏分析, 「音楽家のためのComputational Musicology」, 神戸大学, 2023年11月23日.</li>
+  <li>鷲野彰子, 楽譜に記譜された即興的前奏演奏, 日本音楽学会 第74回大会, 聖徳大学, 2023年11月4日.</li>
+  
+  <li>鷲野彰子, 20世紀前半の即興の前奏演奏実践例とそれを取り巻く要因の関係性, 日本音楽表現学会 第21回大会, 京都女子大学, 2023年6月18日.</li>
+  <li>鷲野彰子, 20世紀前半の演奏会における即興の前奏演奏実践例の分析, 日本音楽学会 第73回大会, 西南学院大学, 2022年11月27日.</li>
+  <li>Akiko Washino, Analyzing Piano Rolls and Acoustic Recordings of Chopin’s Op. 15 No. 2 in Order to Investigate How Tempo Rubato Was Applied by Performers born in the 19th Century, 2nd Global Piano Roll Meeting. Hochschule der Künste Bern (Bern) 2022年6月18日.</li>
+  <li>鷲野彰子, 前奏を演奏する文化：初期録音に残された「前奏」演奏, 日本音楽表現学会 第18回大会誌上発表（『音楽表現学』Vol. 18）, 2020年7月31日.</li>
+  <li>Akiko Washino, Mazurka inflections in Chopin’s Waltz op. 42: A performance analysis of the recordings and editions of Moriz Rosenthal and other contemporary pianists, International Chopinological Conference The Institute of Art of the Polish Academy of Sciences, 2019年11月20日.</li>
+  <li>Akiko Washino, Elucidating the modern and romantic aspects of Josef Hofmann’s pianism through performance analysis, IMSEA（国際音楽学会東アジア大会）, 蘇州大学, 2019年10月18日.</li>
+  <li>鷲野彰子, 演奏の転換点：近近代ピアニズムの出現, 日本音楽表現学会 第17回大会, 愛知教育大学, 2019年6月16日.</li>
+  <li>鷲野彰子, ロマン派的演奏と近代的演奏の分岐点に位置するヨーゼフ・ホフマン, 日本音楽学会 第69回大会, 桐朋学園大学調布キャンパス, 2018年11月3日.</li>
+  <li>Akiko Washino, Craig Stuart Sapp, Performance analysis of Alfred Grünfeld's acoustic and piano-roll recordings of Schumann's Träumerei, Symposium “Reactions to the Record VI”, Stanford University, 2018年4月7日.</li>
+  <li>鷲野彰子, 同一演奏者による複数回の演奏における差異とその傾向：基本的テンポと速度の緩急, 日本音楽表現学会 第15回大会, 東京音楽大学, 2017年6月18日.</li>
+  <li>Akiko Washino, A performance analysis utilizing the piano rolls of Chopin’s op. 42, Conference “Ghosts in the machine: The Player-Piano”, Cornell University, 2017年5月5日.</li>
+  <li>中藤広美, 鷲野彰子, 実習前における学生の環境構成についての意識の現状と課題, 全国保育士養成協議会 第54回研究大会, ロイトン札幌, 2015年9月23日.</li>
+  <li>鷲野彰子, ピアノロールの計量的解析によるパデレフスキのルバート奏法分析, 日本音楽表現学会 第13回大会, 沖縄県立芸術大学, 2015年6月21日.</li>
+  <li>鷲野彰子, シューマンの書法における「ズレ」の読み方を考える-ブラームス作品における「ズレ」との比較, 日本音楽表現学会 第12回大会, 帝塚山大学学園前キャンパス, 2014年6月22日.</li>
+  <li>鷲野彰子, 「ズレ」た演奏－録音（1900年-1920年頃）からブラームスの後期小品集を再考する, 日本音楽表現学会 第11回大会, 盛岡市民文化ホール & アイーナ, 2013年6月9日.</li>
+  <li>鷲野彰子, 「ズレ」た書法：「ズレ」からブラームス後期作品を解釈する, 日本音楽表現学会 第10回大会, 山梨大学甲府キャンパス, 2012年6月24日.</li>
+  <li>鷲野彰子, ヴォジ―シェク《ソナタOp. 20》（1820-24）の成立と構成, 日本音楽表現学会 第８回大会, 京都女子大学, 2010年6月13日.</li>
+</ul>
+
+<button id="research-toggle-btn" class="show-more-button">それ以前の研究発表を表示</button>
+
+<script>
+  window.addEventListener('load', function() {
+    const visibleCount = 10; // 最初に見せる数（10項目＝11行目以降を隠す）
+    const listParent = document.getElementById('research-list');
+    const btn = document.getElementById('research-toggle-btn');
+    
+    if (!listParent || !btn) return;
+
+    const listItems = listParent.querySelectorAll('li');
+
+    // 1. 自動振り分け：11番目以降に隠す用のクラスをつける
+    listItems.forEach((item, index) => {
+      if (index >= visibleCount) {
+        item.classList.add('hidden-item');
+      }
+    });
+
+    // 2. 項目が指定数以下ならボタンを隠す
+    if (listItems.length <= visibleCount) {
+      btn.style.display = 'none';
+    }
+
+    // 3. ボタンを押した時の動き
+    btn.addEventListener('click', function() {
+      const hiddenItems = listParent.querySelectorAll('.hidden-item');
+      
+      hiddenItems.forEach(item => {
+        item.classList.toggle('is-show');
+      });
+
+      // ボタンの文字を切り替える
+      if (btn.innerText === 'それ以前の研究発表を表示') {
+        btn.innerText = '閉じる';
+      } else {
+        btn.innerText = 'それ以前の研究発表を表示';
+      }
+    });
+  });
+</script>
+
+
 
 
 # 研究発表
