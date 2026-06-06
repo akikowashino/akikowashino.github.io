@@ -177,10 +177,7 @@ lang: en
 </div>
 
 
-
-
-
 ## 参考文献
-
+* [petersmidi](https://www.petersmidi.com/)
 https://ismir2008.ismir.net/papers/ISMIR2008_240.pdf
 
