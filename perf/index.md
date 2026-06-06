@@ -22,12 +22,14 @@ lang: jp
 </ul>
 
 
-
 ## Software tools
 
-
+* [Mazurka Project online tools](http://mazurka.org.uk/software/online)
 * [Sonic Visualiser](https://www.sonicvisualiser.org)
-
+* <table style="border:0">
+	<tr>
+		<td><a href="../midi2midi/index-en.html"><img src="../midi2midi/small.png"></a></td>
+		<td style="halign:top"><a href="../midi2midi/index-en.html">midi2midi</a></td></tr></table>
 
 ## Digital scores
 
