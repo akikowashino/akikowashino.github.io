@@ -151,61 +151,7 @@ lang: jp
   });
 </script>
 
-
-# 論文
-* 鷲野彰子<br>
-「カール・ライネッケはどのように拍を捉えていたか:モーツァルト《ピアノ協奏曲》KV 537 第 2 楽章の演奏分析」阪大音楽学報, 22, 195-209, 2026年2月.
-* 櫻井晋伍, 鷲野彰子<br>
-「保育内容「表現」における造形・音楽の表現力向上を意図した教育実践：子どもの視点を意識した動画教材製作」福岡県立大学人間社会学部紀要, 34(1), 75-87, 2025年10月.
-* 鷲野彰子, <br>
- <a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/100679/" class="external-link" target="_blank" rel="noopener noreferrer">「編集された演奏記録の解析：ヨゼフ・ホフマンによるショパン《ワルツ》Op. 42のピアノロール」
- </a>, 阪大音楽学報, 21, 1-15, 2025年3月.
-* 鷲野彰子, 櫻井晋伍<br>
-「保育内容「表現」における動画教材製作の教育実践：学生のICT機器の活用力と協働力を育成する授業方法」福岡県立大学人間社会学部紀要, 33(2), 53-66, 2025年3月.
-* 鷲野彰子, Craig Stuart Sapp<br>
- <a href="https://fukuoka-pu.repo.nii.ac.jp/records/2000094" class="external-link" target="_blank" rel="noopener noreferrer">「ヨゼフ・ホフマン(1876-1957, Josef Hofmann)のピアノロール編集：デュオ＝アート（No. 6401-6）の編集痕跡の分析」
- </a>, 福岡県立大学人間社会学部紀要 32(2), 1-21, 2024年3月.
-* 鷲野彰子, <br>
- <a href="https://fukuoka-pu.repo.nii.ac.jp/records/2000098" class="external-link" target="_blank" rel="noopener noreferrer">「特別支援教科書『おんがく☆』（星本）と小学校音楽教科書の表記の差異」
- </a>, 福岡県立大学人間社会学部紀要 32(2), 55-64, 2024年3月.
-* 鷲野彰子<br>
- <a href="https://www.jstage.jst.go.jp/article/jmes/21/0/21_1/_article/-char/ja" target="_blank" rel="noopener noreferrer">「ヴィルヘルム・バックハウス（Wilhelm Backhaus）の即興的前奏演奏」
- </a>, 音楽表現学, 21, 1-20, 2023年11月.
-* 鷲野彰子, <br>
- <a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/98491/?lang=0&mode=1&opkey=R177873897927699&idx=3&codeno=&fc_val=&chk_st=0&check=0000" class="external-link" target="_blank" rel="noopener noreferrer">「ヨゼフ・ホフマン（1876-1957）の即興的前奏演奏」
- </a>, 阪大音楽学報, 19, 47-73, 2023年3月.
-* Akiko Washino<br>
-"The Mazurka in Chopin’s Waltz, Op. 42: Investigating the Discrepancies between Rosenthal’s Performances, his Score Notations, and his Explanations as to how the Piece should be Played", The Element of dance in music of the first half of the nineteenth century, 179-203 2023.
-* 鷲野彰子<br>
-「同一演奏家が同一曲を演奏する際の演奏速度の親近性: ローゼンタールとホフマンによるショパン《ワルツOp. 42》の複数録音の演奏比較」阪大音楽学報, 15, 51-82, 2018年.
-* 鷲野彰子, <br>
- <a href="https://fukuoka-pu.repo.nii.ac.jp/records/408" class="external-link" target="_blank" rel="noopener noreferrer">「「弾き歌い」曲に占める主要三和音の割合:ピアノ初心者のための「弾き歌い」指導方法再考の必要性」
- </a>, 福岡県立大学人間社会学部紀要 26(2), 139-150, 2018年2月.
-* 鷲野彰子, 櫻井国芳<br>
-「幼児の表現活動における音楽「教材」と造形「教材」に関する研究ノート」福岡県立大学人間社会学部紀要, 26(2), 129-137, 2018年2月.
-* 鷲野彰子, Craig Stuart Sapp<br>
- <a href="https://fukuoka-pu.repo.nii.ac.jp/records/163" class="external-link" target="_blank" rel="noopener noreferrer">「演奏分析資料としてのピアノロール」
- </a>, 福岡県立大学人間社会学部紀要, 26(1), 27-48, 2017年9月.
-* 鷲野彰子<br>
-「ピアノロールの計量的解析によるショパン《ワルツOp. 42》の演奏分析」博士学位請求論文, 1-180, 2017年3月.
-* 鷲野彰子<br>
-「パデレフスキのルバート: ピアノロールの分析試論(2)」阪大音楽学報, 14, 1-33, 2016年12月.
-* 鷲野彰子, <br>
- <a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/76036/?lang=0&mode=1&opkey=R177873921322676&idx=2&codeno=&fc_val=&chk_st=0&check=0000" class="external-link" target="_blank" rel="noopener noreferrer">「パデレフスキのルバート: ピアノロールの分析試論(1)」
- </a>, フィロカリア, 33, 27-58, 2016年3月.
-* 鷲野彰子<br>
-「ピアノロールのデータ分析の試み: パデレフスキによるショパン《ワルツOp. 34-1》演奏のワルツのリズム部分に着目して」福岡県立大学人間社会学部紀要, 24(1), 55-71, 2015年9月.
-* 中藤広美, 鷲野彰子<br>
-「実習前教育における学生教育の課題と方法: 環境構成に関する学生の理解状況を踏まえて」福岡県立大学人間社会学部紀要, 24(1), 17-31, 2015年9月.
-* 鷲野彰子<br>
-  <a href="https://fukuoka-pu.repo.nii.ac.jp/records/173" class="external-link" target="_blank" rel="noopener noreferrer">「ブラームスとアルペジオ: 当時の演奏から楽譜上に現れた／現れなかったアルペジオの意味合いを読み解く」
- </a>, 福岡県立大学人間社会学部紀要, 22(2), 77-102, 2014年1月.
-* 鷲野彰子<br>
-  <a href="https://fukuoka-pu.repo.nii.ac.jp/records/179" class="external-link" target="_blank" rel="noopener noreferrer">「ブラームスが想定した《Op. 117-1》の演奏はいかなるものであったのか：「ズレ」が表現するもの」
- </a>, 福岡県立大学人間社会学部紀要, 22(1), 55-67, 2013年7月.
-* 鷲野彰子<br>
-「「正しい」楽譜の読み方再考」春秋, 525, 19-21, 2011年1月.    
-
+<br>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
