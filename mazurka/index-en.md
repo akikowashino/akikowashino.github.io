@@ -166,7 +166,7 @@ lang: en
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変ロ長調(KK IIa/3)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="https://ks15.imslp.org/files/imglnks/usimg/e/e2/IMSLP96715-PMLP152738-Chopin_Klindworth_Band_1_Bote_12261_B_134_scan.pdf" target="_blank" rel="noopener">マズルカ 第50番 イ短調「ノートル・タン」B134(KK IIb/4)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="https://vmirror.imslp.org/files/imglnks/usimg/4/47/IMSLP399502-PMLP152797-BnF_btv1b52500541b_1.pdf" target="_blank" rel="noopener">マズルカ 第51番 イ短調「エミール・ガイヤール」B140(KK IIb/5)</a></td></tr>
-        <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変ロ長調(KK IVb/1)</a></td></tr>
+        <tr><td>作品番号なし</td><td><a href="https://chopin.nifc.pl/en/chopin/kompozycja/56" target="_blank" rel="noopener">マズルカ 変ロ長調 B73(KK IVb/1)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ニ長調(KK IVb/2)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ ハ長調(KK IVb/3)</a></td></tr>
         <tr><td>作品番号なし</td><td><a href="#" target="_blank" rel="noopener">マズルカ 変イ長調(KK IVb/4)</a></td></tr>
