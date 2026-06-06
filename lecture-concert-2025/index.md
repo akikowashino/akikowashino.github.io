@@ -44,7 +44,7 @@ lang: jp
        alt="ルバートの美学 Vol.1 チラシ">
   <br>
   <a class="download-link"
-     href="/assets/LectureConcert「ルバートの美学Vol.1」.png"
+     href="/assets/LC_Aethtics_Rubato_Vol1_Flyer.png"
      download>
     チラシ ダウンロード
   </a>
