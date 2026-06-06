@@ -53,7 +53,7 @@ lang: jp
        alt="ルバートの美学 Vol.1 プログラムノート表紙">
   <br>
   <a class="download-link"
-     href="/assets/最終（修正）_20250724プログラムノート原稿_サイズ29.7x21_「ルバートの美学Vol.1」.pdf"
+     href="/assets/LC_Aethtics_Rubato_Vol1_ProgramNote.pdf"
      target="_blank">
     プログラムノート ダウンロード
   </a>
