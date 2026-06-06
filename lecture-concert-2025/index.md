@@ -49,7 +49,7 @@ lang: jp
     チラシ ダウンロード
   </a>
 
-  <img src="/assets/プログラムノート表紙「ルバートの美学Vol.1」.png"
+  <img src="/assets/LC_Aethtics_Rubato_Vol1_TopPage_ProgramNote.png"
        alt="ルバートの美学 Vol.1 プログラムノート表紙">
   <br>
   <a class="download-link"
