@@ -119,7 +119,7 @@ lang: jp
     チラシ ダウンロード
   </a>
 
-  <img src="/assets/LectureConcert「ルバートの美学Vol.2」.プログラムノート表紙png.png"
+  <img src="/assets/LC_Aethtics_Rubato_Vol2_TopPage_ProgramNote.png"
        alt="ルバートの美学 Vol.2 プログラムノート表紙">
   <br>
   <a class="download-link"
