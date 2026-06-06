@@ -157,7 +157,13 @@ In Progress English
         </tr>
       </thead>
       <tbody>
-        <tr><td>Op. 6 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第1番 嬰ヘ短調</a></td></tr>
+
+<tr><td>Op. 6 No. 1</td><td><a href="https://chopinscores.org/en/partytura/47" target="_blank" rel="noopener">マズルカ 第1番 嬰ヘ短調</a></td></tr>
+      <tr><td>Op. 6 No. 2</td><td><a href="https://chopinscores.org/en/partytura/48" target="_blank" rel="noopener">マズルカ 第2番 嬰ハ短調</a></td></tr>
+      <tr><td>Op. 6 No. 3</td><td><a href="https://chopinscores.org/en/partytura/49" target="_blank" rel="noopener">マズルカ 第3番 ホ長調</a></td></tr>
+      <tr><td>Op. 6 No. 4</td><td><a href="https://chopinscores.org/en/partytura/50" target="_blank" rel="noopener">マズルカ 第4番 変ホ短調</a></td></tr>
+        
+        <tr><td>Op. 6 No. 1</td><td><a href="https://chopinscores.org/en/partytura/47" target="_blank" rel="noopener">マズルカ 第1番 嬰ヘ短調</a></td></tr>
         <tr><td>Op. 6 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第2番 嬰ハ短調</a></td></tr>
         <tr><td>Op. 6 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第3番 ホ長調</a></td></tr>
         <tr><td>Op. 6 No. 4</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第4番 変ホ短調</a></td></tr>
