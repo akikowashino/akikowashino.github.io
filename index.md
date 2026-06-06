@@ -237,7 +237,7 @@ lang: jp
   #magazine-list li.is-show {
     display: list-item !important;
   }
-  /* ボタンの装飾（他のページと共通のデザインです） */
+  /* ボタンの装飾 */
   .show-more-button {
     display: block;
     margin: 30px auto;
@@ -256,9 +256,9 @@ lang: jp
 </style>
 
 <!-- ② 雑誌・Web雑誌リスト本体 -->
-<h1>雑誌・Web雑誌</h1>
+<!-- タイトルの後ろに件数を入れるための <span id="magazine-count"> を追加しました -->
+<h1>雑誌・Web雑誌<span id="magazine-count" style="font-size: 16px; color: #666; font-weight: normal; margin-left: 10px;"></span></h1>
 
-<!-- 他のページと共通のスタイルを当てる場合は、必要に応じて class="..." を追加してください -->
 <ul id="magazine-list">
   <li>新譜月評, レコード芸術ONLINE, 2024年10月号〜現在（毎月）.</li>
   <li>「フォルテピアノ界の大御所、リュビモ夫の彩り豊かな演奏」, MOOK『レコード芸術2026』（音楽之友社）, 38, 2026年1月.</li>
@@ -271,14 +271,14 @@ lang: jp
   <li>「ロサンジェルス：Nethercutt CollectionとEl Capitan Theatre」, Music Friends（韓国）, 116 25-31, 2017年4月.</li>
   <li>「CCRMAとCCARH 」, Music Friends（韓国）, 115, 24-29, 2017年3月.</li>
   
-  <!-- ↑ ここまでが最初の10項目（常時表示） / ↓ ここから下が自動的に隠れます -->
+  <!-- ↑ ここまでが最初の10項目 / ↓ ここから下が自動的に隠れます -->
   
   <li>「風光明媚なシリコンバレー 」, Music Friends（韓国）, 114, 25-29, 2017年2月.</li>
   <li>「スタンフォード大学音楽図書館(2)：Archive of Recorded Sound」, Music Friends（韓国）, 113, 26-31, 2017年1月.</li>
   <li>「スタンフォード大学音楽図書館(1)」, Music Friends（韓国）, 112, 23-28, 2016年12月.</li>
   <li>「スタンフォード・シアターで観た2つの『メリー・ウィドウ』」, Music Friends（韓国）, 111, 23-28, 2016年11月.</li>
   <li>「AMICA」, Music Friends（韓国）, 110, 23-28, 2016年10月.</li>
-  <li>「スタンフォードの夏休み(2)：サンノゼのベートーヴェン・センター」, Music Friends（韓国）, 109, 22-28, 2016年9月.</li>
+  <li>http://「スタンフォードの夏休み(2)：サンノゼのベートーヴェン・センター」, Music Friends（韓国）, 109, 22-28, 2016年9月.</li>
   <li>「スタンフォードの夏休み(1)：サンフランシスコ」, Music Friends（韓国）, 108, 22-27, 2016年8月.</li>
   <li>「アメリカにおける古楽演奏の学会と古楽音楽祭」, Music Friends（韓国）, 107, 20-24, 2016年7月.</li>
   <li>「演奏法の授業」, Music Friends（韓国）, 106, 20-23, 2016年6月.</li>
@@ -287,8 +287,6 @@ lang: jp
   <li>「子どものための音楽教育(2)：どのように教えるか」, Music Friends（韓国）, 103, 20-24, 2016年3月.</li>
   <li>「子どものための音楽教育(1)：何を教えるか」, Music Friends（韓国）, 102, 20-25, 2016年2月.</li>
   <li>「アルバート・ロトというピアニスト」, Music Friends（韓国）, 101, 20-24, 2016年1月.</li>
-  <li>「楽器博物館」, Music Friends（韓国）, 100, 20-24, 2015年12月.</li>
-  <li>「技術」, Music Friends（韓国）, 99, 20-24, 2015年11月.</li>
   <li>「楽器博物館」, Music Friends（韓国）, 100, 20-24, 2015年12月.</li>
   <li>「技術」, Music Friends（韓国）, 99, 20-24, 2015年11月.</li>
   <li>「マルコム・ビルソン名誉教授」, Music Friends（韓国）, 98, 20-24, 2015年10月.</li>
@@ -315,7 +313,7 @@ lang: jp
   <li>「《ラ・ヴァルス》:幻のバレエ《ウィーン》」, Music Friends（韓国）, 77, 18-22, 2014年1月.</li>
   <li>「室内楽」, Music Friends（韓国）, 76, 18-22, 2013年12月.</li>
   <li>「作曲家の声」, Music Friends（韓国）, 75, 18-22, 2013年11月.</li>
-  <li>「デトレフ・クラウス先生」, Music Friends（韓国）, 74, 18-22, 2013年10月.</li>
+  <li>...「デトレフ・クラウス先生」, Music Friends（韓国）, 74, 18-22, 2013年10月.</li>
   <li>「ズレの存在」, Music Friends（韓国）, 73, 18-22, 2013年9月.</li>
   <li>「待つこと、休符」, Music Friends（韓国）, 72, 18-22, 2013年8月.</li>
   <li>「自動演奏ピアノ」, Music Friends（韓国）, 71, 17-21, 2013年7月.</li>
@@ -336,7 +334,7 @@ lang: jp
   <li>「演奏空間」, Music Friends（韓国）, 57, 16-19, 2012年5月.</li>
   <li>「伝統：受け継がれる演奏スタイル」, Music Friends（韓国）, 56, 16-19, 2012年4月.</li>
   <li>「モーツァルト」, Music Friends（韓国）, 55, 16-19, 2012年3月.</li>
-  <li>「先生」, Music Friends（韓国）, 54, 16-19, 2012年2月.</li>
+  <li>「先生`」, Music Friends（韓国）, 54, 16-19, 2012年2月.</li>
   <li>「ペダル`」, Music Friends（韓国）, 53, 16-19, 2012年1月.</li>
   <li>「スラー」, Music Friends（韓国）, 52, 16-19, 2011年12月.</li>
   <li>「エステルハーザ」, Music Friends（韓国）, 51, 16-19, 2011年11月.</li>
@@ -356,13 +354,19 @@ lang: jp
 <!-- ④ 動かすためのプログラム -->
 <script>
   window.addEventListener('load', function() {
-    const visibleCount = 10; // 最初に見せる数（10項目＝11行目以降を隠す）
+    const visibleCount = 10; // 最初に見せる数（10項目）
     const listParent = document.getElementById('magazine-list');
     const btn = document.getElementById('magazine-toggle-btn');
     
     if (!listParent || !btn) return;
 
     const listItems = listParent.querySelectorAll('li');
+
+    // ★自動件数表示の処理
+    const countSpan = document.getElementById('magazine-count');
+    if (countSpan) {
+      countSpan.innerText = `（全${listItems.length}件）`;
+    }
 
     // 1. 自動振り分け：11番目以降に隠す用のクラスをつける
     listItems.forEach((item, index) => {
@@ -393,6 +397,7 @@ lang: jp
     });
   });
 </script>
+
 
 <BR>
 
