@@ -140,15 +140,15 @@ lang: en
         </tr>
       </thead>
       <tbody>
-        <tr><td>Op. 50 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第30番 ト長調</a></td></tr>
-        <tr><td>Op. 50 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第31番 変イ長調</a></td></tr>
-        <tr><td>Op. 50 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第32番 嬰ハ短調</a></td></tr>
-        <tr><td>Op. 56 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第33番 ロ長調</a></td></tr>
-        <tr><td>Op. 56 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第34番 ハ長調</a></td></tr>
-        <tr><td>Op. 56 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第35番 ハ短調</a></td></tr>
-        <tr><td>Op. 59 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第36番 イ短調</a></td></tr>
-        <tr><td>Op. 59 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第37番 変イ長調</a></td></tr>
-        <tr><td>Op. 59 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第38番 嬰ヘ短調</a></td></tr>
+        <tr><td>Op. 50 No. 1</td><td><a href="https://chopinscores.org/en/partytura/164" target="_blank" rel="noopener">マズルカ 第30番 ト長調</a></td></tr>
+        <tr><td>Op. 50 No. 2</td><td><a href="https://chopinscores.org/en/partytura/165" target="_blank" rel="noopener">マズルカ 第31番 変イ長調</a></td></tr>
+        <tr><td>Op. 50 No. 3</td><td><a href="https://chopinscores.org/en/partytura/166" target="_blank" rel="noopener">マズルカ 第32番 嬰ハ短調</a></td></tr>
+        <tr><td>Op. 56 No. 1</td><td><a href="https://chopinscores.org/en/partytura/170" target="_blank" rel="noopener">マズルカ 第33番 ロ長調</a></td></tr>
+        <tr><td>Op. 56 No. 2</td><td><a href="https://chopinscores.org/en/partytura/171" target="_blank" rel="noopener">マズルカ 第34番 ハ長調</a></td></tr>
+        <tr><td>Op. 56 No. 3</td><td><a href="https://chopinscores.org/en/partytura/172" target="_blank" rel="noopener">マズルカ 第35番 ハ短調</a></td></tr>
+        <tr><td>Op. 59 No. 1</td><td><a href="https://chopinscores.org/en/partytura/55" target="_blank" rel="noopener">マズルカ 第36番 イ短調</a></td></tr>
+        <tr><td>Op. 59 No. 2</td><td><a href="https://chopinscores.org/en/partytura/56" target="_blank" rel="noopener">マズルカ 第37番 変イ長調</a></td></tr>
+        <tr><td>Op. 59 No. 3</td><td><a href="https://chopinscores.org/en/partytura/57" target="_blank" rel="noopener">マズルカ 第38番 嬰ヘ短調</a></td></tr>
         <tr><td>Op. 63 No. 1</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第39番 ロ長調</a></td></tr>
         <tr><td>Op. 63 No. 2</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第40番 ヘ短調</a></td></tr>
         <tr><td>Op. 63 No. 3</td><td><a href="#" target="_blank" rel="noopener">マズルカ 第41番 嬰ハ短調</a></td></tr>
