@@ -178,6 +178,4 @@ lang: en
 
 
 ## 参考文献
-* [Sapp, Craig Stuart, 2008, HYBRID NUMERIC/RANK SIMILARITY METRICS FOR
-MUSICAL PERFORMANCE ANALYSIS](https://ismir2008.ismir.net/papers/ISMIR2008_240.pdf)
-
+* [Sapp, Craig Stuart, 2008, Hybrid Numeric/Rank Similarity Metrics for Musical Performance Analysis](https://ismir2008.ismir.net/papers/ISMIR2008_240.pdf)
