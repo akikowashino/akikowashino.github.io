@@ -91,7 +91,7 @@ lang: en
     <table class="mazurka-table">
       <thead>
         <tr>
-          <th style="width: 30%;">Opus / Catalog No.</th>
+          <th style="width: 30%;">Opus / No.</th>
           <th style="width: 70%;">Title</th>
         </tr>
       </thead>
@@ -135,7 +135,7 @@ lang: en
     <table class="mazurka-table">
       <thead>
         <tr>
-          <th style="width: 30%;">Opus / Catalog No.</th>
+          <th style="width: 30%;">Opus / No.</th>
           <th style="width: 70%;">Title</th>
         </tr>
       </thead>
