@@ -4,22 +4,6 @@ layout: default
 lang: en
 ---
 
-## MIDI2MIDI(In Progress)
-
-
-<img src="../midi2midi/small.png">
-
-
-<ul>
-<li><a href="manual.html">Online Manual</a></li>
-<li><a href="into.exe">Windows documentation</a></li>
-<li><a href="mac.zip">Mac documentation</a></li>
-</ul>
-
-<br><br>
-
-
-
 # MIDI2MIDI
 
 **MIDI2MIDI is a system designed to align (automatically synchronize) two different performance MIDI data tracks of the same piece, enabling users to precisely detect and map specific note information defined in one MIDI to the other with a one-to-one correspondence.**
