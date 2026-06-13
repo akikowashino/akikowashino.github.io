@@ -45,6 +45,65 @@ data 3 は無くても, システム内でdata1の任意の箇所にマークす
 <p>
 本マニュアルの目次は以下の通りです．
 <ul>
+
+
+<h2 id="eitanakamura">Symbolic Music Alignment Tool（by 中村栄太）</h2>
+
+<p>本システムを使用する際、中村栄太氏によるシステム「Symbolic Music Alignment Tool」を使用して、<strong>参照データ（<code>*_fmt3x.txt</code>）</strong>と<strong>対象データ（<code>*_match.txt</code>）</strong>を作成する必要があります。<br>
+ここでは、そのシステムの使い方をご説明します。詳細については、手順2で解凍したフォルダの中にある <code>MANUAL.pdf</code> をご覧ください。</p>
+
+<h3>1. 導入とコンパイル（初回のみ）</h3>
+
+<ol>
+  <li>中村栄太氏のサイト内（ <a href="https://midialignment.github.io/demo.html" target="_blank">https://midialignment.github.io/demo.html</a> ）から <strong><code>AlignmentTool_v240109.zip</code></strong> をダウンロードする。</li>
+  <li>ダウンロードしたZIPファイルを解凍（展開）する。（「<code>AlignmentTool</code>」という名前のフォルダができます）</li>
+  <li>コマンドプロンプト（Windows）またはターミナル（Mac）を起動し、<code>cd</code> コマンド等で解凍先フォルダ「<code>AlignmentTool</code>」に移動する。<br>
+  <span style="font-size: 0.9em; color: #666;">※Windows 11の場合、フォルダ内で右クリックして「ターミナルで開く」を選ぶと移動済みの状態で起動できます。</span></li>
+  <li>移動後、お使いのOSに合わせて以下のコード枠内を<strong>すべてコピー</strong>し、ターミナルに貼り付けて実行（Enter）します。</li>
+</ol>
+
+<div style="margin-left: 20px; margin-bottom: 30px;">
+  <p><strong>💻 Windowsの場合（コマンドプロンプト / ターミナル）</strong></p>
+  <pre style="background-color: #f5f5f5; border: 1px solid #ccc; border-radius: 4px; padding: 12px; overflow-x: auto;"><code style="font-family: monospace; font-size: 0.95em; color: #333; line-height: 1.4;">bash compile.sh</code></pre>
+
+  <p style="margin-top: 15px;"><strong>🍎 Macの場合（ターミナル）</strong></p>
+  <pre style="background-color: #f5f5f5; border: 1px solid #ccc; border-radius: 4px; padding: 12px; overflow-x: auto;"><code style="font-family: monospace; font-size: 0.95em; color: #333; line-height: 1.4;">chmod +x compile.sh Programs/WavToMIDIAlign/*.sh Programs/MIDIToMIDIAlign/*.sh *.sh
+./compile.sh</code></pre>
+  <p style="font-size: 0.9em; color: #666; margin-top: 5px;">※Macでは初回に実行権限の付与（chmod）が必要です。上記2行を一括コピーしてそのまま貼り付けてください。</p>
+</div>
+
+
+<h3>2. マッチング（アライメント）の実行手順</h3>
+
+<ol start="5">
+  <li>「<code>AlignmentTool</code>」フォルダ内に、使いたい2つの MIDI ファイルをコピーする。</li>
+  <li>お使いのOSに合わせて、以下のコマンドを実行します。<br>
+  <strong>【重要】</strong> MIDIのファイル名が <code>sample1.mid</code> と <code>sample2.mid</code> の場合、末尾の拡張子（<code>.mid</code>）は省いて入力してください。</li>
+</ol>
+
+<div style="margin-left: 20px; margin-bottom: 30px;">
+  <p><strong>💻 Windowsの場合（コマンドプロンプト / ターミナル）</strong></p>
+  <pre style="background-color: #f5f5f5; border: 1px solid #ccc; border-radius: 4px; padding: 12px; overflow-x: auto;"><code style="font-family: monospace; font-size: 0.95em; color: #333; line-height: 1.4;">bash MIDIToMIDIAlign.sh sample1 sample2</code></pre>
+
+  <p style="margin-top: 15px;"><strong>🍎 Macの場合（ターミナル）</strong></p>
+  <pre style="background-color: #f5f5f5; border: 1px solid #ccc; border-radius: 4px; padding: 12px; overflow-x: auto;"><code style="font-family: monospace; font-size: 0.95em; color: #333; line-height: 1.4;">./MIDIToMIDIAlign.sh sample1 sample2</code></pre>
+</div>
+
+<ol start="7">
+  <li>実行後、フォルダ内に <code>fmt3x.txt</code> と <code>match.txt</code> を含む 5 つの <code>.txt</code> ファイルが作成されます。</li>
+</ol>
+
+<div style="background-color: #fff9e6; border-left: 4px solid #ffcc00; padding: 12px; margin-top: 20px; margin-bottom: 40px;">
+  <p style="margin: 0; font-weight: bold;">📌 本システムでの利用について</p>
+  <p style="margin: 5px 0 0 0;">本システム（MIDI2MIDI）では、生成されたファイルのうち <strong><code>*_fmt3x.txt</code></strong> と <strong><code>*_match.txt</code></strong> の2つを利用します。（<code>*</code> 部分には任意の文字列が入ります）</p>
+</div>
+
+	
+
+
+
+
+	
 <li><a href="#eitanakamura">Symbolic Music Aligmnet Tool（by 中村栄太）</a> (上記の手順 (2))
 <li><a href="#view">本システムの基本動作
 	<ul>
