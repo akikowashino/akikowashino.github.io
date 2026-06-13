@@ -13,7 +13,7 @@ lang: en
 
 
 <img src="../midi2midi/small.png">
-
+<img src="../midi2midi/middle.png">
 
 
 
