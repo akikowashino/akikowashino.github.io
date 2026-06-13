@@ -78,43 +78,6 @@ data 3 は無くても, システム内でdata1の任意の箇所にマークす
 
 <!-- ************************************************************* 
      ************************************************************* -->
-<h2 id="eitanakamura">Symbolic Music Alignment Tool（by 中村栄太）</h3>
-
-<div>
-<p>
-本システムを使用する際, 中村栄太氏によるシステムSymbolic Music Aligmnet Toolを使用して
-	参照データ(data 1 )と対象データ(data 2 )を作成する必要があります．
-ここでは，そのシステムの使い方を簡単にご紹介します．
-詳細ついては，下記の (2) で解凍したフォルダの中に
-<span class="filename">MANUAL.pdf</span> がありますのでそちらをご覧ください．
-
-<ol class="parentheses">
-<li>中村栄太氏の<a target="_blank" href="https://eita-nakamura.github.io/index-ja.html">サイト内</a> の
-	<a target="_blank" href="https://midialignment.github.io/demo.html">https://midialignment.github.io/demo.html</a> から
-	AlignmentTool_v240109.zip をダウンロードする．
-<li><span class="filiname">AlignmentTool_v240109.zip</span> を解凍(展開)する．
-	(「AlignmentTool」とう名前のフォルダができます．)
-<li>コマンドプロンプトまたはターミナルを起動する．
-<li> コマンドプロンプト(ターミナル)で cd コマンドなどを使い，解凍してできたフォルダ「AlignmentTool」に移動する．
-	(Windows11 だとフォルダ「AlignmentTool」内で右クリックして「ターミナルで開く」を選ぶと移動済みの状態で起動します．)
-<li>移動後，コマンドプロンプト(ターミナル)で「compile.sh(エンターキー)」とする．
-	(「Programs」というフォルダができ，そのフォルダ内にもいろいろなファイルができます．
-	(また，「compile.sh」は「./compile.sh」や「. compile.sh」等、書き方が環境によって違うかもしれません．
-	また，少し時間がかかります．)
-<li>「AlignmentTool」フォルダ内に使いたい 2 つの MIDI ファイルをコピーする．
-<li>コマンドプロンプト(ターミナル)で「MIDIToMIDIAlign.sh MIDI1 MIDI2(エンターキー)」とする．
-	(このとき，MIDI のファイル名が <span class="filename">sample1.mid</span> と <span class="filename">sample2.mid</span> なら「MIDIToMIDIAlign.sh sample1 sample2(エンターキー)」となります．)
-<li>fmt3x.txt と match.txt を含む 5 つの .txt ファイルが作成される．
-</ol>
-
-本システムでは作られたファイルのうち，
-<span class="filename">*_fmt3x.txt</span>と<span class="filename">*_match.txt</span>を利用します．
-(* 部分は任意の文字列．)
-</p>
-</div>
-
-
-
 
 <h2 id="eitanakamura">Symbolic Music Alignment Tool（by 中村栄太）</h2>
 
