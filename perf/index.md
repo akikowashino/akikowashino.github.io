@@ -31,6 +31,18 @@ lang: jp
 		<td><a href="../midi2midi/index-en.html"><img src="../midi2midi/small.png"></a></td>
 		<td style="halign:top"><a href="../midi2midi/index-en.html">MIDI2MIDI</a></td></tr></table>
 
+
+<ul style="list-style: none; padding-left: 0;">
+  <li style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+    <img src="画像URL" alt="Tool Logo" style="width: 50px; height: 50px; object-fit: cover; border: 1px solid #dddddd;">
+    <div>
+      <a href="リンクURL" target="_blank" rel="noopener" style="font-weight: bold; color: #8b5a2b;">ソフトウェア名</a>
+      <p style="margin: 4px 0 0 0; font-size: 13px; color: #555555;">ツールの簡単な説明文（必要であれば）</p>
+    </div>
+  </li>
+</ul>
+		
+
 ## Digital scores
 
 
