@@ -25,7 +25,7 @@ lang: en
 * <table style="border:0">
 	<tr>
 		<td><a href="../midi2midi/index-en.html"><img src="../midi2midi/small.png"></a></td>
-		<td style="halign:top"><a href="../midi2midi/index-en.html">midi2midi</a></td></tr></table>
+		<td style="halign:top"><a href="../midi2midi/index-en.html">MIDI2MIDI</a></td></tr></table>
 
 
 
