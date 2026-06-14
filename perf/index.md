@@ -36,7 +36,7 @@ lang: jp
 
 ### Humdrum
 
-* [Verovio Humdrum Viewer](https://verovio.humdrum.org) (See "Scores" menu)
+* [Verovio Humdrum Viewer](https://verovio.humdrum.org) (「Scores」のメニューを参照)
 * [Beethoven Piano Sonatas](https://verovio.humdrum.org/?file=beethoven/sonatas) ([GitHub](https://github.com/craigsapp/beethoven-piano-sonatas))
 * [Chopin First Editions](https://chopinscores.org/en) ([GitHub](https://github.com/pl-wnifc/humdrum-chopin-first-editions))
 * [Haydn Piano Sonatas](https://verovio.humdrum.org/?file=haydn/sonatas) ([GitHub](https://github.com/craigsapp/haydn-piano-sonatas))
