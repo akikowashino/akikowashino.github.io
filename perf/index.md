@@ -26,44 +26,28 @@ lang: jp
 ## Software tools
 
 <style>
-  .software-list {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-  }
-  .software-list li {
-    margin-bottom: 12px; /* 箇条書き同士の縦の余白 */
-    line-height: 1.5;
-  }
-  /* 写真付きツールのコンテナ（全体が1つのリンク） */
-  .software-tool-link {
+  .tool-container {
     display: inline-flex;
     align-items: center;  /* 文字と写真の上下中央を揃える */
-    gap: 15px;            /* 文字と写真の間の適切なスペース */
+    gap: 15px;            /* 文字と写真の間のスペース */
     text-decoration: none;
     color: inherit;
+    vertical-align: middle;
   }
-  .software-tool-link:hover .tool-name {
-    text-decoration: underline; /* ホバー時に文字に下線をつける（一般的なリンクの挙動） */
+  .tool-container:hover .tool-name {
+    text-decoration: underline; /* ホバー時に文字に下線 */
   }
-  .software-tool-img {
-    height: 24px;         /* 文字の高さに自然に馴染むコンパクトなサイズ */
+  .tool-img {
+    height: 24px;         /* 写真の高さ（文字に馴染むコンパクトサイズ） */
     width: auto;
-    display: block;
-    border: 1px solid #e0e0e0; /* 写真が背景の白に溶けないための極薄い境界線 */
+    display: inline-block;
+    border: 1px solid #e0e0e0; /* 写真の輪郭をはっきりさせる極薄い境界線 */
   }
 </style>
 
-<ul class="software-list">
-  <li><a href="http://mazurka.org.uk/software/online"><b>Mazurka Project online tools</b></a></li>
-  <li><a href="https://www.sonicvisualiser.org"><b>Sonic Visualiser</b></a></li>
-  <li>
-    <a href="../midi2midi/index-en.html" class="software-tool-link">
-      <span class="tool-name"><b>MIDI2MIDI</b></span>
-      <img src="../midi2midi/small.png" alt="MIDI2MIDI screenshot" class="software-tool-img">
-    </a>
-  </li>
-</ul>
+* [Mazurka Project online tools](http://mazurka.org.uk/software/online)
+* [Sonic Visualiser](https://www.sonicvisualiser.org)
+* <a href="../midi2midi/index-en.html" class="tool-container"><span class="tool-name"><b>MIDI2MIDI</b></span><img src="../midi2midi/small.png" alt="MIDI2MIDI" class="tool-img"></a>
 
 
 ## Digital scores
