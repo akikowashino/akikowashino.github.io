@@ -178,6 +178,8 @@ lang: en
 
 </div>
 
+Op.7-5はエディションによってはOp.6-5に配置されているものも存在する。
+
 
 ## 参考文献
 * [Sapp, Craig Stuart, 2008, Hybrid Numeric/Rank Similarity Metrics for Musical Performance Analysis](https://ismir2008.ismir.net/papers/ISMIR2008_240.pdf)
