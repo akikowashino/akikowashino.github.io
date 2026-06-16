@@ -101,12 +101,11 @@ lang: en
       <tr><td>Op. 6 No. 2</td><td><a href="https://chopinscores.org/en/partytura/48" target="_blank" rel="noopener">マズルカ 第2番 嬰ハ短調</a></td></tr>
       <tr><td>Op. 6 No. 3</td><td><a href="https://chopinscores.org/en/partytura/49" target="_blank" rel="noopener">マズルカ 第3番 ホ長調</a></td></tr>
       <tr><td>Op. 6 No. 4</td><td><a href="https://chopinscores.org/en/partytura/50" target="_blank" rel="noopener">マズルカ 第4番 変ホ短調</a></td></tr>
-      <tr><td>Op. 6 No. 5</td><td><a href="https://chopinscores.org/en/partytura/46" target="_blank" rel="noopener">マズルカ 第5番 ハ長調</a></td></tr>
-        <tr><td>Op. 7 No. 1</td><td><a href="https://chopinscores.org/en/partytura/58" target="_blank" rel="noopener">マズルカ 第6番 変ロ長調</a></td></tr>
-        <tr><td>Op. 7 No. 2</td><td><a href="https://chopinscores.org/en/partytura/59" target="_blank" rel="noopener">マズルカ 第7番 イ短調</a></td></tr>
-        <tr><td>Op. 7 No. 3</td><td><a href="https://chopinscores.org/en/partytura/60" target="_blank" rel="noopener">マズルカ 第8番 ヘ短調</a></td></tr>
-        <tr><td>Op. 7 No. 4</td><td><a href="https://chopinscores.org/en/partytura/61" target="_blank" rel="noopener">マズルカ 第9番 変イ長調</a>
-</td></tr>
+        <tr><td>Op. 7 No. 1</td><td><a href="https://chopinscores.org/en/partytura/58" target="_blank" rel="noopener">マズルカ 第5番 変ロ長調</a></td></tr>
+        <tr><td>Op. 7 No. 2</td><td><a href="https://chopinscores.org/en/partytura/59" target="_blank" rel="noopener">マズルカ 第6番 イ短調</a></td></tr>
+        <tr><td>Op. 7 No. 3</td><td><a href="https://chopinscores.org/en/partytura/60" target="_blank" rel="noopener">マズルカ 第7番 ヘ短調</a></td></tr>
+        <tr><td>Op. 7 No. 4</td><td><a href="https://chopinscores.org/en/partytura/61" target="_blank" rel="noopener">マズルカ 第8番 変イ長調</a></td></tr>
+        <tr><td>Op. 7 No. 5</td><td><a href="https://chopinscores.org/en/partytura/46" target="_blank" rel="noopener">マズルカ 第9番 ハ長調</a></td></tr>
         <tr><td>Op. 17 No. 1</td><td><a href="https://chopinscores.org/en/partytura/90" target="_blank" rel="noopener">マズルカ 第10番 変ロ長</a></td></tr>
         <tr><td>Op. 17 No. 2</td><td><a href="https://chopinscores.org/en/partytura/91" target="_blank" rel="noopener">マズルカ 第11番 ホ短調</a></td></tr>
         <tr><td>Op. 17 No. 3</td><td><a href="https://chopinscores.org/en/partytura/92" target="_blank" rel="noopener">マズルカ 第12番 変イ長調</a></td></tr>
