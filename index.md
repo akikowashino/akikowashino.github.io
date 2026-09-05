@@ -188,6 +188,8 @@ lang: jp
 <h1>研究発表<span id="research-count" style="font-size: 16px; color: #666; font-weight: normal; margin-left: 10px;"></span></h1>
 
 <ul id="research-list">
+  <li>鷲野彰子, ショパンのマズルカ解釈に向けた比較基準の構築：作曲者不詳《14曲のマズール》（1827）の構造分析とパターン抽出, 第147回MUS研究発表会, 北海道情報大学, 2026年8月31日.</li>
+  <li>Akiko Washino, Unequal Left-Hand Accompaniments: Performances of Classical Works by Carl Reinecke, Fritz von Bose, and Frederic Lamond, 4th Global Piano Roll Meeting, Stanford University, 2026年8月8日.</li>
   <li>鷲野彰子, 古の演奏から考えるショパン作品の演奏の可能性, レクチャー・コンサート「ルバートの美学 Vol.2：ショパンはピアノに何を語らせたかったのか」, 大阪大学会館, 2025年12月12日.</li>
   <li>鷲野彰子, フリッツ・フォン・ボーゼよる モーツァルト《アダージョ》KV 540の左手伴奏部分, パネル「「前期」テンポ・ルバート再考」（鷲野彰子, 上田泰史, ヘルマン・ゴチェフスキ, 橋本崚平, 神保夏子） 日本音楽学会 第76回大会, 札幌大谷大学, 2025年11月1日.</li>
   <li>鷲野彰子, 歴史的演奏実践研究における史料批判と質的解釈：カール・ライネッケによるモーツァルト《ピアノ協奏曲》KV 537を例に, 第144回音楽情報科学研究発表会（SIGMUS夏のシンポジウム）, 慶応義塾大学日吉キャンパス来往舎, 2025年8月31日.</li>
