@@ -4,7 +4,9 @@ layout: default
 lang: jp
 ---
 
-### **シンポジウム「ショパンの《マズルカ》を読み解く：新しい分析手法の探究」**<br>[English](index-en.html)
+### **シンポジウム「ショパンの《マズルカ》を読み解く：新しい分析手法の探究」**<br>
+
+[English](index-en.html)
 
 <div class="event-box">
   <strong>日時：</strong>2027年3月8日（月）<br>
