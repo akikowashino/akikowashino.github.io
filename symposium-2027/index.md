@@ -1,5 +1,5 @@
 ---
-title: マズルカ
+title: シンポジウム「ショパンの《マズルカ》を読み解く：新しい分析手法の探究」
 layout: default
 lang: jp
 ---
