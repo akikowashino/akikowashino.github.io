@@ -193,6 +193,7 @@ lang: jp
 <h1>研究発表<span id="research-count" style="font-size: 16px; color: #666; font-weight: normal; margin-left: 10px;"></span></h1>
 
 <ul id="research-list">
+  <li>Akiko Washino, Mazurka Performance Analysis with Sonic Visualiser: An Approach Utilizing Heterogeneous Recordings, 2nd International Digital Musicology Conference, Institute of Musicology at the Jagiellonian University, Kraków, 2026年10月21日.</li>
   <li>鷲野彰子, ショパンのマズルカ解釈に向けた比較基準の構築：作曲者不詳《14曲のマズール》（1827）の構造分析とパターン抽出, 第147回MUS研究発表会, 北海道情報大学, 2026年8月31日.</li>
   <li>Akiko Washino, Unequal Left-Hand Accompaniments: Performances of Classical Works by Carl Reinecke, Fritz von Bose, and Frederic Lamond, 4th Global Piano Roll Meeting, Stanford University, 2026年8月8日.</li>
   <li>鷲野彰子, 古の演奏から考えるショパン作品の演奏の可能性, レクチャー・コンサート「ルバートの美学 Vol.2：ショパンはピアノに何を語らせたかったのか」, 大阪大学会館, 2025年12月12日.</li>
