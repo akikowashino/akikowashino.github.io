@@ -35,7 +35,7 @@ Joyce TANG（ギルドホール音楽演劇学校）<br>
 上田泰史（京都大学）<br>
 山本邦雄（九州工業大学）<br>
 鷲野彰子（福岡県立大学）<br>
-<br><br>
+<br>
 
 <div style="font-size: 0.95em; line-height: 1.8; margin-top: 30px; padding-top: 20px; border-top: 1px dashed #ccc;">
   
