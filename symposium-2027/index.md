@@ -1,5 +1,5 @@
 ---
-title: シンポジウム「ショパンの《マズルカ》を読み解く：新しい分析手法の探究」
+title: シンポジウム「ショパンの《マズルカ》を読み解く：交わる分析、生まれる新解釈」
 layout: default
 lang: jp
 ---
@@ -54,10 +54,7 @@ Joyce TANG（ギルドホール音楽演劇学校）<br>
 
 </div>
 
-
 <br>
 ※詳細が決まり次第、情報を更新します。
 
 <div style="padding-top:40px; padding-left: 20px">
-
-
