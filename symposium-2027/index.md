@@ -16,20 +16,22 @@ lang: jp
 　<strong>参加自由・事前予約不要</strong><br>
 </div>
 
-登壇者：
-Sebastian BAUSCH（ベルン芸術大学）
-Hermann GOTTSCHEWSKI（東京大学）
-Laura GRANERO (ウィーン国立音楽大学)
-伊東信宏（大阪大学）
-Marcin KONIK（ショパン研究所）
-三島郁（相愛大学）
-西田紘子（九州大学）
-Craig Stuart SAPP（ショパン研究所）
-Joyce TANG（ギルドホール音楽演劇学校）
-上田泰史（京都大学）
-山本邦雄（九州工業大学）
-鷲野彰子（福岡県立大学）
-
+<br>
+<br>
+登壇者：<br>
+Sebastian BAUSCH（ベルン芸術大学）<br>
+Hermann GOTTSCHEWSKI（東京大学）<br>
+Laura GRANERO (ウィーン国立音楽大学)<br>
+伊東信宏（大阪大学）<br>
+Marcin KONIK（ショパン研究所）<br>
+三島郁（相愛大学）<br>
+西田紘子（九州大学）<br>
+Craig Stuart SAPP（ショパン研究所）<br>
+Joyce TANG（ギルドホール音楽演劇学校）<br>
+上田泰史（京都大学）<br>
+山本邦雄（九州工業大学）<br>
+鷲野彰子（福岡県立大学）<br>
+<br><br>
 
 <div style="font-size: 0.95em; line-height: 1.8; margin-top: 30px; padding-top: 20px; border-top: 1px dashed #ccc;">
   
