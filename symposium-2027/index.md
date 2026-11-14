@@ -18,7 +18,7 @@ lang: jp
 
 <br>
 <br>
-登壇者：<br>
+<strong>登壇者：</strong><br>
 Sebastian BAUSCH（ベルン芸術大学）<br>
 Hermann GOTTSCHEWSKI（東京大学）<br>
 Laura GRANERO (ウィーン国立音楽大学)<br>
