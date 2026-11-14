@@ -17,11 +17,26 @@ lang: jp
 </div>
 
 
-主催 科学研究費 基盤研究(A)
-「サウンド・楽譜メディアを用いた演奏分析の深化：ショパンのマズルカを中心に」
-（2026年～2030年度、研究代表者：鷲野彰子）
-協力 九州大学芸術工学部音響設計コース音文化学講座
-国際音楽学会東アジア地域会第9回隔年国際会議（IMSEA 2027）
+
+<div style="font-size: 0.95em; line-height: 1.8; margin-top: 30px; padding-top: 20px; border-top: 1px dashed #ccc;">
+  
+  <div style="margin-bottom: 8px;">
+    <strong>【主　催】</strong>科学研究費 基盤研究(A)「サウンド・楽譜メディアを用いた演奏分析の深化：ショパンのマズルカを中心に」<br>
+    <span style="display: inline-block; margin-left: 5em; color: #555;">（2026年～2030年度、研究代表者：鷲野彰子）</span>
+  </div>
+
+
+  <div style="margin-bottom: 8px;">
+    <strong>【協　力】</strong>九州大学芸術工学部音響設計コース音文化学講座, 国際音楽学会東アジア地域会第9回隔年国際会議（IMSEA 2027）
+  </div>
+
+  <div>
+    <strong>【問合せ】</strong><a href="mailto:washino@fukuoka-pu.ac.jp">washino@fukuoka-pu.ac.jp</a>
+  </div>
+
+</div>
+
+
 <br>
 ※詳細が決まり次第、情報を更新します。
 
