@@ -47,7 +47,7 @@ lang: jp
 <div class="event-box">
   <strong>日時：</strong>2027年3月8日（月）10:00開始（17:00頃終了予定）<br>
   <strong>会場：</strong>九州大学大橋キャンパス 322教室<br>
-  <span style="display: inline-block; margin-left: 5.5em; color: #555;"> 福岡県福岡市南区塩原４丁目９−１</span><br>
+    <span style="display: inline-block; margin-left: 3.5em; color: #555;">福岡県福岡市南区塩原4丁目9-1</span><br>
   <strong>言語：</strong>日本語・英語<br>
   
  <strong>参加自由・事前予約不要</strong><br>
