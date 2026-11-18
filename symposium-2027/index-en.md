@@ -56,8 +56,8 @@ Hiroko NISHIDA (Kyushu University)<br>
 Craig Stuart SAPP (The Fryderyk Chopin Institute)<br>
 Joyce TANG (Guildhall School of Music & Drama)<br>
 Yasushi UEDA (Kyoto University)<br>
-Kunio YAMAMOTO (Kyushu Institute of Technology)<br>
 Akiko WASHINO (Fukuoka Prefectural University)<br>
+Kunio YAMAMOTO (Kyushu Institute of Technology)<br>
 <br>
 
 <!-- 回り込みを解除するためのクリアタグ -->
