@@ -1,10 +1,10 @@
 ---
-title: Symposium "Decoding Chopin's Mazurkas: Intersecting Analyses, New Interpretations"
+title: "Symposium: Decoding Chopin's Mazurkas - Intersecting Analyses, New Interpretations"
 layout: default
 lang: en
 ---
 
-<!-- 右側のダウンロードエリア（英語版・日本語版チラシ ＆ プログラムノート） -->
+<!-- 右側のダウンロードエリア（英語版チラシ ＆ プログラムノート） -->
 <div style="float:right; width:260px; text-align:center; margin-left:20px; margin-bottom:20px;">
   
   <!-- 英語版チラシ枠 -->
@@ -12,17 +12,7 @@ lang: en
     <img src="20270308_Symposium_flyer_English.png" alt="Symposium Flyer (English)" style="width:100%; border:1px solid #ccc; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   </a>
   <p style="font-size: 0.85rem; margin-top: 6px; line-height: 1.4;">
-    Click image to open<br>Flyer (English, PDF).
-  </p>
-
-  <hr style="margin: 15px 0; border: none; border-top: 1px dashed #ccc;">
-
-  <!-- 日本語版チラシ枠 -->
-  <a target="_blank" href="20270308_Symposium_flyer_Japanese.pdf">
-    <img src="20270308_Symposium_flyer_Japanese.png" alt="Symposium Flyer (Japanese)" style="width:100%; border:1px solid #ccc; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  </a>
-  <p style="font-size: 0.85rem; margin-top: 6px; line-height: 1.4;">
-    Click image to open<br>Flyer (Japanese, PDF).
+    Click image to open<br>Symposium Flyer (PDF).
   </p>
 
   <hr style="margin: 15px 0; border: none; border-top: 1px dashed #ccc;">
@@ -38,7 +28,7 @@ lang: en
 </div>
 
 ### **Symposium "Decoding Chopin's Mazurkas: Intersecting Analyses, New Interpretations"**<br>
-[日本語](index.html)
+<a href="index.html">Japanese</a>
 
 This symposium is held as the kick-off event for our JSPS-funded research project on Chopin’s Mazurkas, which commenced this academic year. 
 By intersecting multidisciplinary approaches—including music theory, ethnomusicology, performance analysis, and big data analysis—this research explores new interpretive possibilities to get to the core of the works. 
@@ -66,9 +56,8 @@ Hiroko NISHIDA (Kyushu University)<br>
 Craig Stuart SAPP (The Fryderyk Chopin Institute)<br>
 Joyce TANG (Guildhall School of Music & Drama)<br>
 Yasushi UEDA (Kyoto University)<br>
-Akiko WASHINO (Fukuoka Prefectural University)<br>
 Kunio YAMAMOTO (Kyushu Institute of Technology)<br>
-
+Akiko WASHINO (Fukuoka Prefectural University)<br>
 <br>
 
 <!-- 回り込みを解除するためのクリアタグ -->
