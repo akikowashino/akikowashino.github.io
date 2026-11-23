@@ -72,7 +72,9 @@ Kunio YAMAMOTO (Kyushu Institute of Technology)<br>
 
 
   <div style="margin-bottom: 8px;">
-    <strong>[Co-organizer / Support]</strong> Sound Culture Course, Department of Acoustic Design, Faculty of Design, Kyushu University; The 9th Biennial International Conference of the ICTM Study Group on Music and Minorities (IMSEA 2027)
+    <strong>[Co-organizer / Support]</strong> Sound Culture Course, Department of Acoustic Design, Faculty of Design, Kyushu University; The Ninth Biennial Conference of the East Asian Association for the International Musicological
+Society (IMSEA 2027)
+
   </div>
 
   <div>
