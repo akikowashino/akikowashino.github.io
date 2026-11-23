@@ -66,7 +66,10 @@ Kunio YAMAMOTO (Kyushu Institute of Technology)<br>
 <div style="font-size: 0.95em; line-height: 1.8; margin-top: 30px; padding-top: 20px; border-top: 1px dashed #ccc;">
   
   <div style="margin-bottom: 8px;">
-    <strong>[Organizer]</strong> JSPS KAKENHI Grant-in-Aid for Scientific Research (A) "Deepening Performance Analysis Using Sound and Score Media: Focusing on Chopin’s Mazurkas"<br>
+    <strong>[Organizer]</strong> 
+    Grant-in-Aid for Scientific Research (A) "Deepening Performance Analysis Using Sound and Score Media:
+Focusing on Chopin's Mazurkas" 
+    <br>
     <span style="display: inline-block; margin-left: 6.8em; color: #555;">(2026–2030, Principal Investigator: Akiko Washino)</span>
   </div>
 
