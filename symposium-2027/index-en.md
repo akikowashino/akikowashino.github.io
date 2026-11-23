@@ -75,7 +75,7 @@ Focusing on Chopin's Mazurkas"
 
 
   <div style="margin-bottom: 8px;">
-    <strong>[Co-organizer / Support]</strong> Sound Culture Course, Department of Acoustic Design, Faculty of Design, Kyushu University; The Ninth Biennial Conference of the East Asian Association for the International Musicological
+    <strong>[Co-organizer / Support]</strong> Kyushu University Faculty of Design, Department of Acoustic Design, Sound Culture Course; The Ninth Biennial Conference of the East Asian Association for the International Musicological
 Society (IMSEA 2027)
 
   </div>
